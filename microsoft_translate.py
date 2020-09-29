@@ -15,8 +15,8 @@ def get_languages():
 
 def get_translation():
     url = "https://microsoft-azure-translation-v1.p.rapidapi.com/translate"
-
-    querystring = {"from":"en","to":"ja","text":"Hello%2C world!"}
+    text = "hello world"
+    querystring = {"from":"en","to":"ja","text":text}
 
     headers = {
         'x-rapidapi-host': "microsoft-azure-translation-v1.p.rapidapi.com",

@@ -1,264 +1,264 @@
 {
     "articles": [
         {
+            "author": null,
+            "content": "WebZ101421 \r\n THE NEXT CHAPTERZ 7IIZ 6II- Z - \r\n Z 7/Z 62018725\"\"823Z 7928Z 61123",
+            "description": "株式会社ニコンイメージングジャパンのWebサイトに、ミラーレスカメラのZシリーズ新製品を示唆するページが開設された。日本時間の10月14日21時という記述があり、昨今の各社傾向を踏まえると、そのタイミングで何らかの発表があると思われる。",
+            "publishedAt": "2020-09-29T12:38:10Z",
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "title": "ニコン公式サイトに「Z 7II」 「Z 6II」の文字。\"10月14日21時\"を予告 - デジカメ Watch",
+            "url": "https://dc.watch.impress.co.jp/docs/news/1279844.html",
+            "urlToImage": "https://dc.watch.impress.co.jp/img/dcw/list/1279/844/00.jpg"
+        },
+        {
+            "author": "Impress Watch",
+            "content": "- - - - - - - - Copyright © 2020 Impress Corporation, An impress Group Company. \r\nCopyright © 2020 Yahoo Japan Corporation. All Rights Reserved.",
+            "description": "アマゾンジャパンは、10月13日～14日の期間でアマゾンプライムデーを開催する。",
+            "publishedAt": "2020-09-29T12:09:11Z",
+            "source": {
+                "id": null,
+                "name": "Yahoo.co.jp"
+            },
+            "title": "アマゾン、大規模セールの「プライムデー」を10月13日～14日に開催（Impress Watch） - Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/articles/14d57f65e93b43cf599c8f8df582894ff8b80d97",
+            "urlToImage": "https://amd.c.yimg.jp/amd/20200929-00000141-impress-000-1-view.jpg"
+        },
+        {
+            "author": null,
+            "content": null,
+            "description": null,
+            "publishedAt": "2020-09-29T12:03:04Z",
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "title": "【モンストLIVE配信 】超究極！紅蓮、暁を初見で攻略！【なうしろ】 - なうしろ - GameWith",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RzFsVzBpVXp3Zm_SAQA?oc=5",
+            "urlToImage": null
+        },
+        {
+            "author": null,
+            "content": null,
+            "description": null,
+            "publishedAt": "2020-09-29T11:19:28Z",
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "title": "パズドラ公式放送～大感謝祭2020発表SP～ - パズドラ公式チャンネル",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cXEyMUpwaUFHM0XSAQA?oc=5",
+            "urlToImage": null
+        },
+        {
+            "author": null,
+            "content": null,
+            "description": null,
+            "publishedAt": "2020-09-29T10:35:20Z",
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "title": "iOS14の新機能で「iPhoneだけだよ！」ショートカット作る - ギズモード・ジャパン",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZDg4YnRNOWhqbjDSAQA?oc=5",
+            "urlToImage": null
+        },
+        {
+            "author": "@GIGAZINE",
+            "content": null,
+            "description": "セキュリティ企業Avastに勤めるエンジニアのMartin Hron氏が、IoT対応の旧型コーヒーメーカーをハッキングして、「コーヒー生成システムの操作権限を奪取して、電子パネルに身代金メッセージを表示させる」ことに成功し、IoTデバイスの危険性を立証しました。乗っ取られたコーヒーメーカーの抽出口から熱湯が噴出し、コーヒーミルは永遠に回転し続けるという状態になる……という様子がムービーで示されています。",
+            "publishedAt": "2020-09-29T10:07:30Z",
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "title": "Wi-Fi接続対応のコーヒーメーカーは「ランサムウェアに感染して身代金を要求される」可能性がある - GIGAZINE",
+            "url": "https://gigazine.net/news/20200929-coffee-makers-demanding-ransom/",
+            "urlToImage": "https://i.gzn.jp/img/2020/09/29/coffee-makers-demanding-ransom/00.jpg"
+        },
+        {
+            "author": null,
+            "content": "Lenovo29()ThinkPadThinkPad X1 Nano202041,599 \r\n 1992ThinkPad907g11CoreEvo2.7220% \r\n 5G \r\n 11Core i716GB1TB SSDOSWindows 10 ProLinux2,160×1,350/ \r\n Thunderbolt 4×2Wi-FI 6Bluetooth 5.0HDWeb(IRThinkShut… [+34 chars]",
+            "description": "Lenovoは29日(米国時間)、ThinkPad史上最軽量となる「ThinkPad X1 Nano」を発表した。米国では2020年第4四半期に発売し、価格は1,599ドルより。日本での発売は未定。",
+            "publishedAt": "2020-09-29T10:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "title": "Lenovo、Tiger Lake搭載でシリーズ史上最軽量の「ThinkPad X1 Nano」 - PC Watch",
+            "url": "https://pc.watch.impress.co.jp/docs/news/1278763.html",
+            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1278/763/1.jpg"
+        },
+        {
+            "author": "4Gamer編集部",
+            "content": null,
+            "description": "アズールレーン アズールレーン   配信元 Yostar 配信日 2020/09/29    『アズールレーン』 Google Playのセールスランキングにて1位にランクイン！ 株式会社Yostarは、当社が運営しているスマートフォン向けアプリ『アズールレーン』において、Google Playのセールスランキングにて1位を記念してゲーム内アイテムを配布したことをお知らせします。  ■Google Playのセールスランキング1位獲得を記念してゲーム内アイテムをプレゼント！ …",
+            "publishedAt": "2020-09-29T08:29:54Z",
+            "source": {
+                "id": null,
+                "name": "4gamer.net"
+            },
+            "title": "「アズールレーン」，Google Playのセールスランキングにて1位を獲得 - 4Gamer.net",
+            "url": "https://www.4gamer.net/games/390/G039084/20200929064/",
+            "urlToImage": "https://www.4gamer.net/games/390/G039084/20200929064/TN/001.jpg"
+        },
+        {
+            "author": "本田雅一，ITmedia",
+            "content": null,
+            "description": "ハイエンドの「Apple Watch Series 6」か、スタンダードな「Apple Watch SE」か――。実機を1週間以上使い比べてみた上で、それぞれのモデルがどのようなユーザーに向いているのかをあらためて考える。",
+            "publishedAt": "2020-09-29T08:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Itmedia.co.jp"
+            },
+            "title": "「Apple Watch Series 6」「SE」はどちらを選ぶべきか 1週間使ってみた実感 - ITmedia",
+            "url": "https://www.itmedia.co.jp/pcuser/articles/2009/29/news116.html",
+            "urlToImage": "https://image.itmedia.co.jp/pcuser/articles/2009/29/cover_news116.jpg"
+        },
+        {
+            "author": "kihachi",
+            "content": "AppleEpic GamesEpic GamesEpic GamesEpic\r\nEpic GamesAppleGoogleEpic GamesAppleEpic GamesApp Store30%Apple30%PlayStationXboxNintendoAmazonWalmartBest BuyGoogleApple30%Epic Games\r\nAppleApp StoreApp Stor… [+111 chars]",
+            "description": "&nbsp;業界の今後を左右すると言っても過言ではないAppleとEpic Gamesとの裁判ですが、少なくとも現時点ではEpic Games側に不利な展開となっているようです。今回の審理では、ストア…",
+            "publishedAt": "2020-09-29T07:26:00Z",
+            "source": {
+                "id": null,
+                "name": "Iphone-mania.jp"
+            },
+            "title": "フォートナイト訴訟、判事がEpicの行動を非難〜Appleの言い分を支持 - iPhone Mania",
+            "url": "https://iphone-mania.jp/news-316209/",
+            "urlToImage": "https://d3a3a5e2ntl4bk.cloudfront.net/uploads/2020/08/f088293bbaf02ae1b9ba04e5a900664a00ec45566502507f5177eac872fef3db-e1597409522427.jpg"
+        },
+        {
+            "author": "共同通信",
+            "content": "NTT29NTTTOBTOB3011161390043UFJ",
+            "description": "NTTは、NTTドコモの完全子会社化に向け、株式公開買い付け（TOB）を実施すると発表した。TOB資金として最大4兆3千億円の融資を三菱UFJ銀行など六つの金融機関から受ける。",
+            "publishedAt": "2020-09-29T07:09:46Z",
+            "source": {
+                "id": null,
+                "name": "Yahoo.co.jp"
+            },
+            "title": "ドコモ子会社化 最大4.3兆円 - Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/pickup/6372339",
+            "urlToImage": "https://s.yimg.jp/images/jpnews/cre/common/all/images/fbico_ogp_1200x630.png"
+        },
+        {
+            "author": null,
+            "content": null,
+            "description": "au Webポータル",
+            "publishedAt": "2020-09-29T06:58:00Z",
+            "source": {
+                "id": null,
+                "name": "Auone.jp"
+            },
+            "title": "ドコモ社長交代 副社長が昇格 - auone.jp",
+            "url": "https://article.auone.jp/detail/1/3/6/11_6_r_20200929_1601362841385320",
+            "urlToImage": "https://portal.st-img.jp/thumb/28ad661a85d22067ac8df69d89585974_1601363402_l.jpg"
+        },
+        {
+            "author": null,
+            "content": "NTT 425009291702\r\nNTT29NTTNTT6634TOB\r\n42544\r\nNTT3GAFAIT6G\r\nNTT\r\nNTT\r\nUFJ3NTTNTT4",
+            "description": "NTTは、携帯電話事業を手がけるNTTドコモのすべての株式を取得して、完全子会社にすることを決めたと発表しました。ドコモ…",
+            "publishedAt": "2020-09-29T06:37:00Z",
+            "source": {
+                "id": null,
+                "name": "Nhk.or.jp"
+            },
+            "title": "NTT ドコモ完全子会社化発表 買収総額は4兆2544億円 - NHK NEWS WEB",
+            "url": "https://www3.nhk.or.jp/news/html/20200929/k10012639751000.html",
+            "urlToImage": "https://www3.nhk.or.jp/news/html/20200929/K10012639751_2009291530_2009291537_01_02.jpg"
+        },
+        {
+            "author": null,
+            "content": null,
+            "description": null,
+            "publishedAt": "2020-09-29T06:30:11Z",
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "title": "【モンスト】フラパ前にお金が無くなってしまいます！新限定ハレルヤ狙いで超獣神祭ガチャ！ - ファミ通App",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WlZwWVJUN0lyRnPSAQA?oc=5",
+            "urlToImage": null
+        },
+        {
+            "author": "saori",
+            "content": "machi-yaAtom X SlingNitendo Switch\r\n6\r\nImage: ALPAKA Gear LLC\r\nAtom X SlingRFID\r\nImage: ALPAKA Gear LLC\r\n2AirPods\r\n7Nintendo SwitchKindleKindle Paperwhite6\r\nImage: ALPAKA Gear LLC\r\nAtom X Sling\r\n 1\r\n… [+108 chars]",
+            "description": "軽量コンパクトで先進素材を採用した｢Atom X Sling｣は、毎日のハイテクギアの持ち運びに活躍するスリングバックです。",
+            "publishedAt": "2020-09-29T05:45:00Z",
+            "source": {
+                "id": null,
+                "name": "Lifehacker.jp"
+            },
+            "title": "スマホやiPadが持ち運びやすいスリングバッグ｢Atom X Sling｣のキャンペーンが間もなく終了 - GIZMODO JAPAN",
+            "url": "https://www.lifehacker.jp/2020/09/220455-machi-ya-atomxsling-end.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2020/09/28/FFF1787A-39D7-4C79-AD20-2403DB345202-w960.jpeg"
+        },
+        {
+            "author": "小暮ひさのり",
+            "content": null,
+            "description": "テレビでYouTubeを見たり、スマホの画面をキャストしたり、ストリーミングを楽しんだり。1台あるとテレビをグレードアップできて楽しくなるGoogleのChromecastですが、今買うのはちょい待って。GoogleはChromecastのリニューアル版を用意しているようです。というか、用意しています。",
+            "publishedAt": "2020-09-29T05:30:00Z",
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "title": "｢未発表のChromecast｣、ウォルマートでフライングゲットできたらしい - GIZMODO JAPAN",
+            "url": "https://www.gizmodo.jp/2020/09/chromecast-walmart-flying-get.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2020/09/29/200920xhk00-w960.jpg"
+        },
+        {
+            "author": "ワタナベロク",
+            "content": "RFEOS C70LUMIX S57S IIIEOS R5EOS C70\r\n60202011\r\nEOS C70CINEMA EOS SYSTEMRFRF4K35mm CMOS\r\n160×115.9×130.2mm(××)1,170gRFRONIN-S\r\nEF/EF-SEF CINEMA0.71\r\nCINEMA EOSEOSC70https://t.co/yvkSFr5EkO#canon#eos#… [+163 chars]",
+            "description": "キヤノンのシネマカメラ｢EOS C70｣は、キヤノンのフルサイズミラーレス用マウント｢RFマウント｣に対応したシネマカメラ。センサーは4Kスーパー35mm CMOSセンサーを搭載。市場予想価格は約60万円、発売予定日は2020年11月中旬。",
+            "publishedAt": "2020-09-29T05:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "title": "キヤノンからRFマウントのシネマカメラが来た！ - GIZMODO JAPAN",
+            "url": "https://www.gizmodo.jp/2020/09/canon-c70.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2020/09/29/product-body-w960.jpg"
+        },
+        {
+            "author": "ASCII",
+            "content": "ANCJabraJabra Elite 85tJabra Elite Active 75tJabra Elite 75tANC\r\nJabraJabra Eite 85t\r\nJabra Elite 85t111226800\r\n1Elite 75t10ANC\r\nJabraGNProduct Marketing ManagerFrederik Lilliehook",
+            "description": "ノイズキャンセリング機能を搭載する、Jabra初のイヤホン「Jabra Elite 85t」が発売。さらに販売中の「Jabra Elite Active 75t」と「Jabra Elite 75t」も、ANC対応に無償アップグレードするという知らせも届いた。",
+            "publishedAt": "2020-09-29T05:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Ascii.jp"
+            },
+            "title": "Jabra初のANC対応完全ワイヤレス、そして無償アップデートまで Elite 85t開発者インタビュー (1/4) - ASCII.jp",
+            "url": "https://ascii.jp/elem/000/004/028/4028097/",
+            "urlToImage": "https://ascii.jp/img/2020/09/27/3098932/l/8fbe6a4e27dc8dae.jpg?20200122"
+        },
+        {
+            "author": "FT729",
+            "content": "iPhone12 mini5.4iPhone 126.1128GB256GB64GBiPhone12/12 mini64GB\r\n5.4iPhone12 miniiPhone1264GB128GB256GB3\r\nApples first shipment of final iPhone 12 units is going out to distributers on October 5th\r\nTh… [+547 chars]",
+            "description": "&nbsp;iPhone12 mini（5.4インチ）とiPhone 12（6.1インチ）のストレージ容量は128GBと256GBになると予想されていましたが、ジョン・プロッサー氏によれば最小容量モデ…",
+            "publishedAt": "2020-09-29T05:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Iphone-mania.jp"
+            },
+            "title": "iPhone12/12 miniのストレージは64/128/256GB〜プロッサー氏 - iPhone Mania",
+            "url": "https://iphone-mania.jp/news-316196/",
+            "urlToImage": "https://d3a3a5e2ntl4bk.cloudfront.net/uploads/2020/09/iPhone12-launch-date.jpg"
+        },
+        {
             "author": "ITmedia",
-            "content": "JVC929teamnote CAMGY-TC100teamnoteWi-Fi10ECSquare10\r\nteamnoteteamnote SPORTSJVC CAM Coach 2\r\n40251CMOSHD4205V1A\r\n60×59.5×128mm306gIPX68IP5X1.5m10\r\nteamnote2018JVC\r\nCopyright © ITmedia, Inc. All Right… [+10 chars]",
-            "description": "JVCケンウッドがスポーツ専用をうたうビデオカメラ「teamnote CAM」を発売する。Wi-Fiを内蔵し、専用アプリを導入したスマホなどと連携する。",
-            "publishedAt": "2020-09-29T03:50:00Z",
+            "content": "3rdmiHoYo929PCPC\r\nmiHoYoPC4iOSAndroidRPG28RedditTwitterPCmhyprot2Twitter\r\nmiHoYo\r\nPC\r\nmiHoYomiHoYo\r\nCopyright © ITmedia, Inc. All Rights Reserved.",
+            "description": "中国miHoYoが、新作ゲーム「原神」PC版のアンチチートプログラムを、ゲームの終了後やアンインストール後に停止する仕様に変更した。当初は停止後も動き続ける仕様で、Twitterなどで「スパイウェアではないのか」と疑う声が出ていた。同社はこの疑惑を否定している。",
+            "publishedAt": "2020-09-29T04:23:00Z",
             "source": {
                 "id": null,
                 "name": "Itmedia.co.jp"
             },
-            "title": "スポーツ中継のようなスコア入りの映像が撮れるビデオカメラ、JVCケンウッドが発売 - ITmedia",
-            "url": "https://www.itmedia.co.jp/news/articles/2009/29/news090.html",
-            "urlToImage": "https://image.itmedia.co.jp/news/articles/2009/29/l_ts0153_jvc01.jpg"
-        },
-        {
-            "author": null,
-            "content": "}CN\\tg2020N929TCgA}CN\\tgAzureiAW[jT[rXFG[\\mBAzureTCgmFA{c",
-            "description": "�}�C�N���\\�t�g��2020�N9��29�������T�C�g��ŁA�}�C�N���\\�t�g��Azure�i�A�W���[���j�̃T�[�r�X�ŔF�؃G���[����������\\��������ƍ��m�����BAzure�����T�C�g�ォ���Ԃ�m�F����ƁA���{���ԁc",
-            "publishedAt": "2020-09-29T03:39:00Z",
-            "source": {
-                "id": null,
-                "name": "Nifty.com"
-            },
-            "title": "マイクロソフトで大規模障害｜ニフティニュース - ニフティニュース",
-            "url": "https://news.nifty.com/topics/jcast/200929435128/",
-            "urlToImage": "https://news.nifty.com/cms_image/news/technology/12144-808939/thumb-12144-808939-technology.jpg"
-        },
-        {
-            "author": "フジテレビ系（FNN）",
-            "content": "NTTNTT\r\n66.2TOB100\r\n4\r\n2929\r\nNTT5GNTT\r\n201824\r\n8EC",
-            "description": "NTTは、携帯電話大手のNTTドコモを完全子会社化する方針。\n\n現在、ドコモの66.2％の株式を保有しているが、TOB（株式公開買い付け）を実施し、100％の保有を目指す。\n\n買い付けの総額は、4兆",
-            "publishedAt": "2020-09-29T03:30:15Z",
-            "source": {
-                "id": null,
-                "name": "Yahoo.co.jp"
-            },
-            "title": "NTTが4兆円規模TOBでドコモを完全子会社化へ その狙いは?（フジテレビ系（FNN）） - Yahoo!ニュース",
-            "url": "https://news.yahoo.co.jp/articles/c1e862fb9606353a6ca38ac737b0a1f03b0cb02b",
-            "urlToImage": "https://amd.c.yimg.jp/im_sigg7wXkkaHoZhFSEzXsqIyQiQ---x640-y360-q90-exp3h-pril/amd/20200929-00189709-fnn-000-5-thumb.jpg"
-        },
-        {
-            "author": null,
-            "content": "282021Android 12Google PlayPlayGoogle Play \r\n Android2021Android 12Android \r\n PlayGoogle Play97Google PlayWeb \r\n AndroidAndroid \r\n Android2 \r\n Epic \r\n 1",
-            "description": "グーグルは28日（米国時間）、2021年にリリース予定の「Android 12」において、「Google Playストア」以外のアプリストアをさらに使いやすくすることを発表した。また、開発者に対して、Playストアで提供するアプリには、Google Playのアプリ内課金システムを利用するようルールを明確化した。",
-            "publishedAt": "2020-09-29T03:04:10Z",
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "title": "「Android 12」では、Playストア以外のアプリストアもさらに使いやすく - ケータイ Watch",
-            "url": "https://k-tai.watch.impress.co.jp/docs/news/1279650.html",
-            "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1279/650/01.jpg"
-        },
-        {
-            "author": null,
-            "content": null,
-            "description": "［２８日ロイター］ - 米マイクロソフト MSFT.O は２８日遅く、最近行った変更が原因とみられる障害で、「Ｍｉｃｒｏｓｏｆｔ３６５」の個人用メール「Ｏｕｔｌｏｏｋ．ｃｏｍ」やメッセージングの「Ｔｅａ",
-            "publishedAt": "2020-09-29T02:05:00Z",
-            "source": {
-                "id": null,
-                "name": "Livedoor.com"
-            },
-            "title": "「Microsoft365」のメールなどで障害が発生中 就職活動に影響との声も - livedoor",
-            "url": "https://news.livedoor.com/article/detail/18972487/",
-            "urlToImage": "https://image.news.livedoor.com/newsimage/stf/0/9/09151_769_223ee18c550ecc2209ba1e6b86857b99.jpg"
-        },
-        {
-            "author": null,
-            "content": "PCThinkPad X1 Fold \r\nThinkPad X1 Fold 13.3ELWindows 10 PC\r\nGallery: ThinkPad X1 Fold | of 18Photos\r\nPC\r\nPC13.3 2048 x 1536 EL(10) Core with Intel Hybrid Technology 8GB RAM512GB SSD973g 11.7(JEITA 2.0… [+401 chars]",
-            "description": "レノボが世界初の画面折り畳みPC、ThinkPad X1 Fold を正式に発表しました。",
-            "publishedAt": "2020-09-29T02:02:18Z",
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "title": "世界初の折り畳みPCは40万円。レノボThinkPad X1 Fold 10月13日発売 - Engadget日本版",
-            "url": "https://japanese.engadget.com/lenovo-x1-fold-world-1st-foldable-screen-pc-020225087.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-09/33e7afa0-01f1-11eb-bcde-4eef6556ba61"
-        },
-        {
-            "author": "@GIGAZINE",
-            "content": null,
-            "description": "日本時間10月1日午前3時から開催されるGoogleのグローバルイベント「Launch Night In」で正式発表されるとみられているGoogle製スマートフォン「Pixel 5」について、Google Japanが予約購入アナウンスを一足先に誤ってツイートしました。この誤ツイートによって、Pixel 5のデザインと日本販売価格が判明し、世界的に話題を呼んでいます。",
-            "publishedAt": "2020-09-29T01:35:00Z",
-            "source": {
-                "id": null,
-                "name": "Gigazine.net"
-            },
-            "title": "Google Japanが「Pixel 5」の情報をうっかりお漏らし、価格や本体デザインが判明してしまう - GIGAZINE",
-            "url": "https://gigazine.net/news/20200929-google-japan-showed-off-pixel-5/",
-            "urlToImage": "https://i.gzn.jp/img/2020/09/29/google-japan-showed-off-pixel-5/00.png"
-        },
-        {
-            "author": "多田文明",
-            "content": null,
-            "description": "謎の種送り付けに続いて、謎の中国語の国際電話が多くの人のところにかかってきています。その目的とは、何なのか。今後、注意すべきことは何か。解き明かします。",
-            "publishedAt": "2020-09-29T01:00:49Z",
-            "source": {
-                "id": null,
-                "name": "Yahoo.co.jp"
-            },
-            "title": "謎の種送り付けに続く、謎の中国語の国際電話、その正体が判明！？（多田文明） - Yahoo!ニュース - Yahoo!ニュース",
-            "url": "https://news.yahoo.co.jp/byline/tadafumiaki/20200929-00200586/",
-            "urlToImage": "https://newsbyl-pctr.c.yimg.jp/r/iwiz-amd/20200929-00200586-roupeiro-000-40-view.jpg"
-        },
-        {
-            "author": "ITmedia NEWS",
-            "content": "MicrosoftMicrosoft 3659296MicrosoftMicrosoft 365\r\nDowndetector.com\r\nMicrosofthttp://status.office.com\r\n925TeamsOne Drive",
-            "description": "米Microsoftの「Microsoft 365」で日本時間の9月29日午前6時半ごろから接続しにくい問題が発生している。Microsoftは公式アカウントで「複数のMicrosoft 365サ",
-            "publishedAt": "2020-09-29T00:44:47Z",
-            "source": {
-                "id": null,
-                "name": "Yahoo.co.jp"
-            },
-            "title": "「Microsoft 365」で障害発生 「トラフィックを再ルーティングし、原因究明中」（ITmedia NEWS） - Yahoo!ニュース",
-            "url": "https://news.yahoo.co.jp/articles/ec73adedd3fb9d0bd48da6792323232b173c06ce",
-            "urlToImage": "https://amd.c.yimg.jp/amd/20200929-00000036-zdn_n-000-1-view.jpg"
-        },
-        {
-            "author": "産経ニュース",
-            "content": "PR\r\nPR\r\nPR\r\n©2020 The Sankei Shimbun All rights reserved.",
-            "description": "警察庁は２９日、運転免許証更新時の「優良運転者講習」をオンライン化し、自宅のパソコンやスマートフォンで受講できる仕組みを取り入れる方針を決めた。来年秋以降、一部…",
-            "publishedAt": "2020-09-28T23:52:00Z",
-            "source": {
-                "id": null,
-                "name": "Sankei.com"
-            },
-            "title": "優良運転者に「オンライン講習」 来秋試験導入、ＡＩ解析も - 産経ニュース",
-            "url": "https://www.sankei.com/affairs/news/200929/afr2009290003-n1.html",
-            "urlToImage": "https://www.sankei.com/images/news/200929/afr2009290003-p1.jpg"
-        },
-        {
-            "author": "@GIGAZINE",
-            "content": null,
-            "description": "Firefoxに搭載されている実行時コンパイラ(JIT)が、11月にリリース予定のバージョン83から大幅に高速化されることがわかりました。バージョン83は記事作成時点ではNightly版で提供されています。",
-            "publishedAt": "2020-09-28T23:30:00Z",
-            "source": {
-                "id": null,
-                "name": "Gigazine.net"
-            },
-            "title": "FirefoxのJavaScriptエンジンが大幅に高速化される - GIGAZINE",
-            "url": "https://gigazine.net/news/20200929-firefox-jit-faster/",
-            "urlToImage": "https://i.gzn.jp/img/2020/09/28/firefox-jit-faster/00_m.png"
-        },
-        {
-            "author": null,
-            "content": "XiaomiRedmi Note 9SMi Note 10Mi Note 10\r\nRedmi Note 9SRedmi Note 9SRedmi Note 9SAmazon\r\nLTE\r\nXiaomi Redmi Note 9SLTE\r\nB1B2B345781819202628\r\nXiaomi Redmi Note 9SLTE\r\nB1B2B345782028\r\n181926318audocomoa… [+2287 chars]",
-            "description": "Xiaomiの『Redmi Note 9S』はグローバルモデルとして海外でも発売されています。日本で最初に発売された『Mi Note 10』に関しては、アップデートにより日本でスマートフォンを使用するのに必要となる『技適マーク』がデータ上で付与されました。つまり、発売されているのが海外であれど、中身の『Mi Note 10はグローバルモデルと同じ』という状態でした。 『Redmi Note 9S』",
-            "publishedAt": "2020-09-28T23:27:00Z",
-            "source": {
-                "id": null,
-                "name": "Evolves.biz"
-            },
-            "title": "Xiaomi Redmi Note 9Sのグローバルモデルと日本モデルは明らかな別物。Mi Note 10とは違う理由。 - ハイパーガジェット通信",
-            "url": "https://gadgets.evolves.biz/2020/09/28/redminote9s_minote10/",
-            "urlToImage": "https://gadgets.evolves.biz/wp-content/uploads/2020/09/redminote9ss-1024x1024.jpg"
-        },
-        {
-            "author": null,
-            "content": "Crystal LED\r\n80S-VHS80SD\r\n2127PROFEEL2785371002037\r\n373720VHS\r\n90SD43150LDS-VHS\r\nS/PARK\r\nJourney of Wonder()\r\n iPhoneRetinaQUALIA 004 \r\nQUALIA 004S/PARK\r\nS/PARKPCL16K21Another Wonderland()8K\r\nJourney… [+302 chars]",
-            "description": "港町、横浜。日本を代表するこの港湾都市は、近代以降様々な文化を洋の東西から取り入れながら、今なお時代の最先端を生み出し続けている。そんな横浜の気風濃いみなとみらい地区で「世界最高の画質体験が出来る」と聞きつけ、麻倉怜士氏は資生堂研究開発センター「S/PARK」へ。そこでは一面に広がる“ソニー製”南国の海の感動が、我々を待ち受けるのであった……。",
-            "publishedAt": "2020-09-28T23:00:00Z",
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "title": "ベータマックスから16Kへ、ソニー世界最大Crystal LEDに“高画質の明日”を見る - AV Watch",
-            "url": "https://av.watch.impress.co.jp/docs/series/asakura/1279603.html",
-            "urlToImage": "https://av.watch.impress.co.jp/img/avw/list/1279/603/P1111942.jpg"
-        },
-        {
-            "author": "@GIGAZINE",
-            "content": null,
-            "description": "太陽光発電をはじめとする再生可能エネルギーは、石炭火力発電による地球温暖化への影響を抑える手段として有望視されています。テクノロジー関連のブログ・IFOST Blogを運営するGreg Baker氏が、「太陽光発電の効率が上昇して十分に普及すると、『電気の消費者』が報酬を受け取る仕組みが誕生する可能性がある」と主張しています。",
-            "publishedAt": "2020-09-28T23:00:00Z",
-            "source": {
-                "id": null,
-                "name": "Gigazine.net"
-            },
-            "title": "太陽光発電が普及すると「電気を消費するほど報酬がもらえる」時代が来るかもしれない - GIGAZINE",
-            "url": "https://gigazine.net/news/20200929-solar-energy-pay-use-electricity/",
-            "urlToImage": "https://i.gzn.jp/img/2020/09/29/solar-energy-pay-use-electricity/00_m.jpg"
-        },
-        {
-            "author": null,
-            "content": "@\\VQK`~ZT[jqqAIIvAJ[hBTwittereg[}i@sabo_to_majB\r\n@\\VQvC[A~J[hK`ou~ZT[vBZT[A\\VQoAlZtB\r\n@Q[n}ljqA~ZT[CQ[qK`BX}z^bvBcOccBK`B\r\n@uvA[qBuL~B~ovpAg~hB\r\n@jqQ[AJ[hAAJ[hBJ[hAL~I\r\nFg[}i@sabo_to_maj\r\nCopyright ©… [+34 chars]",
-            "description": "���~�ȂƂ��قǏo��̂����A�J�[�h�B",
-            "publishedAt": "2020-09-28T22:30:00Z",
-            "source": {
-                "id": null,
-                "name": "Itmedia.co.jp"
-            },
-            "title": "ソシャゲのガチャ、物欲センサーで外れを引いたと思ったら…… 思わぬところでレアを引いた漫画にときめく - ねとらぼ",
-            "url": "https://nlab.itmedia.co.jp/nl/articles/2009/29/news018.html",
-            "urlToImage": "https://image.itmedia.co.jp/nl/articles/2009/29/l_kinjo_sabo_to_ma200904.jpg"
-        },
-        {
-            "author": "荻窪圭，ITmedia",
-            "content": "Z 5Z41APS-CZ 503\r\nZ 6/7675gZ 6\r\n20\r\nSD\r\nNikon Z 5Z\r\nZ 5Z\r\nZ 6/7XQDCF Express Type-BZ 5SD\r\nZ 6/720/Z 54.5/\r\nZ 6/7Z 6/7\r\nEVF\r\nCopyright © ITmedia, Inc. All Rights Reserved.",
-            "description": "ニコン「Zシリーズ」のスタンダードモデル「Nikon Z 5」が20万円を切る魅力的な価格で登場した。注目のポイントは、何を削り、何を残したか。そこにニコンらしさがあった。",
-            "publishedAt": "2020-09-28T22:00:00Z",
-            "source": {
-                "id": null,
-                "name": "Itmedia.co.jp"
-            },
-            "title": "一緒に外出したくなる軽快カメラ、ニコン「Z 5」 価格は下げてもファインダーに妥協なし - ITmedia",
-            "url": "https://www.itmedia.co.jp/news/articles/2009/29/news043.html",
-            "urlToImage": "https://image.itmedia.co.jp/news/articles/2009/29/l_ts0153_z5nikon01.jpg"
-        },
-        {
-            "author": "石野 純也",
-            "content": null,
-            "description": "ウィジェットをホーム画面に並べられるようになり、見た目を一新したiOS 14の配信がついに始まった。今年は、例年よりiPhoneの投入が遅れることがすでに告知されているが、OSのバージョンアップはスケジュールが変…",
-            "publishedAt": "2020-09-28T20:45:00Z",
-            "source": {
-                "id": null,
-                "name": "Toyokeizai.net"
-            },
-            "title": "iPhone｢最新OS｣は見た目も使い勝手も大進化 - 東洋経済オンライン",
-            "url": "https://toyokeizai.net/articles/-/377186",
-            "urlToImage": "https://toyokeizai.net/mwimgs/e/2/-/img_e28ce9537c06bd133eaafab284725d3993882.jpg"
-        },
-        {
-            "author": "桃田 健史",
-            "content": null,
-            "description": "「やはりスバル、モノとしてものすごくよくできている一方で、どこか人間味がある」新型「レヴォーグ」の2020年10月15日発売を前に、同車のプロトタイプで次世代アイサイトの各種機能を実体験して、そう思った。最…",
-            "publishedAt": "2020-09-28T20:40:00Z",
-            "source": {
-                "id": null,
-                "name": "Toyokeizai.net"
-            },
-            "title": "次世代アイサイトを｢自動運転｣と呼ばないワケ - 東洋経済オンライン",
-            "url": "https://toyokeizai.net/articles/-/375808",
-            "urlToImage": "https://toyokeizai.net/mwimgs/1/f/-/img_1f92a3103af122fe437dced7c3a4ae04445798.jpg"
-        },
-        {
-            "author": "奥田 貫",
-            "content": null,
-            "description": "KDDIが放つ勝負手は吉と出るか――。携帯電話業界2位の同社は10月1日、傘下のUQコミュニケーションズが手がけるMVNO（仮想移動体通信事業者）のUQモバイルを吸収統合する。これでKDDIは、主力のauとUQモバイルの2…",
-            "publishedAt": "2020-09-28T20:00:00Z",
-            "source": {
-                "id": null,
-                "name": "Toyokeizai.net"
-            },
-            "title": "KDDIが今､｢UQモバイル｣を完全に取り込む思惑 - 東洋経済オンライン",
-            "url": "https://toyokeizai.net/articles/-/378158",
-            "urlToImage": "https://toyokeizai.net/mwimgs/3/f/-/img_3f2a2f5dcfb1aff1e2bbdd11764c18a1457841.jpg"
-        },
-        {
-            "author": "齋藤公二，＠IT",
-            "content": "COVID-19\r\n202047520WebPC\r\n514⾦2529Web10⼿10\r\n61COVID-19COVID-19Web1\r\n1\r\n2017SIer\r\n20204ICTCOVID-19\r\n3\r\n4833\r\n1000Microsoft ExcelWeb\r\n6767bot\r\nExcelkintonebot\r\nbot\r\nCopyright © ITmedia, Inc. All Rights… [+9 chars]",
-            "description": "コロナ禍の神戸市が情報公開を中心とした新しいサービスを次々と内製、リリースした。いずれのサービスも開発期間は約1週間。担当したのは、情報化戦略部の職員である元エンジニアだが、あえてコードを書かずに開発したという。その理由は何なのか――ローコード開発の利点と課題、生かし方などについて聞いた。",
-            "publishedAt": "2020-09-28T20:00:00Z",
-            "source": {
-                "id": null,
-                "name": "Atmarkit.co.jp"
-            },
-            "title": "コロナ禍で1日4万件の電話を9割減らしたサービスを1週間で内製――神戸市に入庁した元エンジニアが、書けるコードをあえて書かなかった理由 - @IT",
-            "url": "https://www.atmarkit.co.jp/ait/articles/2009/24/news012.html",
-            "urlToImage": "https://image.itmedia.co.jp/ait/articles/2009/24/240_news012.jpg"
+            "title": "「原神」、ゲーム終了後は不正防止プログラムが停止する仕様に 開発元はスパイウェア疑惑を否定 - ITmedia",
+            "url": "https://www.itmedia.co.jp/news/articles/2009/29/news095.html",
+            "urlToImage": "https://image.itmedia.co.jp/news/articles/2009/29/cover_news095.jpg"
         }
     ],
     "status": "ok",

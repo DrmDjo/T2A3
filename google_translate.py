@@ -14,10 +14,10 @@ def get_languages():
 
     print(response.text)
 
-def get_translation():
+def get_translation(to_translate):
     url = "https://google-translate1.p.rapidapi.com/language/translate/v2"
-
-    payload = "source=en&q=Hello%2C%20world!&target=ja"
+    text = to_translate
+    payload = f"source=en&q={text}&target=ja"
     headers = {
         'x-rapidapi-host': "google-translate1.p.rapidapi.com",
         'x-rapidapi-key': "6923311cd5mshf40c236972f983dp1ac38ajsnbd57f09a852e",
@@ -27,7 +27,7 @@ def get_translation():
 
     response = requests.request("POST", url, data=payload, headers=headers)
 
-    print(response.text)
-    
-get_translation()
-get_languages()
+    #print(response.text)
+    return response.text
+#get_translation()
+#get_languages()

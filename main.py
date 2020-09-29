@@ -10,8 +10,7 @@ from os import system
 import json
 import kanji
 import news
-
-
+import google_translate
 
 def read_json(filename):
    with open(filename) as file:
@@ -87,7 +86,42 @@ def import_news():
        
         
     return news_list
+    
+def read_sentence_csv_file(file_name):
+    temp_file = file_name
+    temp_dict = {}
+    try:
+        with open(f"{temp_file}.csv", mode="r") as csv_file:
+            csv_reader = csv.DictReader(csv_file)
+            line_count = 0
 
+
+
+            for row,val in enumerate(csv_reader):
+                
+                temp_dict[row]= val
+
+                line_count += 1
+        #print(f"Processed {line_count} kanji.")
+        return temp_dict
+
+    except FileNotFoundError:
+        print("This file does not exist")
+    
+def import_sentence():
+    sentence_dict = read_sentence_csv_file("japanese_sentences")
+    sentence_list=[]
+    
+    for idx,val in enumerate(sentence_dict):
+        sentence = sentence_dict[idx]['num']
+        sentence_list.append(Sentence(sentence))
+        
+    return sentence_list
+    
+
+
+        
+        
 
     
             
@@ -141,11 +175,14 @@ class News:
         return self.content
         
 
-# class Sentence:
-#     def __init__(self,sentence,reading,meaning):
-#         self.sentence = sentence
-#         self.reading = reading
-#         self.meaning = meaning
+class Sentence:
+    def __init__(self,sentence):
+        self.sentence = sentence
+        
+    
+    def get_sentence (self):
+        return self.sentence
+        
 
 
 class Lesson:
@@ -206,19 +243,19 @@ def kanji_menu(main_kanji_list,count):
 
         if user_input.upper() =="N":
             kanji_counter +=1
-            kanji_menu(main_kanji_list,kanji_counter)
+            kanji_menu(kanji_list,kanji_counter)
         elif user_input.upper() =="P":
             kanji_counter -=1
-            kanji_menu(main_kanji_list,kanji_counter)
+            kanji_menu(kanji_list,kanji_counter)
         elif user_input.upper() =="R":
             
-            kanji_reading(main_kanji_list,kanji_counter)
+            kanji_reading(kanji_list,kanji_counter)
             
         elif user_input.upper() =="M":
-            kanji_meaning(main_kanji_list,kanji_counter)
+            kanji_meaning(kanji_list,kanji_counter)
             
         elif user_input.upper() =="E":
-            kanji_example(main_kanji_list,kanji_counter)
+            kanji_example(kanji_list,kanji_counter)
             
         elif user_input.upper() == "X":
             start()
@@ -256,9 +293,9 @@ def kanji_reading(main_kanji_list,count):
 
         """)
   
-    print(main_kanji_list[kanji_counter].get_character())
-    print(main_kanji_list[kanji_counter].get_kunyomi())
-    print(main_kanji_list[kanji_counter].get_onyomi())
+    print(kanji_list[kanji_counter].get_character())
+    print(kanji_list[kanji_counter].get_kunyomi())
+    print(kanji_list[kanji_counter].get_onyomi())
     
     user_input = ""
     while user_input not in ("N","n","R","r","M","m","E","e","X","x","Q","q"):
@@ -267,19 +304,19 @@ def kanji_reading(main_kanji_list,count):
 
         if user_input.upper() =="N":
             kanji_counter +=1
-            kanji_menu(main_kanji_list,kanji_counter)
+            kanji_menu(kanji_list,kanji_counter)
         elif user_input.upper() =="P":
             kanji_counter -=1
-            kanji_menu(main_kanji_list,kanji_counter)
+            kanji_menu(kanji_list,kanji_counter)
         elif user_input.upper() =="R":
             
-            kanji_reading(main_kanji_list,kanji_counter)
+            kanji_reading(kanji_list,kanji_counter)
             
         elif user_input.upper() =="M":
-            kanji_meaning(main_kanji_list,kanji_counter)
-            
+            kanji_meaning(kanji_list,kanji_counter)
+        
         elif user_input.upper() =="E":
-            kanji_example(main_kanji_list,kanji_counter)
+            kanji_example(kanji_list,kanji_counter)
             
         elif user_input.upper() == "X":
             start()
@@ -317,8 +354,8 @@ def kanji_meaning(main_kanji_list,count):
 
         """)
   
-    print(main_kanji_list[kanji_counter].get_character())
-    print(main_kanji_list[kanji_counter].get_meaning())
+    print(kanji_list[kanji_counter].get_character())
+    print(kanji_list[kanji_counter].get_meaning())
     
     user_input = ""
     while user_input not in ("N","n","R","r","M","m","E","e","X","x","Q","q"):
@@ -327,19 +364,19 @@ def kanji_meaning(main_kanji_list,count):
 
         if user_input.upper() =="N":
             kanji_counter +=1
-            kanji_menu(main_kanji_list,kanji_counter)
+            kanji_menu(kanji_list,kanji_counter)
         elif user_input.upper() =="P":
             kanji_counter -=1
-            kanji_menu(main_kanji_list,kanji_counter)
+            kanji_menu(kanji_list,kanji_counter)
         elif user_input.upper() =="R":
             
-            kanji_reading(main_kanji_list,kanji_counter)
+            kanji_reading(kanji_list,kanji_counter)
             
         elif user_input.upper() =="M":
-            kanji_meaning(main_kanji_list,kanji_counter)
+            kanji_meaning(kanji_list,kanji_counter)
             
         elif user_input.upper() =="E":
-            kanji_example(main_kanji_list,kanji_counter)
+            kanji_example(kanji_list,kanji_counter)
             
         elif user_input.upper() == "X":
             start()
@@ -375,9 +412,9 @@ def kanji_example(main_kanji_list,count):
 
         """)
   
-    print(main_kanji_list[kanji_counter].get_character())
-    print(main_kanji_list[kanji_counter].get_jp_example())
-    print(main_kanji_list[kanji_counter].get_eng_example())
+    print(kanji_list[kanji_counter].get_character())
+    print(kanji_list[kanji_counter].get_jp_example())
+    print(kanji_list[kanji_counter].get_eng_example())
     
     
     user_input = ""
@@ -387,19 +424,19 @@ def kanji_example(main_kanji_list,count):
 
         if user_input.upper() =="N":
             kanji_counter +=1
-            kanji_menu(main_kanji_list,kanji_counter)
+            kanji_menu(kanji_list,kanji_counter)
         elif user_input.upper() =="P":
             kanji_counter -=1
-            kanji_menu(main_kanji_list,kanji_counter)
+            kanji_menu(kanji_list,kanji_counter)
         elif user_input.upper() =="R":
             
-            kanji_reading(main_kanji_list,kanji_counter)
+            kanji_reading(kanji_list,kanji_counter)
             
         elif user_input.upper() =="M":
-            kanji_meaning(main_kanji_list,kanji_counter)
+            kanji_meaning(kanji_list,kanji_counter)
             
         elif user_input.upper() =="E":
-            kanji_example(main_kanji_list,kanji_counter)
+            kanji_example(kanji_list,kanji_counter)
             
         elif user_input.upper() == "X":
             start()
@@ -413,95 +450,161 @@ def kanji_example(main_kanji_list,count):
         
 
 
-def sentence_menu():
+def sentence_menu(main_sentence_list,count):
+    sentence_list = main_sentence_list
+    sentence_counter = count
+    
     _ = system('clear')
+    breadcrumb = "<HOME><SENTENCE>"
+    print(breadcrumb)
+    
     print("""
 
+        SENTENCE MENU
         
-        You chose the Pracice Sentences
+       
+        M - Meaning <<<
         
-        The Enthusiast route is here to learn those words, kanji and the rest that is really hard to find in any mainstream book, and not in your usual daily conversation.
-
-        CHOOSE FROM 
-
-        1 - TECHNOLOGY
-        2 - ENTERTAINMENT
-        3 - BUSINESS
-        4 - DIGITAL CREATIVE
-        5 - MADE BY HAND
+        
+        N - NEXT KANJI
+        P - PREVIOUS KANJI
     
         X - EXIT TO MAIN MENU
-
         Q - QUIT PROGRAM
-        
+
+
         """)
-
-    # user_input = ""
-    # while user_input not in ("1","2","3","4","5","X","x","Q","q"):
+  
+    print(sentence_list[sentence_counter].get_sentence())
     
-    #     user_input = input("Make your choice - ")
-
-    #     if user_input == "1":
-    #         tech_start()
-    #     elif user_input == "2":
-    #         entertainment_start()
-    #     elif user_input == "3":
-    #         biz_start()
-    #     elif user_input == "4":
-    #         digital_start()
-    #     elif user_input == "5":
-    #         handmade_start()        
-    #     elif user_input.upper() == "X":
-    #         start()
-    #     elif user_input.upper() == "Q":
-    #         sys.exit()
-    #     else:
-    #         print("Please try again ")
     
-def news_menu():
+    
+    user_input = ""
+    while user_input not in ("N","n","M","m","P","p","X","x","Q","q"):
+            
+        user_input = input("Make your choice - ")
+
+        if user_input.upper() =="N":
+            sentence_counter +=1
+            sentence_menu(sentence_list,sentence_counter)
+        elif user_input.upper() =="P":
+            sentence_counter -=1
+            sentence_menu(sentence_list,sentence_counter)
+        
+            
+        elif user_input.upper() =="M":
+            sentence_meaning(sentence_list,sentence_counter)
+            
+       
+        elif user_input.upper() == "X":
+            start()
+        elif user_input.upper() == "Q":
+            sys.exit()
+        else:
+            print("Please try again ")
+            
+            
+            
+def sentence_meaning(main_sentence_list,count):
+    sentence_list = main_sentence_list
+    sentence_counter = count
+    
+    _ = system('clear')
+    breadcrumb = "<HOME><SENTENCE>"
+    print(breadcrumb)
+    
+    print("""
+
+        SENTENCE MENU
+        
+       
+        M - Meaning <<<
+        
+        
+        N - NEXT KANJI
+        P - PREVIOUS KANJI
+    
+        X - EXIT TO MAIN MENU
+        Q - QUIT PROGRAM
+
+
+        """)
+    current_sentence =sentence_list[sentence_counter].get_sentence()
+    print(current_sentence)
+    sentence_meaning = google_translate.get_translation(current_sentence)
+    print(sentence_meaning)
+    
+    
+    user_input = ""
+    while user_input not in ("N","n","M","m","P","p","X","x","Q","q"):
+            
+        user_input = input("Make your choice - ")
+
+        if user_input.upper() =="N":
+            sentence_counter +=1
+            sentence_menu(sentence_list,sentence_counter)
+        elif user_input.upper() =="P":
+            sentence_counter -=1
+            sentence_menu(sentence_list,sentence_counter)
+        
+            
+        elif user_input.upper() =="M":
+            sentence_meaning(sentence_list,sentence_counter)
+            
+       
+        elif user_input.upper() == "X":
+            start()
+        elif user_input.upper() == "Q":
+            sys.exit()
+        else:
+            print("Please try again ")            
+            
+            
+            
+            
+    
+def news_menu(main_news_list, count):
+    news_list = main_news_list
+    news_counter = count
     _ = system('clear')
     print("""
 
         
         You chose the News Headlines
         
-        The Enthusiast route is here to learn those words, kanji and the rest that is really hard to find in any mainstream book, and not in your usual daily conversation.
-
-        CHOOSE FROM 
-
-        1 - TECHNOLOGY
-        2 - ENTERTAINMENT
-        3 - BUSINESS
-        4 - DIGITAL CREATIVE
-        5 - MADE BY HAND
+        N - NEXT KANJI
+        P - PREVIOUS KANJI
+        
     
         X - EXIT TO MAIN MENU
 
         Q - QUIT PROGRAM
         
         """)
-
-    # user_input = ""
-    # while user_input not in ("1","2","3","4","5","X","x","Q","q"):
+        
+    print(news_list[news_counter].get_author())
+    print(news_list[news_counter].get_title())
+    print(news_list[news_counter].get_content())
+    print(news_list[news_counter].get_publish_date())
     
-    #     user_input = input("Make your choice - ")
+    user_input = ""
+    while user_input not in ("N","n","P","p","X","x","Q","q"):
+    
+        user_input = input("Make your choice - ")
 
-    #     if user_input == "1":
-    #         tech_start()
-    #     elif user_input == "2":
-    #         entertainment_start()
-    #     elif user_input == "3":
-    #         biz_start()
-    #     elif user_input == "4":
-    #         digital_start()
-    #     elif user_input == "5":
-    #         handmade_start()        
-    #     elif user_input.upper() == "X":
-    #         start()
-    #     elif user_input.upper() == "Q":
-    #         sys.exit()
-    #     else:
-    #         print("Please try again ")
+        if user_input.upper() =="N":
+            news_counter +=1
+            news_menu(news_list,news_counter)
+        elif user_input.upper() =="P":
+            news_counter -=1
+            news_menu(news_list,news_counter)
+            
+        elif user_input.upper() == "X":
+            start()
+        elif user_input.upper() == "Q":
+            sys.exit()
+        else:
+            print("Please try again ")
         
 
 
@@ -509,6 +612,7 @@ def start():
     
     main_kanji_list = import_kanji()
     main_news_list = import_news()
+    main_sentence_list = import_sentence()
     _ = system('clear')
     
     
@@ -530,14 +634,14 @@ Welcome to your Japanese Reader
     while user_input not in ("K","k","S","s","N","n","Q","q"):
 
   
-        user_input = input("Make your choice - Press B or R ")
+        user_input = input("Make your choice - ")
 
         if user_input.upper() == "K":
             kanji_menu(main_kanji_list,0)
         elif user_input.upper() == "S":
-            sentence_menu()
+            sentence_menu(main_sentence_list,0)
         elif user_input.upper() == "N":
-            news_menu()
+            news_menu(main_news_list,0)
         elif user_input.upper() == "Q":
             sys.exit()
         else:
