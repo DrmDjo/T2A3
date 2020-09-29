@@ -1,6 +1,58 @@
 {
     "articles": [
         {
+            "author": "ITmedia",
+            "content": "JVC929teamnote CAMGY-TC100teamnoteWi-Fi10ECSquare10\r\nteamnoteteamnote SPORTSJVC CAM Coach 2\r\n40251CMOSHD4205V1A\r\n60×59.5×128mm306gIPX68IP5X1.5m10\r\nteamnote2018JVC\r\nCopyright © ITmedia, Inc. All Right… [+10 chars]",
+            "description": "JVCケンウッドがスポーツ専用をうたうビデオカメラ「teamnote CAM」を発売する。Wi-Fiを内蔵し、専用アプリを導入したスマホなどと連携する。",
+            "publishedAt": "2020-09-29T03:50:00Z",
+            "source": {
+                "id": null,
+                "name": "Itmedia.co.jp"
+            },
+            "title": "スポーツ中継のようなスコア入りの映像が撮れるビデオカメラ、JVCケンウッドが発売 - ITmedia",
+            "url": "https://www.itmedia.co.jp/news/articles/2009/29/news090.html",
+            "urlToImage": "https://image.itmedia.co.jp/news/articles/2009/29/l_ts0153_jvc01.jpg"
+        },
+        {
+            "author": null,
+            "content": "}CN\\tg2020N929TCgA}CN\\tgAzureiAW[jT[rXFG[\\mBAzureTCgmFA{c",
+            "description": "�}�C�N���\\�t�g��2020�N9��29�������T�C�g��ŁA�}�C�N���\\�t�g��Azure�i�A�W���[���j�̃T�[�r�X�ŔF�؃G���[����������\\��������ƍ��m�����BAzure�����T�C�g�ォ���Ԃ�m�F����ƁA���{���ԁc",
+            "publishedAt": "2020-09-29T03:39:00Z",
+            "source": {
+                "id": null,
+                "name": "Nifty.com"
+            },
+            "title": "マイクロソフトで大規模障害｜ニフティニュース - ニフティニュース",
+            "url": "https://news.nifty.com/topics/jcast/200929435128/",
+            "urlToImage": "https://news.nifty.com/cms_image/news/technology/12144-808939/thumb-12144-808939-technology.jpg"
+        },
+        {
+            "author": "フジテレビ系（FNN）",
+            "content": "NTTNTT\r\n66.2TOB100\r\n4\r\n2929\r\nNTT5GNTT\r\n201824\r\n8EC",
+            "description": "NTTは、携帯電話大手のNTTドコモを完全子会社化する方針。\n\n現在、ドコモの66.2％の株式を保有しているが、TOB（株式公開買い付け）を実施し、100％の保有を目指す。\n\n買い付けの総額は、4兆",
+            "publishedAt": "2020-09-29T03:30:15Z",
+            "source": {
+                "id": null,
+                "name": "Yahoo.co.jp"
+            },
+            "title": "NTTが4兆円規模TOBでドコモを完全子会社化へ その狙いは?（フジテレビ系（FNN）） - Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/articles/c1e862fb9606353a6ca38ac737b0a1f03b0cb02b",
+            "urlToImage": "https://amd.c.yimg.jp/im_sigg7wXkkaHoZhFSEzXsqIyQiQ---x640-y360-q90-exp3h-pril/amd/20200929-00189709-fnn-000-5-thumb.jpg"
+        },
+        {
+            "author": null,
+            "content": "282021Android 12Google PlayPlayGoogle Play \r\n Android2021Android 12Android \r\n PlayGoogle Play97Google PlayWeb \r\n AndroidAndroid \r\n Android2 \r\n Epic \r\n 1",
+            "description": "グーグルは28日（米国時間）、2021年にリリース予定の「Android 12」において、「Google Playストア」以外のアプリストアをさらに使いやすくすることを発表した。また、開発者に対して、Playストアで提供するアプリには、Google Playのアプリ内課金システムを利用するようルールを明確化した。",
+            "publishedAt": "2020-09-29T03:04:10Z",
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "title": "「Android 12」では、Playストア以外のアプリストアもさらに使いやすく - ケータイ Watch",
+            "url": "https://k-tai.watch.impress.co.jp/docs/news/1279650.html",
+            "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1279/650/01.jpg"
+        },
+        {
             "author": null,
             "content": null,
             "description": "［２８日ロイター］ - 米マイクロソフト MSFT.O は２８日遅く、最近行った変更が原因とみられる障害で、「Ｍｉｃｒｏｓｏｆｔ３６５」の個人用メール「Ｏｕｔｌｏｏｋ．ｃｏｍ」やメッセージングの「Ｔｅａ",
@@ -15,29 +67,16 @@
         },
         {
             "author": null,
-            "content": null,
-            "description": "レノボ・ジャパン株式会社は、世界初となる折りたたみ有機ELディスプレイ搭載デバイス「ThinkPad X1 Fold」を10月13日に発売する。税別直販価格は363,000円より。",
-            "publishedAt": "2020-09-29T02:00:00Z",
+            "content": "PCThinkPad X1 Fold \r\nThinkPad X1 Fold 13.3ELWindows 10 PC\r\nGallery: ThinkPad X1 Fold | of 18Photos\r\nPC\r\nPC13.3 2048 x 1536 EL(10) Core with Intel Hybrid Technology 8GB RAM512GB SSD973g 11.7(JEITA 2.0… [+401 chars]",
+            "description": "レノボが世界初の画面折り畳みPC、ThinkPad X1 Fold を正式に発表しました。",
+            "publishedAt": "2020-09-29T02:02:18Z",
             "source": {
-                "id": null,
-                "name": "Impress.co.jp"
+                "id": "engadget",
+                "name": "Engadget"
             },
-            "title": "レノボ、折りたたみ有機EL搭載パソコン「ThinkPad X1 Fold」を10月13日に発売 - PC Watch",
-            "url": "https://pc.watch.impress.co.jp/docs/news/1278746.html",
-            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1278/746/tn.jpg"
-        },
-        {
-            "author": null,
-            "content": "FRONTIERRyzenGX \r\n 3RyzenB550BTOGeForce RTX 3080 \r\n CPURyzen 5 36008GB240GB SSDGeForce GTX 165084,800 \r\n CPURyzen 7 3700X16GB500GB NVMe SSD+1TB HDDGeForce GTX 1660 SUPER119,800 \r\n CPURyzen 9 3900X16G… [+43 chars]",
-            "description": "FRONTIERは、Ryzenを搭載したマイクロタワーパソコン「GX」シリーズを発売した。",
-            "publishedAt": "2020-09-29T02:00:00Z",
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "title": "FRONTIER、GeForce RTX 3080搭載可能なRyzenマイクロタワー - PC Watch",
-            "url": "https://pc.watch.impress.co.jp/docs/news/1279638.html",
-            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1279/638/1.jpg"
+            "title": "世界初の折り畳みPCは40万円。レノボThinkPad X1 Fold 10月13日発売 - Engadget日本版",
+            "url": "https://japanese.engadget.com/lenovo-x1-fold-world-1st-foldable-screen-pc-020225087.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-09/33e7afa0-01f1-11eb-bcde-4eef6556ba61"
         },
         {
             "author": "@GIGAZINE",
@@ -53,17 +92,30 @@
             "urlToImage": "https://i.gzn.jp/img/2020/09/29/google-japan-showed-off-pixel-5/00.png"
         },
         {
-            "author": null,
-            "content": "NVIDIA28()GeForceGeForce Game Ready Driver 456.55 \r\n 456.55Call of Duty: Modern WarfareCall of Duty: WarzoneReflexStar Wars: Squadrons \r\n GeForce RTX 30 \r\n GeForce RTX 3080/3090GPU",
-            "description": "米NVIDIAは28日(現地時間)、GeForce用ドライバ「GeForce Game Ready Driver 456.55」をリリースした。",
-            "publishedAt": "2020-09-29T01:12:23Z",
+            "author": "多田文明",
+            "content": null,
+            "description": "謎の種送り付けに続いて、謎の中国語の国際電話が多くの人のところにかかってきています。その目的とは、何なのか。今後、注意すべきことは何か。解き明かします。",
+            "publishedAt": "2020-09-29T01:00:49Z",
             "source": {
                 "id": null,
-                "name": "Impress.co.jp"
+                "name": "Yahoo.co.jp"
             },
-            "title": "NVIDIA、GeForce RTX 30シリーズ安定性向上ドライバ - PC Watch",
-            "url": "https://pc.watch.impress.co.jp/docs/news/1279629.html",
-            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1279/629/1.jpg"
+            "title": "謎の種送り付けに続く、謎の中国語の国際電話、その正体が判明！？（多田文明） - Yahoo!ニュース - Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/byline/tadafumiaki/20200929-00200586/",
+            "urlToImage": "https://newsbyl-pctr.c.yimg.jp/r/iwiz-amd/20200929-00200586-roupeiro-000-40-view.jpg"
+        },
+        {
+            "author": "ITmedia NEWS",
+            "content": "MicrosoftMicrosoft 3659296MicrosoftMicrosoft 365\r\nDowndetector.com\r\nMicrosofthttp://status.office.com\r\n925TeamsOne Drive",
+            "description": "米Microsoftの「Microsoft 365」で日本時間の9月29日午前6時半ごろから接続しにくい問題が発生している。Microsoftは公式アカウントで「複数のMicrosoft 365サ",
+            "publishedAt": "2020-09-29T00:44:47Z",
+            "source": {
+                "id": null,
+                "name": "Yahoo.co.jp"
+            },
+            "title": "「Microsoft 365」で障害発生 「トラフィックを再ルーティングし、原因究明中」（ITmedia NEWS） - Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/articles/ec73adedd3fb9d0bd48da6792323232b173c06ce",
+            "urlToImage": "https://amd.c.yimg.jp/amd/20200929-00000036-zdn_n-000-1-view.jpg"
         },
         {
             "author": "産経ニュース",
@@ -105,6 +157,19 @@
             "urlToImage": "https://gadgets.evolves.biz/wp-content/uploads/2020/09/redminote9ss-1024x1024.jpg"
         },
         {
+            "author": null,
+            "content": "Crystal LED\r\n80S-VHS80SD\r\n2127PROFEEL2785371002037\r\n373720VHS\r\n90SD43150LDS-VHS\r\nS/PARK\r\nJourney of Wonder()\r\n iPhoneRetinaQUALIA 004 \r\nQUALIA 004S/PARK\r\nS/PARKPCL16K21Another Wonderland()8K\r\nJourney… [+302 chars]",
+            "description": "港町、横浜。日本を代表するこの港湾都市は、近代以降様々な文化を洋の東西から取り入れながら、今なお時代の最先端を生み出し続けている。そんな横浜の気風濃いみなとみらい地区で「世界最高の画質体験が出来る」と聞きつけ、麻倉怜士氏は資生堂研究開発センター「S/PARK」へ。そこでは一面に広がる“ソニー製”南国の海の感動が、我々を待ち受けるのであった……。",
+            "publishedAt": "2020-09-28T23:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "title": "ベータマックスから16Kへ、ソニー世界最大Crystal LEDに“高画質の明日”を見る - AV Watch",
+            "url": "https://av.watch.impress.co.jp/docs/series/asakura/1279603.html",
+            "urlToImage": "https://av.watch.impress.co.jp/img/avw/list/1279/603/P1111942.jpg"
+        },
+        {
             "author": "@GIGAZINE",
             "content": null,
             "description": "太陽光発電をはじめとする再生可能エネルギーは、石炭火力発電による地球温暖化への影響を抑える手段として有望視されています。テクノロジー関連のブログ・IFOST Blogを運営するGreg Baker氏が、「太陽光発電の効率が上昇して十分に普及すると、『電気の消費者』が報酬を受け取る仕組みが誕生する可能性がある」と主張しています。",
@@ -119,29 +184,42 @@
         },
         {
             "author": null,
-            "content": "Crystal LED\r\n80S-VHS80SD\r\n2127PROFEEL2785371002037\r\n373720VHS\r\n90SD43150LDS-VHS\r\nS/PARK\r\nJourney of Wonder()\r\n iPhoneRetinaQUALIA 004 \r\nQUALIA 004S/PARK\r\nS/PARKPCL16K21Another Wonderland()8K\r\nJourney… [+302 chars]",
-            "description": "港町、横浜。日本を代表するこの港湾都市は、近代以降様々な文化を洋の東西から取り入れながら、今なお時代の最先端を生み出し続けている。そんな横浜の気風濃いみなとみらい地区で「世界最高の画質体験が出来る」と聞きつけ、麻倉怜士氏は資生堂研究開発センター「S/PARK」へ。そこでは一面に広がる“ソニー製”南国の海の感動が、我々を待ち受けるのであった……。",
-            "publishedAt": "2020-09-28T23:00:00Z",
+            "content": "@\\VQK`~ZT[jqqAIIvAJ[hBTwittereg[}i@sabo_to_majB\r\n@\\VQvC[A~J[hK`ou~ZT[vBZT[A\\VQoAlZtB\r\n@Q[n}ljqA~ZT[CQ[qK`BX}z^bvBcOccBK`B\r\n@uvA[qBuL~B~ovpAg~hB\r\n@jqQ[AJ[hAAJ[hBJ[hAL~I\r\nFg[}i@sabo_to_maj\r\nCopyright ©… [+34 chars]",
+            "description": "���~�ȂƂ��قǏo��̂����A�J�[�h�B",
+            "publishedAt": "2020-09-28T22:30:00Z",
             "source": {
                 "id": null,
-                "name": "Impress.co.jp"
+                "name": "Itmedia.co.jp"
             },
-            "title": "ベータマックスから16Kへ、ソニー世界最大Crystal LEDに“高画質の明日”を見る - AV Watch",
-            "url": "https://av.watch.impress.co.jp/docs/series/asakura/1279603.html",
-            "urlToImage": "https://av.watch.impress.co.jp/img/avw/list/1279/603/P1111942.jpg"
+            "title": "ソシャゲのガチャ、物欲センサーで外れを引いたと思ったら…… 思わぬところでレアを引いた漫画にときめく - ねとらぼ",
+            "url": "https://nlab.itmedia.co.jp/nl/articles/2009/29/news018.html",
+            "urlToImage": "https://image.itmedia.co.jp/nl/articles/2009/29/l_kinjo_sabo_to_ma200904.jpg"
         },
         {
-            "author": "共同通信",
-            "content": null,
-            "description": "実在しない国際電話番号から国内携帯電話への着信が、今月に入り急増したことが29日分かった。通話に中国語が使われ、在日中国人を狙った「振り込め詐欺」とみられるが、日本人への着信も多い。秋田市では40",
-            "publishedAt": "2020-09-28T20:57:29Z",
+            "author": "荻窪圭，ITmedia",
+            "content": "Z 5Z41APS-CZ 503\r\nZ 6/7675gZ 6\r\n20\r\nSD\r\nNikon Z 5Z\r\nZ 5Z\r\nZ 6/7XQDCF Express Type-BZ 5SD\r\nZ 6/720/Z 54.5/\r\nZ 6/7Z 6/7\r\nEVF\r\nCopyright © ITmedia, Inc. All Rights Reserved.",
+            "description": "ニコン「Zシリーズ」のスタンダードモデル「Nikon Z 5」が20万円を切る魅力的な価格で登場した。注目のポイントは、何を削り、何を残したか。そこにニコンらしさがあった。",
+            "publishedAt": "2020-09-28T22:00:00Z",
             "source": {
                 "id": null,
-                "name": "Yahoo.co.jp"
+                "name": "Itmedia.co.jp"
             },
-            "title": "実在しない国番号から着信 詐欺目的、400万円被害も（共同通信） - Yahoo!ニュース",
-            "url": "https://news.yahoo.co.jp/articles/26606d97fbbe5a6460b7dfdfa0fe9bc05f59e91e",
-            "urlToImage": "https://amd.c.yimg.jp/amd/20200929-00000011-kyodonews-000-11-view.jpg"
+            "title": "一緒に外出したくなる軽快カメラ、ニコン「Z 5」 価格は下げてもファインダーに妥協なし - ITmedia",
+            "url": "https://www.itmedia.co.jp/news/articles/2009/29/news043.html",
+            "urlToImage": "https://image.itmedia.co.jp/news/articles/2009/29/l_ts0153_z5nikon01.jpg"
+        },
+        {
+            "author": "石野 純也",
+            "content": null,
+            "description": "ウィジェットをホーム画面に並べられるようになり、見た目を一新したiOS 14の配信がついに始まった。今年は、例年よりiPhoneの投入が遅れることがすでに告知されているが、OSのバージョンアップはスケジュールが変…",
+            "publishedAt": "2020-09-28T20:45:00Z",
+            "source": {
+                "id": null,
+                "name": "Toyokeizai.net"
+            },
+            "title": "iPhone｢最新OS｣は見た目も使い勝手も大進化 - 東洋経済オンライン",
+            "url": "https://toyokeizai.net/articles/-/377186",
+            "urlToImage": "https://toyokeizai.net/mwimgs/e/2/-/img_e28ce9537c06bd133eaafab284725d3993882.jpg"
         },
         {
             "author": "桃田 健史",
@@ -170,95 +248,17 @@
             "urlToImage": "https://toyokeizai.net/mwimgs/3/f/-/img_3f2a2f5dcfb1aff1e2bbdd11764c18a1457841.jpg"
         },
         {
-            "author": null,
-            "content": "NTT 929130",
-            "description": "NTTは、携帯電話事業を手がけるNTTドコモのすべての株式を取得して、完全子会社にする方針を固めました。一般株主などから…",
-            "publishedAt": "2020-09-28T16:30:15Z",
+            "author": "齋藤公二，＠IT",
+            "content": "COVID-19\r\n202047520WebPC\r\n514⾦2529Web10⼿10\r\n61COVID-19COVID-19Web1\r\n1\r\n2017SIer\r\n20204ICTCOVID-19\r\n3\r\n4833\r\n1000Microsoft ExcelWeb\r\n6767bot\r\nExcelkintonebot\r\nbot\r\nCopyright © ITmedia, Inc. All Rights… [+9 chars]",
+            "description": "コロナ禍の神戸市が情報公開を中心とした新しいサービスを次々と内製、リリースした。いずれのサービスも開発期間は約1週間。担当したのは、情報化戦略部の職員である元エンジニアだが、あえてコードを書かずに開発したという。その理由は何なのか――ローコード開発の利点と課題、生かし方などについて聞いた。",
+            "publishedAt": "2020-09-28T20:00:00Z",
             "source": {
                 "id": null,
-                "name": "Nhk.or.jp"
+                "name": "Atmarkit.co.jp"
             },
-            "title": "NTTがドコモの完全子会社化の方針固める すべての株式取得へ - NHK NEWS WEB",
-            "url": "https://www3.nhk.or.jp/news/html/20200929/k10012639031000.html",
-            "urlToImage": "https://www3.nhk.or.jp/news/html/20200929/K10012639031_2009290146_2009290157_01_02.jpg"
-        },
-        {
-            "author": "日本経済新聞社",
-            "content": "IT\r\n2020/9/28 23:59 (2020/9/29 1:30)\r\nNTTNTT3TOB4TOB5GIoT\r\nNTT66.2%34",
-            "description": "■一般株主が持つ３割強の株式を取得する■グループ一体で投資し世界で成長■菅首相が掲げる携帯料金値下げも見据える",
-            "publishedAt": "2020-09-28T14:59:00Z",
-            "source": {
-                "id": null,
-                "name": "Nikkei.com"
-            },
-            "title": "NTT、ドコモを完全子会社化 TOB4兆円超 - 日本経済新聞",
-            "url": "https://www.nikkei.com/article/DGXMZO64352350Y0A920C2MM8000/",
-            "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXMZO6435222028092020I00002-KB2.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=scale&h=500&ixlib=java-1.2.0&s=d6fbc4284d9bac8ddf407a90f3bfaa75"
-        },
-        {
-            "author": "ライフハッカー［日本版］",
-            "content": "RAMRAMRAMRAM\r\nRAMRandom Access MemoryOSRAM\r\nRAMRAM",
-            "description": "RAMとは、パソコン内の重要な要素だというのはおそらくご存知でしょう。しかし、自分に本当に必要なRAMはどれくらいかはわかるでしょうか？",
-            "publishedAt": "2020-09-28T13:11:02Z",
-            "source": {
-                "id": null,
-                "name": "Yahoo.co.jp"
-            },
-            "title": "ユーザー別パソコンに適切なメモリ容量（RAM）を確認する方法（ライフハッカー［日本版］） - Yahoo!ニュース",
-            "url": "https://news.yahoo.co.jp/articles/9906b6c65c33284117ab608459f0ae3721999aa8",
-            "urlToImage": "https://amd.c.yimg.jp/amd/20200928-00000006-biz_lifeh-000-1-view.jpg"
-        },
-        {
-            "author": "ブラボー成田",
-            "content": null,
-            "description": "本記事は、モンストで今週すべきことをまとめてみました。 ぜひ迷った時はこちらを参考にしてみてください！",
-            "publishedAt": "2020-09-28T12:27:00Z",
-            "source": {
-                "id": null,
-                "name": "Appbank.net"
-            },
-            "title": "【モンスト】オーブ温存できると思うなよ? 年に1度の大型イベント開催!【今週やることまとめ】 - AppBank.net",
-            "url": "https://www.appbank.net/2020/09/28/iphone-application/1969328.php",
-            "urlToImage": "https://imgc.appbank.net/c/wp-content/uploads/2020/09/2020-09-28.jpg"
-        },
-        {
-            "author": null,
-            "content": null,
-            "description": null,
-            "publishedAt": "2020-09-28T12:00:09Z",
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "title": "【超・獣神祭限定新キャラ】ハレルヤ使ってみた！新アビリティ「状態異常底力」やロックオンする「ツインワンウェイレーザー EL」が登場！撃種変更する大号令SSも所持！【新キャラ使ってみた｜モンスト公式】 - モンスト（モンスターストライク）公式",
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9aDBsM1I5RHMwZWPSAQA?oc=5",
-            "urlToImage": null
-        },
-        {
-            "author": null,
-            "content": null,
-            "description": null,
-            "publishedAt": "2020-09-28T11:47:35Z",
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "title": "Apple Watch Series6実機レビューの巻！:スマホ総研定例会#151 - アスキー",
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TUNHUGtmSXJjN3fSAQA?oc=5",
-            "urlToImage": null
-        },
-        {
-            "author": "田中聡，ITmedia",
-            "content": "930155GYouTubeTwitter\r\n5G202063639930\r\n5GAQUOS R5G\r\nCopyright © ITmedia, Inc. All Rights Reserved.",
-            "description": "楽天モバイルが、9月30日15時から5Gサービスの料金プランや詳細を発表する。当日はYouTubeでライブ配信を行う。楽天モバイルの5Gサービスは、当初は2020年6月の開始を予定していたが、新型コロナの影響で遅れが生じていた。",
-            "publishedAt": "2020-09-28T10:10:00Z",
-            "source": {
-                "id": null,
-                "name": "Itmedia.co.jp"
-            },
-            "title": "楽天モバイル、9月30日に5Gサービスの詳細を発表 - ITmedia",
-            "url": "https://www.itmedia.co.jp/mobile/articles/2009/28/news147.html",
-            "urlToImage": "https://image.itmedia.co.jp/mobile/articles/2009/28/l_st52693_raku5g-01.jpg"
+            "title": "コロナ禍で1日4万件の電話を9割減らしたサービスを1週間で内製――神戸市に入庁した元エンジニアが、書けるコードをあえて書かなかった理由 - @IT",
+            "url": "https://www.atmarkit.co.jp/ait/articles/2009/24/news012.html",
+            "urlToImage": "https://image.itmedia.co.jp/ait/articles/2009/24/240_news012.jpg"
         }
     ],
     "status": "ok",

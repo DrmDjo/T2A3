@@ -1,6 +1,12 @@
 #!/usr/sbin/python
 
 
+import csv
+import random
+import sys, time
+
+from os import system
+
 import json
 import kanji
 import news
@@ -158,17 +164,385 @@ class Lesson:
 
     
 
-def start():
+
+
+
+
+
+
+# EVERYTHING BELOW HERE ARE ALL MENUS WITH THE SAME STRUCTURE, THEY ALL HAVE APPROPRIATE CHOICES, USER INPUT AND INPUT VALIDATION
+
+def kanji_menu(main_kanji_list,count):
+    kanji_list = main_kanji_list
+    kanji_counter = count
     
+    _ = system('clear')
+    breadcrumb = "<HOME><KANJI>"
+    print(breadcrumb)
+    
+    print("""
+
+        LEARNING KANJI MENU
+        
+        R - Reading <<<
+        M - Meaning <<<
+        E - Examples <<<
+        
+        N - NEXT KANJI
+        P - PREVIOUS KANJI
+    
+        X - EXIT TO MAIN MENU
+        Q - QUIT PROGRAM
+
+
+        """)
+  
+    print(main_kanji_list[kanji_counter].get_character())
+    
+    user_input = ""
+    while user_input not in ("N","n","R","r","M","m","E","e","X","x","Q","q"):
+            
+        user_input = input("Make your choice - ")
+
+        if user_input.upper() =="N":
+            kanji_counter +=1
+            kanji_menu(main_kanji_list,kanji_counter)
+        elif user_input.upper() =="P":
+            kanji_counter -=1
+            kanji_menu(main_kanji_list,kanji_counter)
+        elif user_input.upper() =="R":
+            
+            kanji_reading(main_kanji_list,kanji_counter)
+            
+        elif user_input.upper() =="M":
+            kanji_meaning(main_kanji_list,kanji_counter)
+            
+        elif user_input.upper() =="E":
+            kanji_example(main_kanji_list,kanji_counter)
+            
+        elif user_input.upper() == "X":
+            start()
+        elif user_input.upper() == "Q":
+            sys.exit()
+        else:
+            print("Please try again ")
+            
+            
+           
+
+
+def kanji_reading(main_kanji_list,count):
+    kanji_list = main_kanji_list
+    kanji_counter = count
+    
+    _ = system('clear')
+    breadcrumb = "<HOME><KANJI><READING>"
+    print(breadcrumb)
+    
+    print("""
+
+        LEARNING KANJI MENU
+        
+        R - Reading <<<
+        M - Meaning <<<
+        E - Examples <<<
+        
+        N - NEXT KANJI
+        P - PREVIOUS KANJI
+    
+        X - EXIT TO MAIN MENU
+        Q - QUIT PROGRAM
+
+
+        """)
+  
+    print(main_kanji_list[kanji_counter].get_character())
+    print(main_kanji_list[kanji_counter].get_kunyomi())
+    print(main_kanji_list[kanji_counter].get_onyomi())
+    
+    user_input = ""
+    while user_input not in ("N","n","R","r","M","m","E","e","X","x","Q","q"):
+            
+        user_input = input("Make your choice - ")
+
+        if user_input.upper() =="N":
+            kanji_counter +=1
+            kanji_menu(main_kanji_list,kanji_counter)
+        elif user_input.upper() =="P":
+            kanji_counter -=1
+            kanji_menu(main_kanji_list,kanji_counter)
+        elif user_input.upper() =="R":
+            
+            kanji_reading(main_kanji_list,kanji_counter)
+            
+        elif user_input.upper() =="M":
+            kanji_meaning(main_kanji_list,kanji_counter)
+            
+        elif user_input.upper() =="E":
+            kanji_example(main_kanji_list,kanji_counter)
+            
+        elif user_input.upper() == "X":
+            start()
+        elif user_input.upper() == "Q":
+            sys.exit()
+        else:
+            print("Please try again ")
+    
+    
+    
+
+
+def kanji_meaning(main_kanji_list,count):
+    kanji_list = main_kanji_list
+    kanji_counter = count
+    
+    _ = system('clear')
+    breadcrumb = "<HOME><KANJI><MEANING>"
+    print(breadcrumb)
+    
+    print("""
+
+        LEARNING KANJI MENU
+        
+        R - Reading <<<
+        M - Meaning <<<
+        E - Examples <<<
+        
+        N - NEXT KANJI
+        P - PREVIOUS KANJI
+    
+        X - EXIT TO MAIN MENU
+        Q - QUIT PROGRAM
+
+
+        """)
+  
+    print(main_kanji_list[kanji_counter].get_character())
+    print(main_kanji_list[kanji_counter].get_meaning())
+    
+    user_input = ""
+    while user_input not in ("N","n","R","r","M","m","E","e","X","x","Q","q"):
+            
+        user_input = input("Make your choice - ")
+
+        if user_input.upper() =="N":
+            kanji_counter +=1
+            kanji_menu(main_kanji_list,kanji_counter)
+        elif user_input.upper() =="P":
+            kanji_counter -=1
+            kanji_menu(main_kanji_list,kanji_counter)
+        elif user_input.upper() =="R":
+            
+            kanji_reading(main_kanji_list,kanji_counter)
+            
+        elif user_input.upper() =="M":
+            kanji_meaning(main_kanji_list,kanji_counter)
+            
+        elif user_input.upper() =="E":
+            kanji_example(main_kanji_list,kanji_counter)
+            
+        elif user_input.upper() == "X":
+            start()
+        elif user_input.upper() == "Q":
+            sys.exit()
+        else:
+            print("Please try again ")
+    
+    
+    
+def kanji_example(main_kanji_list,count):
+    kanji_list = main_kanji_list
+    kanji_counter = count
+    
+    _ = system('clear')
+    breadcrumb = "<HOME><KANJI><EXAMPLES>"
+    print(breadcrumb)
+    
+    print("""
+
+        LEARNING KANJI MENU
+        
+        R - Reading <<<
+        M - Meaning <<<
+        E - Examples <<<
+        
+        N - NEXT KANJI
+        P - PREVIOUS KANJI
+    
+        X - EXIT TO MAIN MENU
+        Q - QUIT PROGRAM
+
+
+        """)
+  
+    print(main_kanji_list[kanji_counter].get_character())
+    print(main_kanji_list[kanji_counter].get_jp_example())
+    print(main_kanji_list[kanji_counter].get_eng_example())
+    
+    
+    user_input = ""
+    while user_input not in ("N","n","R","r","M","m","E","e","X","x","Q","q"):
+            
+        user_input = input("Make your choice - ")
+
+        if user_input.upper() =="N":
+            kanji_counter +=1
+            kanji_menu(main_kanji_list,kanji_counter)
+        elif user_input.upper() =="P":
+            kanji_counter -=1
+            kanji_menu(main_kanji_list,kanji_counter)
+        elif user_input.upper() =="R":
+            
+            kanji_reading(main_kanji_list,kanji_counter)
+            
+        elif user_input.upper() =="M":
+            kanji_meaning(main_kanji_list,kanji_counter)
+            
+        elif user_input.upper() =="E":
+            kanji_example(main_kanji_list,kanji_counter)
+            
+        elif user_input.upper() == "X":
+            start()
+        elif user_input.upper() == "Q":
+            sys.exit()
+        else:
+            print("Please try again ")
+    
+
+
+        
+
+
+def sentence_menu():
+    _ = system('clear')
+    print("""
+
+        
+        You chose the Pracice Sentences
+        
+        The Enthusiast route is here to learn those words, kanji and the rest that is really hard to find in any mainstream book, and not in your usual daily conversation.
+
+        CHOOSE FROM 
+
+        1 - TECHNOLOGY
+        2 - ENTERTAINMENT
+        3 - BUSINESS
+        4 - DIGITAL CREATIVE
+        5 - MADE BY HAND
+    
+        X - EXIT TO MAIN MENU
+
+        Q - QUIT PROGRAM
+        
+        """)
+
+    # user_input = ""
+    # while user_input not in ("1","2","3","4","5","X","x","Q","q"):
+    
+    #     user_input = input("Make your choice - ")
+
+    #     if user_input == "1":
+    #         tech_start()
+    #     elif user_input == "2":
+    #         entertainment_start()
+    #     elif user_input == "3":
+    #         biz_start()
+    #     elif user_input == "4":
+    #         digital_start()
+    #     elif user_input == "5":
+    #         handmade_start()        
+    #     elif user_input.upper() == "X":
+    #         start()
+    #     elif user_input.upper() == "Q":
+    #         sys.exit()
+    #     else:
+    #         print("Please try again ")
+    
+def news_menu():
+    _ = system('clear')
+    print("""
+
+        
+        You chose the News Headlines
+        
+        The Enthusiast route is here to learn those words, kanji and the rest that is really hard to find in any mainstream book, and not in your usual daily conversation.
+
+        CHOOSE FROM 
+
+        1 - TECHNOLOGY
+        2 - ENTERTAINMENT
+        3 - BUSINESS
+        4 - DIGITAL CREATIVE
+        5 - MADE BY HAND
+    
+        X - EXIT TO MAIN MENU
+
+        Q - QUIT PROGRAM
+        
+        """)
+
+    # user_input = ""
+    # while user_input not in ("1","2","3","4","5","X","x","Q","q"):
+    
+    #     user_input = input("Make your choice - ")
+
+    #     if user_input == "1":
+    #         tech_start()
+    #     elif user_input == "2":
+    #         entertainment_start()
+    #     elif user_input == "3":
+    #         biz_start()
+    #     elif user_input == "4":
+    #         digital_start()
+    #     elif user_input == "5":
+    #         handmade_start()        
+    #     elif user_input.upper() == "X":
+    #         start()
+    #     elif user_input.upper() == "Q":
+    #         sys.exit()
+    #     else:
+    #         print("Please try again ")
+        
+
+
+def start():
     
     main_kanji_list = import_kanji()
     main_news_list = import_news()
+    _ = system('clear')
     
-    print(main_kanji_list[2].get_character())
-    print(main_kanji_list[2].get_kunyomi())
-    print(main_kanji_list[2].get_onyomi())
-    print(main_kanji_list[2].get_jp_example())
-    print(main_kanji_list[2].get_eng_example())
+    
+    
+    print("""
+Welcome to your Japanese Reader
+
+
+
+    K - LEARNING KANJI
+    S - Sentences
+    N - News Headlines
+
+    Q - QUIT PROGRAM
+
+    """)
+
+    user_input = ""
+    while user_input not in ("K","k","S","s","N","n","Q","q"):
+
+  
+        user_input = input("Make your choice - Press B or R ")
+
+        if user_input.upper() == "K":
+            kanji_menu(main_kanji_list,0)
+        elif user_input.upper() == "S":
+            sentence_menu()
+        elif user_input.upper() == "N":
+            news_menu()
+        elif user_input.upper() == "Q":
+            sys.exit()
+        else:
+            print("Please try again")
+
     
 
 
