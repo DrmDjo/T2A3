@@ -1,6 +1,84 @@
 {
     "articles": [
         {
+            "author": null,
+            "content": null,
+            "description": "［２８日ロイター］ - 米マイクロソフト MSFT.O は２８日遅く、最近行った変更が原因とみられる障害で、「Ｍｉｃｒｏｓｏｆｔ３６５」の個人用メール「Ｏｕｔｌｏｏｋ．ｃｏｍ」やメッセージングの「Ｔｅａ",
+            "publishedAt": "2020-09-29T02:05:00Z",
+            "source": {
+                "id": null,
+                "name": "Livedoor.com"
+            },
+            "title": "「Microsoft365」のメールなどで障害が発生中 就職活動に影響との声も - livedoor",
+            "url": "https://news.livedoor.com/article/detail/18972487/",
+            "urlToImage": "https://image.news.livedoor.com/newsimage/stf/0/9/09151_769_223ee18c550ecc2209ba1e6b86857b99.jpg"
+        },
+        {
+            "author": null,
+            "content": null,
+            "description": "レノボ・ジャパン株式会社は、世界初となる折りたたみ有機ELディスプレイ搭載デバイス「ThinkPad X1 Fold」を10月13日に発売する。税別直販価格は363,000円より。",
+            "publishedAt": "2020-09-29T02:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "title": "レノボ、折りたたみ有機EL搭載パソコン「ThinkPad X1 Fold」を10月13日に発売 - PC Watch",
+            "url": "https://pc.watch.impress.co.jp/docs/news/1278746.html",
+            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1278/746/tn.jpg"
+        },
+        {
+            "author": null,
+            "content": "FRONTIERRyzenGX \r\n 3RyzenB550BTOGeForce RTX 3080 \r\n CPURyzen 5 36008GB240GB SSDGeForce GTX 165084,800 \r\n CPURyzen 7 3700X16GB500GB NVMe SSD+1TB HDDGeForce GTX 1660 SUPER119,800 \r\n CPURyzen 9 3900X16G… [+43 chars]",
+            "description": "FRONTIERは、Ryzenを搭載したマイクロタワーパソコン「GX」シリーズを発売した。",
+            "publishedAt": "2020-09-29T02:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "title": "FRONTIER、GeForce RTX 3080搭載可能なRyzenマイクロタワー - PC Watch",
+            "url": "https://pc.watch.impress.co.jp/docs/news/1279638.html",
+            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1279/638/1.jpg"
+        },
+        {
+            "author": "@GIGAZINE",
+            "content": null,
+            "description": "日本時間10月1日午前3時から開催されるGoogleのグローバルイベント「Launch Night In」で正式発表されるとみられているGoogle製スマートフォン「Pixel 5」について、Google Japanが予約購入アナウンスを一足先に誤ってツイートしました。この誤ツイートによって、Pixel 5のデザインと日本販売価格が判明し、世界的に話題を呼んでいます。",
+            "publishedAt": "2020-09-29T01:35:00Z",
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "title": "Google Japanが「Pixel 5」の情報をうっかりお漏らし、価格や本体デザインが判明してしまう - GIGAZINE",
+            "url": "https://gigazine.net/news/20200929-google-japan-showed-off-pixel-5/",
+            "urlToImage": "https://i.gzn.jp/img/2020/09/29/google-japan-showed-off-pixel-5/00.png"
+        },
+        {
+            "author": null,
+            "content": "NVIDIA28()GeForceGeForce Game Ready Driver 456.55 \r\n 456.55Call of Duty: Modern WarfareCall of Duty: WarzoneReflexStar Wars: Squadrons \r\n GeForce RTX 30 \r\n GeForce RTX 3080/3090GPU",
+            "description": "米NVIDIAは28日(現地時間)、GeForce用ドライバ「GeForce Game Ready Driver 456.55」をリリースした。",
+            "publishedAt": "2020-09-29T01:12:23Z",
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "title": "NVIDIA、GeForce RTX 30シリーズ安定性向上ドライバ - PC Watch",
+            "url": "https://pc.watch.impress.co.jp/docs/news/1279629.html",
+            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1279/629/1.jpg"
+        },
+        {
+            "author": "産経ニュース",
+            "content": "PR\r\nPR\r\nPR\r\n©2020 The Sankei Shimbun All rights reserved.",
+            "description": "警察庁は２９日、運転免許証更新時の「優良運転者講習」をオンライン化し、自宅のパソコンやスマートフォンで受講できる仕組みを取り入れる方針を決めた。来年秋以降、一部…",
+            "publishedAt": "2020-09-28T23:52:00Z",
+            "source": {
+                "id": null,
+                "name": "Sankei.com"
+            },
+            "title": "優良運転者に「オンライン講習」 来秋試験導入、ＡＩ解析も - 産経ニュース",
+            "url": "https://www.sankei.com/affairs/news/200929/afr2009290003-n1.html",
+            "urlToImage": "https://www.sankei.com/images/news/200929/afr2009290003-p1.jpg"
+        },
+        {
             "author": "@GIGAZINE",
             "content": null,
             "description": "Firefoxに搭載されている実行時コンパイラ(JIT)が、11月にリリース予定のバージョン83から大幅に高速化されることがわかりました。バージョン83は記事作成時点ではNightly版で提供されています。",
@@ -12,6 +90,19 @@
             "title": "FirefoxのJavaScriptエンジンが大幅に高速化される - GIGAZINE",
             "url": "https://gigazine.net/news/20200929-firefox-jit-faster/",
             "urlToImage": "https://i.gzn.jp/img/2020/09/28/firefox-jit-faster/00_m.png"
+        },
+        {
+            "author": null,
+            "content": "XiaomiRedmi Note 9SMi Note 10Mi Note 10\r\nRedmi Note 9SRedmi Note 9SRedmi Note 9SAmazon\r\nLTE\r\nXiaomi Redmi Note 9SLTE\r\nB1B2B345781819202628\r\nXiaomi Redmi Note 9SLTE\r\nB1B2B345782028\r\n181926318audocomoa… [+2287 chars]",
+            "description": "Xiaomiの『Redmi Note 9S』はグローバルモデルとして海外でも発売されています。日本で最初に発売された『Mi Note 10』に関しては、アップデートにより日本でスマートフォンを使用するのに必要となる『技適マーク』がデータ上で付与されました。つまり、発売されているのが海外であれど、中身の『Mi Note 10はグローバルモデルと同じ』という状態でした。 『Redmi Note 9S』",
+            "publishedAt": "2020-09-28T23:27:00Z",
+            "source": {
+                "id": null,
+                "name": "Evolves.biz"
+            },
+            "title": "Xiaomi Redmi Note 9Sのグローバルモデルと日本モデルは明らかな別物。Mi Note 10とは違う理由。 - ハイパーガジェット通信",
+            "url": "https://gadgets.evolves.biz/2020/09/28/redminote9s_minote10/",
+            "urlToImage": "https://gadgets.evolves.biz/wp-content/uploads/2020/09/redminote9ss-1024x1024.jpg"
         },
         {
             "author": "@GIGAZINE",
@@ -27,30 +118,30 @@
             "urlToImage": "https://i.gzn.jp/img/2020/09/29/solar-energy-pay-use-electricity/00_m.jpg"
         },
         {
-            "author": "小暮ひさのり",
-            "content": "Copyright © mediagene Inc. All Rights Reserved.",
-            "description": "iPad用マウスをお探しならこれがいいかも。収納時は超コンパクト、使うときはちゃんとしたマウスにトランスフォームするエレコムの｢CAPCLIP PRO｣です。",
-            "publishedAt": "2020-09-28T22:00:00Z",
-            "source": {
-                "id": null,
-                "name": "Gizmodo.jp"
-            },
-            "title": "見てよ、これマウスだよ！ - GIZMODO JAPAN",
-            "url": "https://www.gizmodo.jp/2020/09/elecom-small-mouse.html",
-            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2020/09/28/200928mak00-w960.jpg"
-        },
-        {
             "author": null,
-            "content": "Copyright ©2018Impress Corporation. All rights reserved.",
-            "description": "Appleの音声アシスタント「Siri」で、警察をテロリスト扱いしているかのような挙動が見つかり、ユーザーからの指摘で修正されるという出来事があった。",
-            "publishedAt": "2020-09-28T21:00:00Z",
+            "content": "Crystal LED\r\n80S-VHS80SD\r\n2127PROFEEL2785371002037\r\n373720VHS\r\n90SD43150LDS-VHS\r\nS/PARK\r\nJourney of Wonder()\r\n iPhoneRetinaQUALIA 004 \r\nQUALIA 004S/PARK\r\nS/PARKPCL16K21Another Wonderland()8K\r\nJourney… [+302 chars]",
+            "description": "港町、横浜。日本を代表するこの港湾都市は、近代以降様々な文化を洋の東西から取り入れながら、今なお時代の最先端を生み出し続けている。そんな横浜の気風濃いみなとみらい地区で「世界最高の画質体験が出来る」と聞きつけ、麻倉怜士氏は資生堂研究開発センター「S/PARK」へ。そこでは一面に広がる“ソニー製”南国の海の感動が、我々を待ち受けるのであった……。",
+            "publishedAt": "2020-09-28T23:00:00Z",
             "source": {
                 "id": null,
                 "name": "Impress.co.jp"
             },
-            "title": "テロリストの潜伏場所をSiriに尋ねると、なぜか警察までのルートを表示。その原因とは - INTERNET Watch",
-            "url": "https://internet.watch.impress.co.jp/docs/yajiuma/1279616.html",
-            "urlToImage": "https://internet.watch.impress.co.jp/img/iw/list/1279/616/yajiuma-watch_4.png"
+            "title": "ベータマックスから16Kへ、ソニー世界最大Crystal LEDに“高画質の明日”を見る - AV Watch",
+            "url": "https://av.watch.impress.co.jp/docs/series/asakura/1279603.html",
+            "urlToImage": "https://av.watch.impress.co.jp/img/avw/list/1279/603/P1111942.jpg"
+        },
+        {
+            "author": "共同通信",
+            "content": null,
+            "description": "実在しない国際電話番号から国内携帯電話への着信が、今月に入り急増したことが29日分かった。通話に中国語が使われ、在日中国人を狙った「振り込め詐欺」とみられるが、日本人への着信も多い。秋田市では40",
+            "publishedAt": "2020-09-28T20:57:29Z",
+            "source": {
+                "id": null,
+                "name": "Yahoo.co.jp"
+            },
+            "title": "実在しない国番号から着信 詐欺目的、400万円被害も（共同通信） - Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/articles/26606d97fbbe5a6460b7dfdfa0fe9bc05f59e91e",
+            "urlToImage": "https://amd.c.yimg.jp/amd/20200929-00000011-kyodonews-000-11-view.jpg"
         },
         {
             "author": "桃田 健史",
@@ -105,6 +196,19 @@
             "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXMZO6435222028092020I00002-KB2.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=scale&h=500&ixlib=java-1.2.0&s=d6fbc4284d9bac8ddf407a90f3bfaa75"
         },
         {
+            "author": "ライフハッカー［日本版］",
+            "content": "RAMRAMRAMRAM\r\nRAMRandom Access MemoryOSRAM\r\nRAMRAM",
+            "description": "RAMとは、パソコン内の重要な要素だというのはおそらくご存知でしょう。しかし、自分に本当に必要なRAMはどれくらいかはわかるでしょうか？",
+            "publishedAt": "2020-09-28T13:11:02Z",
+            "source": {
+                "id": null,
+                "name": "Yahoo.co.jp"
+            },
+            "title": "ユーザー別パソコンに適切なメモリ容量（RAM）を確認する方法（ライフハッカー［日本版］） - Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/articles/9906b6c65c33284117ab608459f0ae3721999aa8",
+            "urlToImage": "https://amd.c.yimg.jp/amd/20200928-00000006-biz_lifeh-000-1-view.jpg"
+        },
+        {
             "author": "ブラボー成田",
             "content": null,
             "description": "本記事は、モンストで今週すべきことをまとめてみました。 ぜひ迷った時はこちらを参考にしてみてください！",
@@ -144,19 +248,6 @@
             "urlToImage": null
         },
         {
-            "author": "ITmedia Mobile",
-            "content": "NTT101\r\nFOMAXi me F-01L12 F-01MAQUOS SH-02L1FOMAXi3GXiMNPLG style3 L-41A35000Galaxy A41 SC-41A3 me F-01L165003GXiMNP2\r\n3G4GXiMNP F-42A16500AQUOS SH-02L F-01M110004GXiMNPGalaxy A41 SC-41A2 me F-01L150… [+46 chars]",
-            "description": "NTTドコモは、10月1日から指定の手続きで対象機種を購入した際に割引を行う「はじめてスマホ購入サポート」「端末購入割引」の内容を変更する。",
-            "publishedAt": "2020-09-28T10:53:27Z",
-            "source": {
-                "id": null,
-                "name": "Yahoo.co.jp"
-            },
-            "title": "ドコモ、10月1日に端末割引を変更 「らくらくホン」「AQUOS ケータイ」などが対象に（ITmedia Mobile） - Yahoo!ニュース",
-            "url": "https://news.yahoo.co.jp/articles/d2d782f9ca3637084fd1fea242eafe5b4332598e",
-            "urlToImage": "https://amd.c.yimg.jp/amd/20200928-00000098-zdn_m-000-1-view.jpg"
-        },
-        {
             "author": "田中聡，ITmedia",
             "content": "930155GYouTubeTwitter\r\n5G202063639930\r\n5GAQUOS R5G\r\nCopyright © ITmedia, Inc. All Rights Reserved.",
             "description": "楽天モバイルが、9月30日15時から5Gサービスの料金プランや詳細を発表する。当日はYouTubeでライブ配信を行う。楽天モバイルの5Gサービスは、当初は2020年6月の開始を予定していたが、新型コロナの影響で遅れが生じていた。",
@@ -168,97 +259,6 @@
             "title": "楽天モバイル、9月30日に5Gサービスの詳細を発表 - ITmedia",
             "url": "https://www.itmedia.co.jp/mobile/articles/2009/28/news147.html",
             "urlToImage": "https://image.itmedia.co.jp/mobile/articles/2009/28/l_st52693_raku5g-01.jpg"
-        },
-        {
-            "author": "ねとらぼ調査隊",
-            "content": null,
-            "description": "Amazonの国内「スマートフォン本体」カテゴリの売れ筋ランキングを紹介します（9/28 15:08時点）。3位　第3位は「Xiaomi Redmi Note9S 4+64GB」。6.67インチFHD+ DotDisplayと、4800万画素のAI4眼カメラを搭載しているほか、5…",
-            "publishedAt": "2020-09-28T10:05:00Z",
-            "source": {
-                "id": null,
-                "name": "Itmedia.co.jp"
-            },
-            "title": "今一番売れている「スマートフォン本体」AmazonランキングTOP10！（9/28 15:08）（1/2） | ねとらぼ調査隊 - ねとらぼ",
-            "url": "https://nlab.itmedia.co.jp/research/articles/56049/",
-            "urlToImage": "https://research.image.itmedia.co.jp/wp-content/uploads/2020/09/396173_m.jpg"
-        },
-        {
-            "author": "ASCII",
-            "content": "202092NVIDIAAmpereGPUGeForce RTX 30GeForce RTX 3090GeForce RTX 3080RTX 3080PCBTO PCRTX 3080\r\nSEVENRTX 3080CPUCore i9-10900Ki9-10900KZEFT G15ASXRyzen 9 3900XTZEFT R15P-ASV2\r\nZEFT G15ASXZEFT R15P-ASVRT… [+1757 chars]",
-            "description": "パソコンショップSEVENでは、NVIDIAの新世代GPU「GeForce RTX 3080」を搭載したBTO PCを、Intel構成とAMD構成の両方で販売している。それぞれほぼ同価格帯のハイエンド構成だが、パフォーマンスに差があるのか、検証してみた。",
-            "publishedAt": "2020-09-28T10:00:00Z",
-            "source": {
-                "id": null,
-                "name": "Ascii.jp"
-            },
-            "title": "Core i9-10900K vs Ryzen 9 3900XT！ RTX 3080搭載PCでゲームに強いのはどっち？ (1/2) - ASCII.jp",
-            "url": "https://ascii.jp/elem/000/004/028/4028037/",
-            "urlToImage": "https://ascii.jp/img/2020/09/25/3098082/l/ad804b1ef7e932c9.jpg?20200122"
-        },
-        {
-            "author": "エースラッシュ，ITmedia",
-            "content": "NTT101\r\nFOMAXi me F-01L12 F-01MAQUOS SH-02L1FOMAXi3GXiMNPLG style3 L-41A35000Galaxy A41 SC-41A3 me F-01L165003GXiMNP2\r\n3G4GXiMNP F-42A16500AQUOS SH-02L F-01M110004GXiMNPGalaxy A41 SC-41A2 me F-01L150… [+94 chars]",
-            "description": "NTTドコモは、10月1日から「はじめてスマホ購入サポート」「端末購入割引」を変更。新たに「らくらくホン F-01M」「AQUOS ケータイ SH-02L」などが対象に加わる。",
-            "publishedAt": "2020-09-28T09:29:00Z",
-            "source": {
-                "id": null,
-                "name": "Itmedia.co.jp"
-            },
-            "title": "ドコモ、10月1日に端末割引を変更 「らくらくホン」「AQUOS ケータイ」などが対象に - ITmedia",
-            "url": "https://www.itmedia.co.jp/mobile/articles/2009/28/news138.html",
-            "urlToImage": "https://image.itmedia.co.jp/mobile/articles/2009/28/l_asa_dwaribiki_01.jpg"
-        },
-        {
-            "author": "小暮ひさのり",
-            "content": "GooglePixel 5Google JapanTwitterPixel 5\r\n9to5MacPixel 574800\r\nPixel\r\nImage: Google \r\nWinFuture.dePixel 5Pixel 4a5G\r\nSoCPixel 5Pixel 4aSnapdragon 765GPixel 5RAM 8GBPixel 4a5GRAM 6GB\r\nPixel 56Pixel 4a5… [+173 chars]",
-            "description": "あれれ、公式がお漏らし…。まもなく発表？な予感がするGoogleの時期フラッグシップスマホPixel 5ですが、Google JapanのTwitterアカウントで、Pixel 5の予約購入をアナウンスするツイートが誤投稿されてしまったようです。すでに該当ツイートは削除されていますが（9to5Macの記事から残留思念が確認できます）、このお漏らしによってPixel 5本体のデザインと、7万480",
-            "publishedAt": "2020-09-28T09:00:00Z",
-            "source": {
-                "id": null,
-                "name": "Gizmodo.jp"
-            },
-            "title": "7万4800円ってお買い得じゃん。Pixel 5の価格をGoogle Japanアカウントが誤ツイート - GIZMODO JAPAN",
-            "url": "https://www.gizmodo.jp/2020/09/220998.html",
-            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2020/09/28/200928pik00-w960.jpg"
-        },
-        {
-            "author": null,
-            "content": null,
-            "description": "Amazonが年に1度実施している大安売りイベント「プライムデー」。2020年は10月13日午前0時から同14日23時59分の2日間にわたって開催。レビューで星4つ以上の人気商品を中心に数十万点のセール商品を販売する",
-            "publishedAt": "2020-09-28T08:35:00Z",
-            "source": {
-                "id": null,
-                "name": "Livedoor.com"
-            },
-            "title": "年に1度の大安売り Amazon「プライムデー」10月13日と14日に開催 - livedoor",
-            "url": "https://news.livedoor.com/article/detail/18969786/",
-            "urlToImage": "https://image.news.livedoor.com/newsimage/stf/e/7/e72f9_1186_a051d573_808e9cf8.jpg"
-        },
-        {
-            "author": "荻窪圭，ITmedia",
-            "content": "Xperia I IIXperia 10 IIXperia 1 IIPhotography Pro\r\nAWB\r\nXperia 10 II316mm26mm52mm\r\nXperia 1 II2\r\nXperia10 IIXperia 1 II24mm70mm\r\n1x\r\nXperia 1 IIXperia 10 II\r\n52mm70mm\r\nCopyright © ITmedia, Inc. All R… [+14 chars]",
-            "description": "薄くてすらっとしていて手になじみそうな「Xperia 10 II」。上位機の「Xperia I II」とはどこが違うのか比較して確かめてみた。",
-            "publishedAt": "2020-09-28T08:15:00Z",
-            "source": {
-                "id": null,
-                "name": "Itmedia.co.jp"
-            },
-            "title": "ミッドレンジ「Xperia 10 II」のカメラはどう？ 「Xperia 1 II」と比較してみた - ITmedia",
-            "url": "https://www.itmedia.co.jp/mobile/articles/2009/28/news033.html",
-            "urlToImage": "https://image.itmedia.co.jp/mobile/articles/2009/28/l_ki0980_001-P9160090.JPG"
-        },
-        {
-            "author": null,
-            "content": "auUQ mobileauUQau101 \r\n UQ mobile365UQ mobileMAXUQ \r\n UQ mobileauUQ mobile95003000au3000",
-            "description": "auは、UQ mobileからauへの番号移行がお得になる「UQモバイル→au番号移行プログラム」を10月1日から提供する。番号移行時の通料や通信料金の割引が受けられる。",
-            "publishedAt": "2020-09-28T08:01:05Z",
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "title": "au、UQ mobileからの番号移行プログラムを10月から開始 - ケータイ Watch",
-            "url": "https://k-tai.watch.impress.co.jp/docs/news/1279547.html",
-            "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1279/547/au.jpg"
         }
     ],
     "status": "ok",

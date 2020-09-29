@@ -19,7 +19,7 @@ def write_news():
 
     response = requests.request("GET", url, headers=headers, params=querystring)
 
-    print(response.text)
+    #print(response.text)
 
 
     news_list = json.loads(response.text)
