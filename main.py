@@ -532,7 +532,7 @@ def sentence_meaning(main_sentence_list,count):
     current_sentence =sentence_list[sentence_counter].get_sentence()
     print(current_sentence)
     sentence_meaning = google_translate.get_translation(current_sentence)
-    print(sentence_meaning)
+    print(sentence_meaning[0]['data']['translation'])
     
     
     user_input = ""
