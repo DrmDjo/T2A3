@@ -1,0 +1,266 @@
+{
+    "articles": [
+        {
+            "author": "@GIGAZINE",
+            "content": null,
+            "description": "Firefoxに搭載されている実行時コンパイラ(JIT)が、11月にリリース予定のバージョン83から大幅に高速化されることがわかりました。バージョン83は記事作成時点ではNightly版で提供されています。",
+            "publishedAt": "2020-09-28T23:30:00Z",
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "title": "FirefoxのJavaScriptエンジンが大幅に高速化される - GIGAZINE",
+            "url": "https://gigazine.net/news/20200929-firefox-jit-faster/",
+            "urlToImage": "https://i.gzn.jp/img/2020/09/28/firefox-jit-faster/00_m.png"
+        },
+        {
+            "author": "@GIGAZINE",
+            "content": null,
+            "description": "太陽光発電をはじめとする再生可能エネルギーは、石炭火力発電による地球温暖化への影響を抑える手段として有望視されています。テクノロジー関連のブログ・IFOST Blogを運営するGreg Baker氏が、「太陽光発電の効率が上昇して十分に普及すると、『電気の消費者』が報酬を受け取る仕組みが誕生する可能性がある」と主張しています。",
+            "publishedAt": "2020-09-28T23:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "title": "太陽光発電が普及すると「電気を消費するほど報酬がもらえる」時代が来るかもしれない - GIGAZINE",
+            "url": "https://gigazine.net/news/20200929-solar-energy-pay-use-electricity/",
+            "urlToImage": "https://i.gzn.jp/img/2020/09/29/solar-energy-pay-use-electricity/00_m.jpg"
+        },
+        {
+            "author": "小暮ひさのり",
+            "content": "Copyright © mediagene Inc. All Rights Reserved.",
+            "description": "iPad用マウスをお探しならこれがいいかも。収納時は超コンパクト、使うときはちゃんとしたマウスにトランスフォームするエレコムの｢CAPCLIP PRO｣です。",
+            "publishedAt": "2020-09-28T22:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "title": "見てよ、これマウスだよ！ - GIZMODO JAPAN",
+            "url": "https://www.gizmodo.jp/2020/09/elecom-small-mouse.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2020/09/28/200928mak00-w960.jpg"
+        },
+        {
+            "author": null,
+            "content": "Copyright ©2018Impress Corporation. All rights reserved.",
+            "description": "Appleの音声アシスタント「Siri」で、警察をテロリスト扱いしているかのような挙動が見つかり、ユーザーからの指摘で修正されるという出来事があった。",
+            "publishedAt": "2020-09-28T21:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "title": "テロリストの潜伏場所をSiriに尋ねると、なぜか警察までのルートを表示。その原因とは - INTERNET Watch",
+            "url": "https://internet.watch.impress.co.jp/docs/yajiuma/1279616.html",
+            "urlToImage": "https://internet.watch.impress.co.jp/img/iw/list/1279/616/yajiuma-watch_4.png"
+        },
+        {
+            "author": "桃田 健史",
+            "content": null,
+            "description": "「やはりスバル、モノとしてものすごくよくできている一方で、どこか人間味がある」新型「レヴォーグ」の2020年10月15日発売を前に、同車のプロトタイプで次世代アイサイトの各種機能を実体験して、そう思った。最…",
+            "publishedAt": "2020-09-28T20:40:00Z",
+            "source": {
+                "id": null,
+                "name": "Toyokeizai.net"
+            },
+            "title": "次世代アイサイトを｢自動運転｣と呼ばないワケ - 東洋経済オンライン",
+            "url": "https://toyokeizai.net/articles/-/375808",
+            "urlToImage": "https://toyokeizai.net/mwimgs/1/f/-/img_1f92a3103af122fe437dced7c3a4ae04445798.jpg"
+        },
+        {
+            "author": "奥田 貫",
+            "content": null,
+            "description": "KDDIが放つ勝負手は吉と出るか――。携帯電話業界2位の同社は10月1日、傘下のUQコミュニケーションズが手がけるMVNO（仮想移動体通信事業者）のUQモバイルを吸収統合する。これでKDDIは、主力のauとUQモバイルの2…",
+            "publishedAt": "2020-09-28T20:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Toyokeizai.net"
+            },
+            "title": "KDDIが今､｢UQモバイル｣を完全に取り込む思惑 - 東洋経済オンライン",
+            "url": "https://toyokeizai.net/articles/-/378158",
+            "urlToImage": "https://toyokeizai.net/mwimgs/3/f/-/img_3f2a2f5dcfb1aff1e2bbdd11764c18a1457841.jpg"
+        },
+        {
+            "author": null,
+            "content": "NTT 929130",
+            "description": "NTTは、携帯電話事業を手がけるNTTドコモのすべての株式を取得して、完全子会社にする方針を固めました。一般株主などから…",
+            "publishedAt": "2020-09-28T16:30:15Z",
+            "source": {
+                "id": null,
+                "name": "Nhk.or.jp"
+            },
+            "title": "NTTがドコモの完全子会社化の方針固める すべての株式取得へ - NHK NEWS WEB",
+            "url": "https://www3.nhk.or.jp/news/html/20200929/k10012639031000.html",
+            "urlToImage": "https://www3.nhk.or.jp/news/html/20200929/K10012639031_2009290146_2009290157_01_02.jpg"
+        },
+        {
+            "author": "日本経済新聞社",
+            "content": "IT\r\n2020/9/28 23:59 (2020/9/29 1:30)\r\nNTTNTT3TOB4TOB5GIoT\r\nNTT66.2%34",
+            "description": "■一般株主が持つ３割強の株式を取得する■グループ一体で投資し世界で成長■菅首相が掲げる携帯料金値下げも見据える",
+            "publishedAt": "2020-09-28T14:59:00Z",
+            "source": {
+                "id": null,
+                "name": "Nikkei.com"
+            },
+            "title": "NTT、ドコモを完全子会社化 TOB4兆円超 - 日本経済新聞",
+            "url": "https://www.nikkei.com/article/DGXMZO64352350Y0A920C2MM8000/",
+            "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXMZO6435222028092020I00002-KB2.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=scale&h=500&ixlib=java-1.2.0&s=d6fbc4284d9bac8ddf407a90f3bfaa75"
+        },
+        {
+            "author": "ブラボー成田",
+            "content": null,
+            "description": "本記事は、モンストで今週すべきことをまとめてみました。 ぜひ迷った時はこちらを参考にしてみてください！",
+            "publishedAt": "2020-09-28T12:27:00Z",
+            "source": {
+                "id": null,
+                "name": "Appbank.net"
+            },
+            "title": "【モンスト】オーブ温存できると思うなよ? 年に1度の大型イベント開催!【今週やることまとめ】 - AppBank.net",
+            "url": "https://www.appbank.net/2020/09/28/iphone-application/1969328.php",
+            "urlToImage": "https://imgc.appbank.net/c/wp-content/uploads/2020/09/2020-09-28.jpg"
+        },
+        {
+            "author": null,
+            "content": null,
+            "description": null,
+            "publishedAt": "2020-09-28T12:00:09Z",
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "title": "【超・獣神祭限定新キャラ】ハレルヤ使ってみた！新アビリティ「状態異常底力」やロックオンする「ツインワンウェイレーザー EL」が登場！撃種変更する大号令SSも所持！【新キャラ使ってみた｜モンスト公式】 - モンスト（モンスターストライク）公式",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9aDBsM1I5RHMwZWPSAQA?oc=5",
+            "urlToImage": null
+        },
+        {
+            "author": null,
+            "content": null,
+            "description": null,
+            "publishedAt": "2020-09-28T11:47:35Z",
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "title": "Apple Watch Series6実機レビューの巻！:スマホ総研定例会#151 - アスキー",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TUNHUGtmSXJjN3fSAQA?oc=5",
+            "urlToImage": null
+        },
+        {
+            "author": "ITmedia Mobile",
+            "content": "NTT101\r\nFOMAXi me F-01L12 F-01MAQUOS SH-02L1FOMAXi3GXiMNPLG style3 L-41A35000Galaxy A41 SC-41A3 me F-01L165003GXiMNP2\r\n3G4GXiMNP F-42A16500AQUOS SH-02L F-01M110004GXiMNPGalaxy A41 SC-41A2 me F-01L150… [+46 chars]",
+            "description": "NTTドコモは、10月1日から指定の手続きで対象機種を購入した際に割引を行う「はじめてスマホ購入サポート」「端末購入割引」の内容を変更する。",
+            "publishedAt": "2020-09-28T10:53:27Z",
+            "source": {
+                "id": null,
+                "name": "Yahoo.co.jp"
+            },
+            "title": "ドコモ、10月1日に端末割引を変更 「らくらくホン」「AQUOS ケータイ」などが対象に（ITmedia Mobile） - Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/articles/d2d782f9ca3637084fd1fea242eafe5b4332598e",
+            "urlToImage": "https://amd.c.yimg.jp/amd/20200928-00000098-zdn_m-000-1-view.jpg"
+        },
+        {
+            "author": "田中聡，ITmedia",
+            "content": "930155GYouTubeTwitter\r\n5G202063639930\r\n5GAQUOS R5G\r\nCopyright © ITmedia, Inc. All Rights Reserved.",
+            "description": "楽天モバイルが、9月30日15時から5Gサービスの料金プランや詳細を発表する。当日はYouTubeでライブ配信を行う。楽天モバイルの5Gサービスは、当初は2020年6月の開始を予定していたが、新型コロナの影響で遅れが生じていた。",
+            "publishedAt": "2020-09-28T10:10:00Z",
+            "source": {
+                "id": null,
+                "name": "Itmedia.co.jp"
+            },
+            "title": "楽天モバイル、9月30日に5Gサービスの詳細を発表 - ITmedia",
+            "url": "https://www.itmedia.co.jp/mobile/articles/2009/28/news147.html",
+            "urlToImage": "https://image.itmedia.co.jp/mobile/articles/2009/28/l_st52693_raku5g-01.jpg"
+        },
+        {
+            "author": "ねとらぼ調査隊",
+            "content": null,
+            "description": "Amazonの国内「スマートフォン本体」カテゴリの売れ筋ランキングを紹介します（9/28 15:08時点）。3位　第3位は「Xiaomi Redmi Note9S 4+64GB」。6.67インチFHD+ DotDisplayと、4800万画素のAI4眼カメラを搭載しているほか、5…",
+            "publishedAt": "2020-09-28T10:05:00Z",
+            "source": {
+                "id": null,
+                "name": "Itmedia.co.jp"
+            },
+            "title": "今一番売れている「スマートフォン本体」AmazonランキングTOP10！（9/28 15:08）（1/2） | ねとらぼ調査隊 - ねとらぼ",
+            "url": "https://nlab.itmedia.co.jp/research/articles/56049/",
+            "urlToImage": "https://research.image.itmedia.co.jp/wp-content/uploads/2020/09/396173_m.jpg"
+        },
+        {
+            "author": "ASCII",
+            "content": "202092NVIDIAAmpereGPUGeForce RTX 30GeForce RTX 3090GeForce RTX 3080RTX 3080PCBTO PCRTX 3080\r\nSEVENRTX 3080CPUCore i9-10900Ki9-10900KZEFT G15ASXRyzen 9 3900XTZEFT R15P-ASV2\r\nZEFT G15ASXZEFT R15P-ASVRT… [+1757 chars]",
+            "description": "パソコンショップSEVENでは、NVIDIAの新世代GPU「GeForce RTX 3080」を搭載したBTO PCを、Intel構成とAMD構成の両方で販売している。それぞれほぼ同価格帯のハイエンド構成だが、パフォーマンスに差があるのか、検証してみた。",
+            "publishedAt": "2020-09-28T10:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Ascii.jp"
+            },
+            "title": "Core i9-10900K vs Ryzen 9 3900XT！ RTX 3080搭載PCでゲームに強いのはどっち？ (1/2) - ASCII.jp",
+            "url": "https://ascii.jp/elem/000/004/028/4028037/",
+            "urlToImage": "https://ascii.jp/img/2020/09/25/3098082/l/ad804b1ef7e932c9.jpg?20200122"
+        },
+        {
+            "author": "エースラッシュ，ITmedia",
+            "content": "NTT101\r\nFOMAXi me F-01L12 F-01MAQUOS SH-02L1FOMAXi3GXiMNPLG style3 L-41A35000Galaxy A41 SC-41A3 me F-01L165003GXiMNP2\r\n3G4GXiMNP F-42A16500AQUOS SH-02L F-01M110004GXiMNPGalaxy A41 SC-41A2 me F-01L150… [+94 chars]",
+            "description": "NTTドコモは、10月1日から「はじめてスマホ購入サポート」「端末購入割引」を変更。新たに「らくらくホン F-01M」「AQUOS ケータイ SH-02L」などが対象に加わる。",
+            "publishedAt": "2020-09-28T09:29:00Z",
+            "source": {
+                "id": null,
+                "name": "Itmedia.co.jp"
+            },
+            "title": "ドコモ、10月1日に端末割引を変更 「らくらくホン」「AQUOS ケータイ」などが対象に - ITmedia",
+            "url": "https://www.itmedia.co.jp/mobile/articles/2009/28/news138.html",
+            "urlToImage": "https://image.itmedia.co.jp/mobile/articles/2009/28/l_asa_dwaribiki_01.jpg"
+        },
+        {
+            "author": "小暮ひさのり",
+            "content": "GooglePixel 5Google JapanTwitterPixel 5\r\n9to5MacPixel 574800\r\nPixel\r\nImage: Google \r\nWinFuture.dePixel 5Pixel 4a5G\r\nSoCPixel 5Pixel 4aSnapdragon 765GPixel 5RAM 8GBPixel 4a5GRAM 6GB\r\nPixel 56Pixel 4a5… [+173 chars]",
+            "description": "あれれ、公式がお漏らし…。まもなく発表？な予感がするGoogleの時期フラッグシップスマホPixel 5ですが、Google JapanのTwitterアカウントで、Pixel 5の予約購入をアナウンスするツイートが誤投稿されてしまったようです。すでに該当ツイートは削除されていますが（9to5Macの記事から残留思念が確認できます）、このお漏らしによってPixel 5本体のデザインと、7万480",
+            "publishedAt": "2020-09-28T09:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "title": "7万4800円ってお買い得じゃん。Pixel 5の価格をGoogle Japanアカウントが誤ツイート - GIZMODO JAPAN",
+            "url": "https://www.gizmodo.jp/2020/09/220998.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2020/09/28/200928pik00-w960.jpg"
+        },
+        {
+            "author": null,
+            "content": null,
+            "description": "Amazonが年に1度実施している大安売りイベント「プライムデー」。2020年は10月13日午前0時から同14日23時59分の2日間にわたって開催。レビューで星4つ以上の人気商品を中心に数十万点のセール商品を販売する",
+            "publishedAt": "2020-09-28T08:35:00Z",
+            "source": {
+                "id": null,
+                "name": "Livedoor.com"
+            },
+            "title": "年に1度の大安売り Amazon「プライムデー」10月13日と14日に開催 - livedoor",
+            "url": "https://news.livedoor.com/article/detail/18969786/",
+            "urlToImage": "https://image.news.livedoor.com/newsimage/stf/e/7/e72f9_1186_a051d573_808e9cf8.jpg"
+        },
+        {
+            "author": "荻窪圭，ITmedia",
+            "content": "Xperia I IIXperia 10 IIXperia 1 IIPhotography Pro\r\nAWB\r\nXperia 10 II316mm26mm52mm\r\nXperia 1 II2\r\nXperia10 IIXperia 1 II24mm70mm\r\n1x\r\nXperia 1 IIXperia 10 II\r\n52mm70mm\r\nCopyright © ITmedia, Inc. All R… [+14 chars]",
+            "description": "薄くてすらっとしていて手になじみそうな「Xperia 10 II」。上位機の「Xperia I II」とはどこが違うのか比較して確かめてみた。",
+            "publishedAt": "2020-09-28T08:15:00Z",
+            "source": {
+                "id": null,
+                "name": "Itmedia.co.jp"
+            },
+            "title": "ミッドレンジ「Xperia 10 II」のカメラはどう？ 「Xperia 1 II」と比較してみた - ITmedia",
+            "url": "https://www.itmedia.co.jp/mobile/articles/2009/28/news033.html",
+            "urlToImage": "https://image.itmedia.co.jp/mobile/articles/2009/28/l_ki0980_001-P9160090.JPG"
+        },
+        {
+            "author": null,
+            "content": "auUQ mobileauUQau101 \r\n UQ mobile365UQ mobileMAXUQ \r\n UQ mobileauUQ mobile95003000au3000",
+            "description": "auは、UQ mobileからauへの番号移行がお得になる「UQモバイル→au番号移行プログラム」を10月1日から提供する。番号移行時の通料や通信料金の割引が受けられる。",
+            "publishedAt": "2020-09-28T08:01:05Z",
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "title": "au、UQ mobileからの番号移行プログラムを10月から開始 - ケータイ Watch",
+            "url": "https://k-tai.watch.impress.co.jp/docs/news/1279547.html",
+            "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1279/547/au.jpg"
+        }
+    ],
+    "status": "ok",
+    "totalResults": 70
+}
