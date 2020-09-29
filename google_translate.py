@@ -34,8 +34,10 @@ def get_translation(to_translate):
    
     trans_dict = json.loads(translated_text)
     #translation = json.loads(trans_dict)
-    print(trans_dict['data']['translation'])
+    #print(trans_dict['data']['translation'])
+    translation = trans_dict['data']['translation']
+    return translation
     
     
-get_translation("ハロウィン")
+#get_translation("ハロウィン")
 #get_languages()
