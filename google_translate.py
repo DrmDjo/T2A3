@@ -1,20 +1,9 @@
 import requests
 import json
+import config
 
 
-def get_languages():
-    url = "https://google-translate1.p.rapidapi.com/language/translate/v2/languages"
-
-    headers = {
-        'x-rapidapi-host': "google-translate1.p.rapidapi.com",
-        'x-rapidapi-key': "6923311cd5mshf40c236972f983dp1ac38ajsnbd57f09a852e",
-        'accept-encoding': "application/gzip"
-        }
-
-    response = requests.request("GET", url, headers=headers)
-
-    print(response.text)
-
+# API call to Google Translate Api and translate given text and copy into JSON
 def get_translation(to_translate):
 
     url = "https://google-translate20.p.rapidapi.com/translate"
@@ -23,7 +12,7 @@ def get_translation(to_translate):
 
     headers = {
         'x-rapidapi-host': "google-translate20.p.rapidapi.com",
-        'x-rapidapi-key': "6923311cd5mshf40c236972f983dp1ac38ajsnbd57f09a852e"
+        'x-rapidapi-key': config.google_api_key
         }
 
     response = requests.request("GET", url, headers=headers, params=querystring)
@@ -40,4 +29,3 @@ def get_translation(to_translate):
     
     
 #get_translation("ハロウィン")
-#get_languages()

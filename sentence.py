@@ -1,12 +1,8 @@
 #!/usr/sbin/python
 
-
 import csv
 
-
-
-
-#Generic Re useable READ KANJI function which will read in the relevant information and create a dictionary with the appropriate keys
+#READ Sentence function which will read in the relevant information and create a dictionary with the appropriate keys
 def read_sentence_csv_file(file_name):
     temp_file = file_name
     temp_dict = {}

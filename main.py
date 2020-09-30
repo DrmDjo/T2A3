@@ -1,21 +1,25 @@
 #!/usr/sbin/python
 
 
-import csv
-import random
+from os import system
 import sys, time
 
-from os import system
-
+#File handlers
+import csv
 import json
+
+#Custom modules
 import kanji
 import news
 import google_translate
 
+
+#Function to read in and return JSON file
 def read_json(filename):
    with open(filename) as file:
        return(json.load(file))
 
+#Imports kanji from JSON file produced by the kanji.py module and instantiates Kanji objects
 def import_kanji():
     
     kanji_list=[]
@@ -39,35 +43,21 @@ def import_kanji():
         kunyomi = kanji_data[idx]['kanji']['kunyomi']['hiragana']
         onyomi = kanji_data[idx]['kanji']['onyomi']['katakana']
         meaning = kanji_data[idx]['kanji']['meaning']['english']
-        #example = kanji_data[idx]['examples'][0]['japanese']
         for ex_idx, ex_val in enumerate(kanji_data[idx]['examples']):
             temp_jp_ex_list.append(kanji_data[idx]['examples'][ex_idx]['japanese'])
             temp_eng_ex_list.append(kanji_data[idx]['examples'][ex_idx]['meaning']['english'])
             
         kanji_list.append(Kanji(character,kunyomi,onyomi,meaning,temp_jp_ex_list,temp_eng_ex_list))
-    
-        
-    # for k in kanji_list:
-    #     c= k.get_character()
-    #     k= k.get_kunyomi()
-    #     o= k.get_onyomi()
-    #     m= k.get_meaning()
-        
-    #     #print(c,k,o,m) 
         
     return kanji_list
 
-
+#Imports Current News Headlines from JSON file produced by the news.py module and instantiates Kanji objects
 def import_news():
     
     news_list=[]
     
     if __name__ == "__main__":
         news_data = read_json('news_data.json')
-    
-    #print(news_data)
-    
-    #print(news_data["articles"][1]["description"])
     
     for idx, val in enumerate(news_data):
         author = news_data['articles'][idx]['author']
@@ -76,17 +66,10 @@ def import_news():
         content = news_data['articles'][idx]['description']
         news_list.append(News(author,title,publish_date,content))
         
-    # for n in news_list:
-    #     a=n.get_author()
-    #     t=n.get_title()
-    #     pd=n.get_publish_date()
-    #     c=n.get_content()
-        
-    #     #print(a,t,pd,c)
-       
-        
     return news_list
     
+
+#Read sentence from example sentence csv file
 def read_sentence_csv_file(file_name):
     temp_file = file_name
     temp_dict = {}
@@ -113,18 +96,12 @@ def import_sentence():
     sentence_list=[]
     
     for idx,val in enumerate(sentence_dict):
-        sentence = sentence_dict[idx]['num']
+        sentence = sentence_dict[idx]['sentence']
         sentence_list.append(Sentence(sentence))
         
     return sentence_list
     
 
-
-        
-        
-
-    
-            
 
 class Kanji:
     def __init__(self,character,kunyomi,onyomi,meaning,jp_example,eng_example):
@@ -185,19 +162,19 @@ class Sentence:
         
 
 
-class Lesson:
-    def __init__(self,kanji,max_kanji,news):
-        self.kanji = kanji
-        self.max_kanji = max_kanji
-        self.news = news
-        self.kanji_lesson_list = []
+# class Lesson:
+#     def __init__(self,kanji,max_kanji,news):
+#         self.kanji = kanji
+#         self.max_kanji = max_kanji
+#         self.news = news
+#         self.kanji_lesson_list = []
         
-    def add_kanji (self,kanji):
-        if len(self.kanji_lesson_list) < self.max_kanji:
-            self.kanji_lesson_list.append(kanji)
+#     def add_kanji (self,kanji):
+#         if len(self.kanji_lesson_list) < self.max_kanji:
+#             self.kanji_lesson_list.append(kanji)
             
-    def add_sentence (self,sentence):
-        pass
+#     def add_sentence (self,sentence):
+#         pass
 
     
 
@@ -234,7 +211,12 @@ def kanji_menu(main_kanji_list,count):
 
         """)
   
-    print(main_kanji_list[kanji_counter].get_character())
+    character = main_kanji_list[kanji_counter].get_character()
+    print(f"""
+    
+    Kanji - {character}
+    
+    """)
     
     user_input = ""
     while user_input not in ("N","n","R","r","M","m","E","e","X","x","Q","q"):
@@ -292,10 +274,19 @@ def kanji_reading(main_kanji_list,count):
 
 
         """)
+        
+    character = main_kanji_list[kanji_counter].get_character()
+    kunyomi = kanji_list[kanji_counter].get_kunyomi()
+    onyomi = kanji_list[kanji_counter].get_onyomi()
+    
+    print(f"""
+    
+    Kanji   - {character}
+    Kunyomi - {kunyomi}
+    Onyomi  - {onyomi}
+    
+    """)
   
-    print(kanji_list[kanji_counter].get_character())
-    print(kanji_list[kanji_counter].get_kunyomi())
-    print(kanji_list[kanji_counter].get_onyomi())
     
     user_input = ""
     while user_input not in ("N","n","R","r","M","m","E","e","X","x","Q","q"):
@@ -353,9 +344,20 @@ def kanji_meaning(main_kanji_list,count):
 
 
         """)
+        
+    character = main_kanji_list[kanji_counter].get_character()
+    meaning = kanji_list[kanji_counter].get_meaning()
+    
+    
+    print(f"""
+    
+    Kanji   - {character}
+    Meaning - {meaning}
+    
+    
+    """)
   
-    print(kanji_list[kanji_counter].get_character())
-    print(kanji_list[kanji_counter].get_meaning())
+    
     
     user_input = ""
     while user_input not in ("N","n","R","r","M","m","E","e","X","x","Q","q"):
@@ -411,11 +413,20 @@ def kanji_example(main_kanji_list,count):
 
 
         """)
-  
-    print(kanji_list[kanji_counter].get_character())
-    print(kanji_list[kanji_counter].get_jp_example())
-    print(kanji_list[kanji_counter].get_eng_example())
+        
+    character = main_kanji_list[kanji_counter].get_character()
+    jp_example = kanji_list[kanji_counter].get_jp_example()
+    eng_example = kanji_list[kanji_counter].get_eng_example()
     
+    print(f"""
+    
+    Kanji            - {character}
+    Japanese example - {jp_example}
+    Meaning          - {eng_example}
+    
+    """)
+  
+
     
     user_input = ""
     while user_input not in ("N","n","R","r","M","m","E","e","X","x","Q","q"):
@@ -475,8 +486,16 @@ def sentence_menu(main_sentence_list,count):
 
         """)
   
-    print(sentence_list[sentence_counter].get_sentence())
     
+    sentence = sentence_list[sentence_counter].get_sentence()
+    
+    
+    
+    print(f"""
+    
+    Sentence   - {sentence}
+    
+    """)
     
     
     user_input = ""
@@ -529,13 +548,26 @@ def sentence_meaning(main_sentence_list,count):
 
 
         """)
+    
     current_sentence =sentence_list[sentence_counter].get_sentence()
-    print(current_sentence)
-    print("USING GOOGLE TRANSLATE>>>>>>")
+    
+    print(f"""
+    
+    Sentence   - {current_sentence}
+    
+    """)
+    
+    
     sentence_meaning = google_translate.get_translation(current_sentence)
-    print(sentence_meaning)
+    
+    print(f"""
+    
+    USING GOOGLE TRANSLATE>>>>>>
+    
+    Translation   - {sentence_meaning}
     
     
+    """)
     user_input = ""
     while user_input not in ("N","n","M","m","P","p","X","x","Q","q"):
             
@@ -573,6 +605,8 @@ def news_menu(main_news_list, count):
         
         You chose the News Headlines
         
+        M - Meaning <<<
+        
         N - NEXT KANJI
         P - PREVIOUS KANJI
         
@@ -582,14 +616,24 @@ def news_menu(main_news_list, count):
         Q - QUIT PROGRAM
         
         """)
-        
-    print(news_list[news_counter].get_author())
-    print(news_list[news_counter].get_title())
-    print(news_list[news_counter].get_content())
-    print(news_list[news_counter].get_publish_date())
+    
+    author = news_list[news_counter].get_author()
+    title = news_list[news_counter].get_title()
+    content = news_list[news_counter].get_content()
+    publish_date = news_list[news_counter].get_publish_date()
+    
+    print(f"""
+    
+    Title          - {title}
+    Headline       - {content}
+    Author         - {author}
+    Published Date - {publish_date}
+    
+    
+    """)
     
     user_input = ""
-    while user_input not in ("N","n","P","p","X","x","Q","q"):
+    while user_input not in ("M","m","N","n","P","p","X","x","Q","q"):
     
         user_input = input("Make your choice - ")
 
@@ -599,7 +643,78 @@ def news_menu(main_news_list, count):
         elif user_input.upper() =="P":
             news_counter -=1
             news_menu(news_list,news_counter)
+        elif user_input.upper() =="M":
+            news_meaning(news_list,news_counter)
+        elif user_input.upper() == "X":
+            start()
+        elif user_input.upper() == "Q":
+            sys.exit()
+        else:
+            print("Please try again ")
             
+def news_meaning(main_news_list, count):
+    news_list = main_news_list
+    news_counter = count
+    _ = system('clear')
+    print("""
+
+        
+        You chose the News Headlines
+        
+        M - Meaning <<<
+        
+        N - NEXT KANJI
+        P - PREVIOUS KANJI
+        
+    
+        X - EXIT TO MAIN MENU
+
+        Q - QUIT PROGRAM
+        
+        """)
+    
+    author = news_list[news_counter].get_author()
+    title = news_list[news_counter].get_title()
+    content = news_list[news_counter].get_content()
+    publish_date = news_list[news_counter].get_publish_date()
+    
+    
+    title_meaning = google_translate.get_translation(title)
+    content_meaning = google_translate.get_translation(content)
+    
+    
+    print(f"""
+    
+    Title                - {title}
+    
+    Headline             - {content}
+    
+    Author               - {author}
+    
+    Published Date - {publish_date}
+    
+    USING GOOGLE TRANSLATE>>>>>>
+    
+    Title Translation    - {title_meaning}
+    
+    Headline Translation - {content_meaning}
+    
+    """)
+    
+    
+    user_input = ""
+    while user_input not in ("M","m","N","n","P","p","X","x","Q","q"):
+    
+        user_input = input("Make your choice - ")
+
+        if user_input.upper() =="N":
+            news_counter +=1
+            news_menu(news_list,news_counter)
+        elif user_input.upper() =="P":
+            news_counter -=1
+            news_menu(news_list,news_counter)
+        elif user_input.upper() =="M":
+            news_meaning(news_list,news_counter)
         elif user_input.upper() == "X":
             start()
         elif user_input.upper() == "Q":

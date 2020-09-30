@@ -2,7 +2,18 @@ import requests
 import json
 
 import io
+import config
+import os
 
+#Delete JSON file on start up.
+def delete_kanji_JSON():
+    if os.path.exists("kanji_data.json"):
+        os.remove("kanji_data.json")
+    else:
+        #print("The file does not exist")
+        pass
+
+# API call to Kanji Alive Api and copy into JSON
 def write_kanji():
     try:
         to_unicode = unicode
@@ -18,7 +29,7 @@ def write_kanji():
     
     headers = {
         'x-rapidapi-host': "kanjialive-api.p.rapidapi.com",
-        'x-rapidapi-key': "6923311cd5mshf40c236972f983dp1ac38ajsnbd57f09a852e"
+        'x-rapidapi-key': config.kanji_api_key
         }
     
     response = requests.request("GET", url, headers=headers, params=querystring)
@@ -43,6 +54,6 @@ def read_kanji():
 
    # print(data_loaded)
     
-
+delete_kanji_JSON()
 write_kanji()
 read_kanji()

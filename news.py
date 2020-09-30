@@ -2,7 +2,18 @@ import requests
 import json
 
 import io
+import os
+import config
 
+#Delete file on start up.
+def delete_news_JSON():
+    if os.path.exists("news_data.json"):
+        os.remove("news_data.json")
+    else:
+        #print("The file does not exist")
+        pass
+
+# API call to News Api and copy into JSON
 def write_news():
     try:
         to_unicode = unicode
@@ -14,7 +25,7 @@ def write_news():
     querystring = {"country":"jp","category":"technology"}
 
     headers = {
-        'x-api-key': "2d2aae6c9cc64cd0a10af6ffb26b8927"
+        'x-api-key': config.news_api_key
         }
 
     response = requests.request("GET", url, headers=headers, params=querystring)
@@ -40,6 +51,6 @@ def read_news():
 
    # print(data_loaded)
     
-
+delete_news_JSON()
 write_news()
 read_news()
