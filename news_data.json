@@ -1,17 +1,69 @@
 {
     "articles": [
         {
-            "author": "尾田和実",
-            "content": "SONY\r\nSONYwenawena31127\r\nwena\r\nwena3\r\nSuicaEdyiDQUICPayANAd24\r\nUP\r\nwena3wean wrist active30%/2.5mm\r\n/3SONY SUS316S\r\nSONYwena3LEDLEDLEDVO2 MAX\r\nVO2 Max4\r\nAlexa\r\nwena 3 metal Silver33,000wena 3 leather… [+157 chars]",
-            "description": "鮮やかな進化！ SONYだからできたスマートウォッチ戦国時代へ本気すぎる回答。世界初で初めて（ヘッドのムーブメントではなく）バンド部分に電子マネー・通知・活動ログなどスマートウォッチの機能を集約したSONY｢wena｣シリーズ。その最新版となる｢wena3｣が本日発表されました（発売：11月27日）。 ざっくり言うと｢シンプルな時計の方がいいんだったら、バンドをハイテクにしちゃえばいいじゃない｣",
-            "publishedAt": "2020-10-01T08:30:00Z",
+            "author": null,
+            "content": "Surface Laptop Surface Laptop Go \r\n Surface Laptop 12.4 \r\n10 Intel Core i513 / 84480\r\nSurface laptop 13.515 Surface Laptop Go 12.4\r\n Laptop 3 13.51265-1288gLaptop Go1110g\r\n SurfaceSurface Laptop Go 8… [+98 chars]",
+            "description": "マイクロソフトが Surface Laptop の新製品 Surface Laptop Go を発表しました。",
+            "publishedAt": "2020-10-01T13:43:42Z",
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "title": "Surface Laptop Go発表。12.4インチで8万円台からの軽量ノート - Engadget日本版",
+            "url": "https://japanese.engadget.com/laptop-go-133954911.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-09/5daf5d16-02d7-11eb-bfeb-23f48df3b194"
+        },
+        {
+            "author": null,
+            "content": "Snapdragon 8cxSQ1SQ2SKUSurface Pro X\r\n Surface Pro X(2019)10Surface Pro XMicrosoft SQ2(SQ2)SoC \r\n<table>1Surface Pro X\r\n<tr><th></th><th>Surface Pro X </th></tr><tr><td>CPU</td><td>Microsoft SQ1/SQ2<… [+1548 chars]",
+            "description": "Microsoftは10月1日(現地時間)に「Surface Pro X」のリフレッシュ版を発表した。今回のリフレッシュでは、現行製品はそのまま据え置かれるが、最上位として新型SoC(System On a Chip)となる「Microsoft SQ2」を搭載した製品が追加された。また、新しいカラーバリエーションとしてプラチナカラーが追加される。",
+            "publishedAt": "2020-10-01T13:00:00Z",
             "source": {
                 "id": null,
-                "name": "Gizmodo.jp"
+                "name": "Impress.co.jp"
             },
-            "title": "ソニーだけだよ！ 最新版｢wena3｣がスマートウォッチの未来を変えるかも - ギズモード・ジャパン",
-            "url": "https://www.gizmodo.jp/2020/10/sony_wena_2020.html",
-            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2020/10/01/S09-02B_naname_up_%EF%BC%92-w960.jpg"
+            "title": "「Surface Pro X」が刷新。新プロセッサ「SQ2」搭載 - PC Watch",
+            "url": "https://pc.watch.impress.co.jp/docs/news/1280217.html",
+            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1280/217/001.jpg"
+        },
+        {
+            "author": null,
+            "content": null,
+            "description": null,
+            "publishedAt": "2020-10-01T11:38:29Z",
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "title": "ついにリード最大7GB/sに到達！Samsung製の超爆速Gen 4 SSD「980 PRO」の実力：ジサトラKTU #170 - アスキー",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dVI5MXRvVVNuRzjSAQA?oc=5",
+            "urlToImage": null
+        },
+        {
+            "author": "ギズモード・ジャパン",
+            "content": "iPhone 12\r\niPhone 12 Max\r\niPhone 12 Pro\r\niPhone 12 Pro Max\r\niPhoneiPhone 12iPhone 12 MaxiPhone 12 ProiPhone 12 Pro Max4Pro2Pro2\r\niPhone12 mini \r\niPhone12 \r\niPhone12 Pro \r\niPhone12 Pro Max\r\n5.4iPhone … [+26 chars]",
+            "description": "気がつけばもうそんな時期。\n\nつい先日、年が明けたような記憶があるんだけど、気がつけばもう9月！ そう、そろそろ次のiPhoneの姿が見え隠れしてくる、りんご収穫の秋が近づいて参りました。",
+            "publishedAt": "2020-10-01T10:00:02Z",
+            "source": {
+                "id": null,
+                "name": "Yahoo.co.jp"
+            },
+            "title": "【10/1更新】iPhone 12関連リーク情報まとめ：発売日・サイズ・価格など（ギズモード・ジャパン） - Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/articles/db6be0dd8703a7f236751a846af0409fc511207b",
+            "urlToImage": "https://amd.c.yimg.jp/amd/20201001-00000016-giz-000-1-view.jpg"
+        },
+        {
+            "author": "puzzdora",
+            "content": "AndroidGoogle PlayVer.18.5.1\r\nAndroid \r\nAndroidGoogle PlayVer.18.5.1\r\n#https://t.co/65zLb4LYb2\r\n— pad_sexy (@pad_sexy) October 1, 2020\r\nAndroid 11\r\nAndroidOS\r\nAndroid",
+            "description": "パズドラ本編にて、Android（Google Playストア）版の最新アプリVer.18.5.1アップデートが公開されました。 表示が崩れている場合はこちらからご覧ください。 Android版のアプ",
+            "publishedAt": "2020-10-01T08:49:00Z",
+            "source": {
+                "id": null,
+                "name": "Appbank.net"
+            },
+            "title": "【パズドラ】※重要※ Ver.18.5.1アップデートのお知らせ。Android版のアプリを使用している人は要チェック! - AppBank.net",
+            "url": "https://www.appbank.net/2020/10/01/iphone-application/1971617.php",
+            "urlToImage": "https://imgc.appbank.net/c/wp-content/uploads/2020/10/toriaezu.jpg"
         },
         {
             "author": null,
@@ -28,6 +80,71 @@
         },
         {
             "author": null,
+            "content": "PCMXMX Anywhere 3 MX Anywhere 3 for Mac 1029\r\nMX Anywhere 2S3\r\nMX Anywhere 2S99g7gMX MASTER 3MagSpeedUSB-C\r\nDarkfield200dpi4000dpi50dpi6100.5×34.4×65mm99g\r\n70518\r\nMX Anywhere 3 Windows2.4GHzBluetooth… [+64 chars]",
+            "description": "ロジクールは、PC周辺機器のフラッグシップモデル「MXシリーズ」より、携帯性にすぐれたマウス「MXAnywhere3コンパクトパフォーマンスマウス」と「MXAnywhere3forMacコンパクトパフォーマンスマウス」を発表。10月29日...",
+            "publishedAt": "2020-10-01T07:19:00Z",
+            "source": {
+                "id": null,
+                "name": "Kakaku.com"
+            },
+            "title": "ロジクール、3年ぶりの刷新した小型フラッグシップマウス「MX Anywhere 3」 - 価格.com",
+            "url": "https://news.kakaku.com/prdnews/cd=pc/ctcd=0160/id=98806/",
+            "urlToImage": "https://img1.kakaku.k-img.com/Images/prdnews/2020100/20201001155941_819_.jpg"
+        },
+        {
+            "author": "lexi",
+            "content": "InstagramDMFacebookMessenger\r\nMessenger101,000DMMessengerInstagramInstagramFacebook5431\r\nMessengerInstagramInstagramMessenger\r\nInstagramMessenger<ul><li></li>InstagramMessengerInstagramMessenger\r\n<li… [+201 chars]",
+            "description": "&nbsp;Instagramのダイレクトメッセージ（DM）で、新たにFacebookのMessenger体験が利用可能となりました。高まるプライベートなコミュニケーション空間の重要性Messenge…",
+            "publishedAt": "2020-10-01T06:11:00Z",
+            "source": {
+                "id": null,
+                "name": "Iphone-mania.jp"
+            },
+            "title": "InstagramとMessengerのメッセージング機能が統合〜数々の新機能も - iPhone Mania",
+            "url": "https://iphone-mania.jp/news-316627/",
+            "urlToImage": "https://d3a3a5e2ntl4bk.cloudfront.net/uploads/2020/10/ig_upsell_1up.png"
+        },
+        {
+            "author": "MACお宝鑑定団",
+            "content": "MicrosoftAppleXboxApple TV AppWindows Central\r\nLGSamsungApple TV App\r\nXbox Series S Xbox Series X1110\r\nCopyright (C) 1998 Mac Treasure Tracing Club. All rights reserved.",
+            "description": "Xbox Series Xは、Apple TVが動くセットトップボックスにできるようだ。",
+            "publishedAt": "2020-10-01T05:34:00Z",
+            "source": {
+                "id": null,
+                "name": "Itmedia.co.jp"
+            },
+            "title": "Xbox Series XはApple TVアプリ搭載か？ - ITmedia",
+            "url": "https://www.itmedia.co.jp/news/articles/2010/01/news114.html",
+            "urlToImage": "https://image.itmedia.co.jp/news/articles/2010/01/cover_news114.jpg"
+        },
+        {
+            "author": "乗りものニュース",
+            "content": "PASMO2020101ICPASMO106iPhoneApple WatchApple Pay\r\nPASMO \r\nICApple PayJRSuica2016282",
+            "description": "PASMO協議会は2020年10月1日（木）、交通系ICカード「PASMO」について、10月6日（火）よりiPhoneやApple Watch端末で決済ができる「Apple Pay」に対応すること",
+            "publishedAt": "2020-10-01T05:32:37Z",
+            "source": {
+                "id": null,
+                "name": "Yahoo.co.jp"
+            },
+            "title": "PASMOが「Apple Pay」に対応 iPhoneやApple Watchで支払い可に 10月6日から（乗りものニュース） - Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/articles/e77d46351b1a13763d0dbd41afa1eb4c035c8d92",
+            "urlToImage": "https://amd.c.yimg.jp/amd/20201001-00010004-norimono-000-17-view.jpg"
+        },
+        {
+            "author": "kotobaya",
+            "content": "NTTdddd50dd\r\nd10110311ddddd50ddddddd\r\n1050\r\nd1102303502,000\r\n<li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li… [+27 chars]",
+            "description": "&nbsp;NTTドコモは、全国の対象dポイント加盟店かつd払い加盟店でdポイントカードを提示し、d払いで支払いをすると、最大50％のdポイントが還元される「d払いお買物ラリー」を開始しました。キャン…",
+            "publishedAt": "2020-10-01T05:23:00Z",
+            "source": {
+                "id": null,
+                "name": "Iphone-mania.jp"
+            },
+            "title": "ドコモ、dポイントカード提示＋d払いで最大50％還元キャンペーン開始 - iPhone Mania",
+            "url": "https://iphone-mania.jp/news-316585/",
+            "urlToImage": "https://d3a3a5e2ntl4bk.cloudfront.net/uploads/2020/10/343166254352117d17f4948db67acf34-e1601529282240.jpg"
+        },
+        {
+            "author": null,
             "content": "9305GNTTKDDI45G5G\"5G\"2980 \"\"?\r\nNTT5G5GKDDI4G5G5G\r\nNTTauKDDI3GcdmaOne3G3G5G4K5G5G\r\nABEMAABEMA Prime​​​​​​​",
             "description": "9月30日に楽天が5Gプランを発表し、携帯電話4社の5Gサービスが出揃った。ただ、現状について業界では、まだ「なんちゃって5G」との声もあるという。現時点で5Gのスピードを楽しめるものはあまりないと思うと元ドコモ執行役員",
             "publishedAt": "2020-10-01T05:12:00Z",
@@ -41,16 +158,16 @@
         },
         {
             "author": null,
-            "content": null,
-            "description": "CEATEC実施協議会は、10月20日～23日にオンラインで開催する「CEATEC 2020 ONLINE」の内容を発表した。また、10月1日正午から公式ウェブサイトをオープンし、来場者の登録を開始した。",
-            "publishedAt": "2020-10-01T05:10:44Z",
+            "content": "wena3wena 3101112724000\r\nwenaBluetooth\r\n3wena 3wena wristwenawena 3\r\nELEL\r\n18-24mm1mm7\r\nSuicaJR\r\nSuicawenaFeliCaSuica\r\nJRSuicaSuicaSuica\r\nJRSuica\r\nSuicaiOS / Androidwena24\r\nSuicaJRSuicaEdyIDQUICPayiO… [+82 chars]",
+            "description": "ソニーのスマートウォッチ wenaシリーズに第3世代「wena 3」が登場しました。本日（10月1日）より予約受付を開始し、11月27日より発売予定。希望小売価格は時計ヘッドが付属しない本体が税別3万3000円前後です。",
+            "publishedAt": "2020-10-01T05:05:38Z",
             "source": {
-                "id": null,
-                "name": "Impress.co.jp"
+                "id": "engadget",
+                "name": "Engadget"
             },
-            "title": "初のオンライン開催「CEATEC 2020 ONLINE」の内容発表、来場者登録を開始 - INTERNET Watch",
-            "url": "https://internet.watch.impress.co.jp/docs/news/1280232.html",
-            "urlToImage": "https://internet.watch.impress.co.jp/img/iw/list/1280/232/001.jpg"
+            "title": "ついにSuica対応、ソニー新スマートウォッチwena 3発表 - Engadget日本版",
+            "url": "https://japanese.engadget.com/suica-wena-sony-050136555.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-10/ad5ac5b0-03a0-11eb-bbfd-6241bc01cb10"
         },
         {
             "author": "Pachi",
@@ -92,30 +209,30 @@
             "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1280/224/01.jpg"
         },
         {
-            "author": "そうこ",
-            "content": "Copyright © mediagene Inc. All Rights Reserved.",
-            "description": "Pixel 5の背面パネルはリサイクルアルミニウム。なのに、ワイヤレス充電対応。…あれ、ワイヤレス充電って背面金属だとダメだよね？ え、新しいテクノロジー？  簡単なトリックがありました",
-            "publishedAt": "2020-10-01T04:10:00Z",
+            "author": null,
+            "content": "10111SIMOCN ONESAEXperia 10 II1023\r\n1,800XiaomiRedmi Note 9S\r\nSIMXperia 10 IISONYOCN ONEXperia 10 IIXperia 10 II\r\n1OPPO A5 2020Redmi Note 9S1\r\nSAE\r\nOCNONESAE\r\nXperia 10 II\r\n27,80030,58022,80025,080\r\n… [+1708 chars]",
+            "description": "10月1日の午前11時から、格安SIMの『OCN モバイル ONE』では『秋の人気スマホSAE』が開催されています。今回は新規取り扱い端末として『Xperia 10 II』が追加され、いきなりセールの対象に。セール期間は10月23日（金）までとなっていますが、人気端末に関してはそれまでに間違いなく『品切れ』となるのでご注意ください！ 今回の品切れ候補の筆頭となるのは、『1,800円～』という過去最",
+            "publishedAt": "2020-10-01T03:50:00Z",
             "source": {
                 "id": null,
-                "name": "Gizmodo.jp"
+                "name": "Evolves.biz"
             },
-            "title": "Pixel 5って背面パネルが金属なのに、どうやってワイヤレス充電してるの？ - ギズモード・ジャパン",
-            "url": "https://www.gizmodo.jp/2020/10/pixel5-charge.html",
-            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2020/10/01/201001ggk04-1-w960.jpg"
+            "title": "シャオミ、エクスペリア、オッポ、アクオスが1円～！秋の人気スマホSALEがスタート！即買い必須の品切れ候補はコレだ！ - ハイパーガジェット通信",
+            "url": "https://gadgets.evolves.biz/2020/10/01/autumnsmartphonesale10/",
+            "urlToImage": "https://gadgets.evolves.biz/wp-content/uploads/2020/10/akinosumahosake-1024x1024.jpg"
         },
         {
-            "author": "小暮ひさのり",
-            "content": "9 iPhone\r\niPhone\r\niPhone\r\niPhone 12\r\niPhone 12 Max\r\niPhone 12 Pro\r\niPhone 12 Pro Max\r\niPhoneiPhone 12iPhone 12 MaxiPhone 12 ProiPhone 12 Pro Max4Pro2Pro2\r\niPhone12 mini \r\niPhone12 \r\niPhone12 Pro \r\niP… [+2698 chars]",
-            "description": "iPhone12関連の最新リーク情報まとめ。発表日/発売日、価格/ストレージ、端末サイズ、デザイン・色、カメラ、ディスプレイ、プロセッサ・メモリ・バッテリー、5Gへの対応、指紋認証、iPhone12に期待したいポイントなど。",
-            "publishedAt": "2020-10-01T04:00:00Z",
+            "author": null,
+            "content": null,
+            "description": "Googleは、ビデオ会議サービス「Google Meet」（無料版）における利用時間の制限撤廃措置を9月末で終わらせるとしていたが、期限を延長し、2021年3月31日まで続けると発表した。",
+            "publishedAt": "2020-10-01T03:46:00Z",
             "source": {
                 "id": null,
-                "name": "Gizmodo.jp"
+                "name": "CNET"
             },
-            "title": "【10/1更新】iPhone 12関連リーク情報まとめ：発売日・サイズ・価格など - GIZMODO JAPAN",
-            "url": "https://www.gizmodo.jp/2020/10/iphone-12-matome.html",
-            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2020/09/08/2007305giPhone-1-w960.jpg"
+            "title": "無料版「Google Meet」、使い放題期間を2021年3月末まで延長--最長で24時間連続 - CNET Japan",
+            "url": "https://japan.cnet.com/article/35160312/",
+            "urlToImage": "https://japan.cnet.com/storage/2020/10/01/e7fbd1c731053a6797792b267df30ec4/t/640/480/d/2020_10_01_sato_nobuhiko_001_image_00.jpg"
         },
         {
             "author": "@GIGAZINE",
@@ -132,133 +249,16 @@
         },
         {
             "author": null,
-            "content": "電気自動車（ＥＶ）メーカー、米\r\nテスラは中国で同社初となる安価な車載電池を搭載したセダン「モデル３」を１日にも発表する。事情に詳しい複数の関係者が明らかにした。生産コストを引き下げ、世界最大のＥＶ市場の中国で販売を伸ばすことが可能になる。\r\n　　関係者の１人によると、中国電池メーカーのバッテリーを搭載したモデル３の価格は政府の補助金込みで24万9900元（約388万円）。テスラの基本モデルの最… [+308 chars]",
-            "description": "電気自動車（ＥＶ）メーカー、米テスラは中国で同社初となる安価な車載電池を搭載したセダン「モデル３」を１日にも発表する。事情に詳しい複数の関係者が明らかにした。生産コストを引き下げ、世界最大のＥＶ市場の中国で販売を伸ばすことが可能になる。",
-            "publishedAt": "2020-10-01T03:19:00Z",
-            "source": {
-                "id": null,
-                "name": "Bloomberg.co.jp"
-            },
-            "title": "テスラが中国製「モデル３」値下げへ、ＣＡＴＬ電池搭載で－関係者 - ブルームバーグ",
-            "url": "https://www.bloomberg.co.jp/news/articles/2020-10-01/QHI2BCDWRGG101",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyf7OvU7sNdk/v0/-1x-1.jpg"
-        },
-        {
-            "author": null,
-            "content": null,
-            "description": null,
-            "publishedAt": "2020-10-01T03:00:33Z",
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "title": "【Pixel 5】Google 新スマホ…そりゃねーぜ！ - ギズモード・ジャパン",
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Yk4xbzRKUlEwVDTSAQA?oc=5",
-            "urlToImage": null
-        },
-        {
-            "author": "Rina Fukazu",
-            "content": "...\r\niPad8 iPad2020...Gizmodo\r\niPadiPad\r\niPadiPad\r\niPadFace IDiPad800iPadPro...6004iPad Air\r\n&lt; class=\"\" &gt;8 iPad2020\r\nPhoto: Caitlin McGarry/Gizmodo\r\niPad\r\n33043034800\r\niPad OSiPad\r\niPad10.2IDBl… [+408 chars]",
-            "description": "｢ものすごく特別なことは何もないけれど...｣いわゆる｢無印iPad｣と呼ばれる、第8世代 iPad（2020）。｢アップル史上最高のコスパ｣と聞くけれど、どれほどのパフォーマンスが期待できるのか、昨年モデルと共通する部分はどれか...米Gizmodoがレビューしています。 アップルの新しいiPadは、普通に良いです。昨年のiPadと見た目も似ているのと、多機能なわけでもないのですが、それでもお",
-            "publishedAt": "2020-10-01T03:00:00Z",
-            "source": {
-                "id": null,
-                "name": "Gizmodo.jp"
-            },
-            "title": "安いけど、頼れるiPadだよ！：第8世代 iPad（2020）レビュー - GIZMODO JAPAN",
-            "url": "https://www.gizmodo.jp/2020/10/ipad-8gen-review.html",
-            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2020/09/30/20200929iPad8thGen-w960.jpg"
-        },
-        {
-            "author": "鈴木淳也（Junya Suzuki），ITmedia",
-            "content": "Microsoft918Release Preview ChannelBuild 19042.508KB457175620H2October 2020 Update\r\n20H2\r\n98Beta Channel922Build 19042.508WSLElement not foundBuild 19042.541BetaRelease Preview\r\nMicrosoft20206Windows… [+854 chars]",
-            "description": "次期Windows 10の大型アップデート「20H2」（開発コード名）が、「October 2020 Update」として間もなくリリースされるようだ。直近の情報をまとめた。",
-            "publishedAt": "2020-10-01T03:00:00Z",
-            "source": {
-                "id": null,
-                "name": "Itmedia.co.jp"
-            },
-            "title": "大型アップデート「20H2」は「October 2020 Update」として間もなくリリースへ - ITmedia",
-            "url": "https://www.itmedia.co.jp/pcuser/articles/2010/01/news056.html",
-            "urlToImage": "https://image.itmedia.co.jp/pcuser/articles/2010/01/cover_news056.png"
-        },
-        {
-            "author": "時事通信",
-            "content": null,
-            "description": "警察庁は1日、今年上半期に全国の警察が扱ったサイバー犯罪に関するまとめを発表した。「マスクが届かない」など半数近くが詐欺。",
-            "publishedAt": "2020-10-01T02:49:33Z",
-            "source": {
-                "id": null,
-                "name": "Yahoo.co.jp"
-            },
-            "title": "サイバー犯罪コロナ関連608件 - Yahoo!ニュース",
-            "url": "https://news.yahoo.co.jp/pickup/6372512",
-            "urlToImage": "https://s.yimg.jp/images/jpnews/cre/common/all/images/fbico_ogp_1200x630.png"
-        },
-        {
-            "author": null,
-            "content": "101SIMOCN ONEXperia 10 IIXperia 10 IIdocomoauYmobileXperia 10 IIOCN ONEXperia 10 II\r\nOCN ONEXperia 10 II\r\n32,80036,080102311SIM27,80030,5803Xperia 10 II\r\n5,000OFF22,80025,080Xperia 10 II\r\nXperia 10 I… [+1409 chars]",
-            "description": "10月1日（木）、ついに格安SIM『OCN モバイル ONE』でも『Xperia 10 II』の取り扱いが開始されました。『Xperia 10 II』は元々『docomo』『au』『Ymobile』のみで取り扱いが行われていたので、『Xperia 10 II』欲しさに契約すると通信料金が割高に。『OCN モバイル ONE』は通信料金が格安なので、長期的なランニングコストを鑑みても間違いなくお得。最",
-            "publishedAt": "2020-10-01T02:02:00Z",
-            "source": {
-                "id": null,
-                "name": "Evolves.biz"
-            },
-            "title": "格安SIMでXperia 10 IIが発売記念SALE開始！ご祝儀特価22,800円！まずい安さ！これは品切れるぞ！ - ハイパーガジェット通信",
-            "url": "https://gadgets.evolves.biz/2020/10/01/xperia10ii_startsale/",
-            "urlToImage": "https://gadgets.evolves.biz/wp-content/uploads/2020/10/xperiaa-1024x1024.jpg"
-        },
-        {
-            "author": null,
-            "content": "CFDGIGABYTEGeForce RTX 3080GV-N3080AORUS M-10GD10109,980 \r\n LCDGIFRGBRGB FUSION 2.0 \r\n Max-Covered (3)115/100mm \r\n OCDual BIOSHDMI 2.0×3DisplayPort 1.4a×36(4) \r\n CUDA8,7041,845MHzGDDR6X19Gbps320bit10… [+53 chars]",
-            "description": "CFD販売株式会社は、ステータスなどを表示できる液晶を搭載したGIGABYTE製GeForce RTX 3080ビデオカード「GV-N3080AORUS M-10GD」を10月上旬に発売する。価格はオープンプライスで、税別店頭予想価格は109,980円前後の見込み。",
-            "publishedAt": "2020-10-01T02:00:43Z",
+            "content": "654KLCD-M4K652XDB12168,000 \r\n LCD-M4K652XDBADS500cd/m10bitHDR10CREX \r\n 3,840×2,160107,3748ms500cd/m1,200:1/178 \r\n HDMI×3(14K/60HzHDCP 2.2)DisplayPortD-Sub15USB()3.5mm×2(1)()10W+10W \r\n 1,451×335×880mm… [+21 chars]",
+            "description": "株式会社アイ・オー・データ機器は、65型4K液晶ディスプレイ「LCD-M4K652XDB」を12月上旬より発売する。価格はオープンプライスで、税別店頭予想価格は168,000円前後の見込み。",
+            "publishedAt": "2020-10-01T03:33:04Z",
             "source": {
                 "id": null,
                 "name": "Impress.co.jp"
             },
-            "title": "GIGABYTE、ステータス表示液晶搭載のGeForce RTX 3080ビデオカード - PC Watch",
-            "url": "https://pc.watch.impress.co.jp/docs/news/1280152.html",
-            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1280/152/1.jpg"
-        },
-        {
-            "author": "日本経済新聞社",
-            "content": "IT\r\n5G\r\n2020/10/1 11:00",
-            "description": "スマートフォンで契約者の情報の入った「ＳＩＭカード」を使わない通信サービスが拡大している。データ通信を音声とは別で契約でき、利用者はそれぞれで安い契約を選べる。米アップルの廉価版「ｉＰｈｏｎｅ」での",
-            "publishedAt": "2020-10-01T02:00:00Z",
-            "source": {
-                "id": null,
-                "name": "Nikkei.com"
-            },
-            "title": "アップルが迫る通信料競争 SIM内蔵で選択肢広がる - 日本経済新聞",
-            "url": "https://www.nikkei.com/article/DGXMZO64345100Y0A920C2TJ2000/",
-            "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXMZO6351606007092020SHA101-KB2.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=max&ixlib=java-1.2.0&s=1f1709f7222660db807be5e141ba061d"
-        },
-        {
-            "author": null,
-            "content": null,
-            "description": "中国のスマートフォン大手の小米科技（シャオミ）は、中国国外で初めて発売するスマートウォッチ「Mi Watch」を発表した。まずは欧州の一部地域を皮切りに、世界の他の地域にも販売エリアを拡大するという。",
-            "publishedAt": "2020-10-01T01:57:00Z",
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "title": "シャオミ、バッテリー持続16日の新型スマートウォッチ「Mi Watch」を発表 - CNET Japan",
-            "url": "https://japan.cnet.com/article/35160300/",
-            "urlToImage": "https://japan.cnet.com/storage/2020/10/01/76ee4321d7c9d546eb7e3688cdfddfbe/t/640/480/d/264d4365-cdad-40cc-b0d9-1c341e0109a2_1280x960.jpg"
-        },
-        {
-            "author": null,
-            "content": "Google2020930GoogleSuggestions()Portrait Light\r\nA new, more helpful editor in Google Photos\r\nhttps://blog.google/products/photos/new-helpful-editor/\r\n1Color PopGoogleGooglePixel\r\n(UI)Adjust()Blur()\r\n… [+94 chars]",
-            "description": "Googleが2020年9月30日に、無料で使用できる写真とムービーのストレージサービス「Googleフォト」に、機械学習で写真を自動的に編集できる「Suggestions(提案)」機能や、光源の位置を任意に変更可能な「Portrait Lig",
-            "publishedAt": "2020-10-01T01:54:00Z",
-            "source": {
-                "id": null,
-                "name": "Livedoor.com"
-            },
-            "title": "「Googleフォト」に自動編集機能の追加を発表 光源の位置も変更可能 - livedoor",
-            "url": "https://news.livedoor.com/article/detail/18984621/",
-            "urlToImage": "https://image.news.livedoor.com/newsimage/stf/d/f/dfa74_88_eafdfdbd2dce83677fc8365795a51b45.png"
+            "title": "アイ・オー、65型のHDR10対応4K液晶 - PC Watch",
+            "url": "https://pc.watch.impress.co.jp/docs/news/1280190.html",
+            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1280/190/01.jpg"
         }
     ],
     "status": "ok",

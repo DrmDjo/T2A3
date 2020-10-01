@@ -5,7 +5,6 @@ import requests, uuid, json
 def get_transliteration(to_translit):
     
     text = to_translit
-    #encode_text = text.encode('utf-8')
     
     # Add your subscription key and endpoint
     subscription_key = "71f480298d394bf89b0a987c4b4efa0c"
@@ -18,7 +17,7 @@ def get_transliteration(to_translit):
         'api-version': '3.0',
         'language': 'ja',
         'fromScript': 'Jpan',
-        'toScript': 'latn'
+        'toScript': 'Latn'
     }
     constructed_url = endpoint + path
     
@@ -28,7 +27,7 @@ def get_transliteration(to_translit):
         'X-ClientTraceId': str(uuid.uuid4())
     }
     
-    # You can pass more than one object in body.
+    
     body = [{
         'text': text
     }]
@@ -36,17 +35,19 @@ def get_transliteration(to_translit):
     request = requests.post(constructed_url, params=params, headers=headers, json=body)
     response = request.json()
     
-    print(json.dumps(response, sort_keys=True, indent=4, separators=(',', ': ')))
+    translit_json = json.dumps(response, sort_keys=True, indent=4, separators=(',', ': '))
     
 
         
-    #translit_text= response.text
+    
    
-    #trans_dict = json.loads(translit_text)
-    #translation = json.loads(trans_dict)
-    #print(translit_text)
-    #translation = trans_dict['data']['translation']
-  #return translation
+    trans_dict = json.loads(translit_json)
+    
+    #print(trans_dict)
+    transliteration = trans_dict[0]['text']
+    #print(transliteration)
+    
+    return transliteration
     
     
-get_transliteration("こんにちは")
+get_transliteration("電話番号")

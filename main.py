@@ -16,6 +16,7 @@ import kanji
 import news
 import google_translate
 import microsoft_translate
+import microsoft_transliterate
 
 
 #Function to read in and return JSON file
@@ -564,7 +565,8 @@ def sentence_meaning(main_sentence_list,count):
     
     """)
     
-
+    
+    ms_translit = microsoft_transliterate.get_transliteration(current_sentence)
     
     google_translation = google_translate.get_translation(current_sentence)
     
@@ -573,14 +575,18 @@ def sentence_meaning(main_sentence_list,count):
     
     print(f"""
     
+    USING MICROSOFT AZURE TRANSLITERATION>>>>
+    
+    Transliteration -  {ms_translit}
+    
     USING GOOGLE TRANSLATE>>>>>>
     
-    Translation   - {google_translation}
+    Translation     - {google_translation}
     
     
     USING MICROSOFT TRANSLATE>>>>>>
     
-    Translation   - {ms_translation}
+    Translation     - {ms_translation}
     
     
     """)

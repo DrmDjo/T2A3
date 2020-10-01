@@ -23,7 +23,7 @@ def get_transliteration(to_translit):
    
     #trans_dict = json.loads(translit_text)
     #translation = json.loads(trans_dict)
-    print(translit_text)
+    #print(translit_text)
     #translation = trans_dict['data']['translation']
    #return translation
     
