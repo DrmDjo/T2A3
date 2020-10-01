@@ -1,22 +1,15 @@
 import requests
+import re
 
 
-def get_languages():
-    url = "https://microsoft-azure-translation-v1.p.rapidapi.com/GetLanguagesForTranslate"
-
-    headers = {
-        'x-rapidapi-host': "microsoft-azure-translation-v1.p.rapidapi.com",
-        'x-rapidapi-key': "6923311cd5mshf40c236972f983dp1ac38ajsnbd57f09a852e"
-        }
-
-    response = requests.request("GET", url, headers=headers)
-
-    print(response.text)
-
-def get_translation():
+def get_translation(translate_text):
+    
+    text = translate_text
+    encode_text = text.encode('utf-8')
+    
     url = "https://microsoft-azure-translation-v1.p.rapidapi.com/translate"
-    text = "hello world"
-    querystring = {"from":"en","to":"ja","text":text}
+    
+    querystring = {"from":"ja","to":"en","text":encode_text}
 
     headers = {
         'x-rapidapi-host': "microsoft-azure-translation-v1.p.rapidapi.com",
@@ -26,10 +19,19 @@ def get_translation():
 
     response = requests.request("GET", url, headers=headers, params=querystring)
 
-    print(response.text)
+
+    
+    #print(response.text)
+    output = response.text
+    #Strip HTML Tags
+    get_html_config = re.compile('<.*?>')
+    just_translated_text = re.sub(get_html_config, '', output)
+    
+    #print(just_translated_text)
+    return just_translated_text
     
 def get_transliteration():
     pass
     
-get_translation()
-get_languages()
+#get_translation("自分で書いて、自分で買って、自分で使ってます")
+#get_languages()

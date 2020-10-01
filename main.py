@@ -3,6 +3,8 @@
 
 from os import system
 import sys, time
+import random
+
 
 #File handlers
 import csv
@@ -12,6 +14,7 @@ import json
 import kanji
 import news
 import google_translate
+import microsoft_translate
 
 
 #Function to read in and return JSON file
@@ -98,6 +101,8 @@ def import_sentence():
     for idx,val in enumerate(sentence_dict):
         sentence = sentence_dict[idx]['sentence']
         sentence_list.append(Sentence(sentence))
+        
+    random.shuffle(sentence_list)
         
     return sentence_list
     
@@ -198,9 +203,9 @@ def kanji_menu(main_kanji_list,count):
 
         LEARNING KANJI MENU
         
-        R - Reading <<<
-        M - Meaning <<<
-        E - Examples <<<
+        R - READING <<<
+        M - MEANING <<<
+        E - EXAMPLES <<<
         
         N - NEXT KANJI
         P - PREVIOUS KANJI
@@ -262,9 +267,9 @@ def kanji_reading(main_kanji_list,count):
 
         LEARNING KANJI MENU
         
-        R - Reading <<<
-        M - Meaning <<<
-        E - Examples <<<
+        R - READING <<<
+        M - MEANING <<<
+        E - EXAMPLES <<<
         
         N - NEXT KANJI
         P - PREVIOUS KANJI
@@ -332,9 +337,9 @@ def kanji_meaning(main_kanji_list,count):
 
         LEARNING KANJI MENU
         
-        R - Reading <<<
-        M - Meaning <<<
-        E - Examples <<<
+        R - READING <<<
+        M - MEANING <<<
+        E - EXAMPLES <<<
         
         N - NEXT KANJI
         P - PREVIOUS KANJI
@@ -401,9 +406,9 @@ def kanji_example(main_kanji_list,count):
 
         LEARNING KANJI MENU
         
-        R - Reading <<<
-        M - Meaning <<<
-        E - Examples <<<
+        R - READING <<<
+        M - MEANING <<<
+        E - EXAMPLES <<<
         
         N - NEXT KANJI
         P - PREVIOUS KANJI
@@ -474,11 +479,11 @@ def sentence_menu(main_sentence_list,count):
         SENTENCE MENU
         
        
-        M - Meaning <<<
+        M - MEANING <<<
         
         
-        N - NEXT KANJI
-        P - PREVIOUS KANJI
+        N - NEXT SENTENCE
+        P - PREVIOUS SENTENCE
     
         X - EXIT TO MAIN MENU
         Q - QUIT PROGRAM
@@ -525,6 +530,7 @@ def sentence_menu(main_sentence_list,count):
             
             
 def sentence_meaning(main_sentence_list,count):
+    
     sentence_list = main_sentence_list
     sentence_counter = count
     
@@ -537,11 +543,11 @@ def sentence_meaning(main_sentence_list,count):
         SENTENCE MENU
         
        
-        M - Meaning <<<
+        M - MEANING <<<
         
         
-        N - NEXT KANJI
-        P - PREVIOUS KANJI
+        N - NEXT SENTENCE
+        P - PREVIOUS SENTENCE
     
         X - EXIT TO MAIN MENU
         Q - QUIT PROGRAM
@@ -605,10 +611,10 @@ def news_menu(main_news_list, count):
         
         You chose the News Headlines
         
-        M - Meaning <<<
+        M - MEANING <<<
         
-        N - NEXT KANJI
-        P - PREVIOUS KANJI
+        N - NEXT HEADLINE
+        P - PREVIOUS HEADLINE
         
     
         X - EXIT TO MAIN MENU
@@ -638,8 +644,14 @@ def news_menu(main_news_list, count):
         user_input = input("Make your choice - ")
 
         if user_input.upper() =="N":
-            news_counter +=1
-            news_menu(news_list,news_counter)
+            
+            if news_counter< (len(news_list)-1):
+                news_counter +=1
+                news_menu(news_list,news_counter)
+            else:
+                print("end of list")
+                news_menu(news_list,news_counter)
+                
         elif user_input.upper() =="P":
             news_counter -=1
             news_menu(news_list,news_counter)
@@ -661,10 +673,10 @@ def news_meaning(main_news_list, count):
         
         You chose the News Headlines
         
-        M - Meaning <<<
+        M - MEANING <<<
         
-        N - NEXT KANJI
-        P - PREVIOUS KANJI
+        N - NEXT HEADLINE
+        P - PREVIOUS HEADLINE
         
     
         X - EXIT TO MAIN MENU
@@ -679,8 +691,8 @@ def news_meaning(main_news_list, count):
     publish_date = news_list[news_counter].get_publish_date()
     
     
-    title_meaning = google_translate.get_translation(title)
-    content_meaning = google_translate.get_translation(content)
+    title_meaning = microsoft_translate.get_translation(title)
+    content_meaning = microsoft_translate.get_translation(content)
     
     
     print(f"""
@@ -693,7 +705,7 @@ def news_meaning(main_news_list, count):
     
     Published Date - {publish_date}
     
-    USING GOOGLE TRANSLATE>>>>>>
+    USING MICROSOFT TRANSLATE>>>>>>
     
     Title Translation    - {title_meaning}
     
@@ -708,8 +720,14 @@ def news_meaning(main_news_list, count):
         user_input = input("Make your choice - ")
 
         if user_input.upper() =="N":
-            news_counter +=1
-            news_menu(news_list,news_counter)
+            
+            if news_counter< (len(news_list)-1):
+                news_counter +=1
+                news_menu(news_list,news_counter)
+            else:
+                print("end of list")
+                news_menu(news_list,news_counter)
+                
         elif user_input.upper() =="P":
             news_counter -=1
             news_menu(news_list,news_counter)
@@ -726,6 +744,7 @@ def news_meaning(main_news_list, count):
 
 def start():
     
+    #Calls to start filling each list with objects of each type
     main_kanji_list = import_kanji()
     main_news_list = import_news()
     main_sentence_list = import_sentence()
@@ -739,8 +758,8 @@ Welcome to your Japanese Reader
 
 
     K - LEARNING KANJI
-    S - Sentences
-    N - News Headlines
+    S - SENTENCES
+    N - NEWS HEADLINES
 
     Q - QUIT PROGRAM
 
