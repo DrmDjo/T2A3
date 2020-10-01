@@ -6,6 +6,7 @@ import sys, time
 import random
 
 
+
 #File handlers
 import csv
 import json
@@ -563,14 +564,23 @@ def sentence_meaning(main_sentence_list,count):
     
     """)
     
+
     
-    sentence_meaning = google_translate.get_translation(current_sentence)
+    google_translation = google_translate.get_translation(current_sentence)
+    
+    
+    ms_translation = microsoft_translate.get_translation(current_sentence)
     
     print(f"""
     
     USING GOOGLE TRANSLATE>>>>>>
     
-    Translation   - {sentence_meaning}
+    Translation   - {google_translation}
+    
+    
+    USING MICROSOFT TRANSLATE>>>>>>
+    
+    Translation   - {ms_translation}
     
     
     """)

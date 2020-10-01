@@ -1,6 +1,97 @@
 {
     "articles": [
         {
+            "author": "尾田和実",
+            "content": "SONY\r\nSONYwenawena31127\r\nwena\r\nwena3\r\nSuicaEdyiDQUICPayANAd24\r\nUP\r\nwena3wean wrist active30%/2.5mm\r\n/3SONY SUS316S\r\nSONYwena3LEDLEDLEDVO2 MAX\r\nVO2 Max4\r\nAlexa\r\nwena 3 metal Silver33,000wena 3 leather… [+157 chars]",
+            "description": "鮮やかな進化！ SONYだからできたスマートウォッチ戦国時代へ本気すぎる回答。世界初で初めて（ヘッドのムーブメントではなく）バンド部分に電子マネー・通知・活動ログなどスマートウォッチの機能を集約したSONY｢wena｣シリーズ。その最新版となる｢wena3｣が本日発表されました（発売：11月27日）。 ざっくり言うと｢シンプルな時計の方がいいんだったら、バンドをハイテクにしちゃえばいいじゃない｣",
+            "publishedAt": "2020-10-01T08:30:00Z",
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "title": "ソニーだけだよ！ 最新版｢wena3｣がスマートウォッチの未来を変えるかも - ギズモード・ジャパン",
+            "url": "https://www.gizmodo.jp/2020/10/sony_wena_2020.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2020/10/01/S09-02B_naname_up_%EF%BC%92-w960.jpg"
+        },
+        {
+            "author": null,
+            "content": "1013014235922020AmazonAmazon\r\nAmazonEcho Dot3Echo Dot43Amazon3\r\nAmazon20201Amazon Fire HD 8\r\nFire 7YouTubeFire HD 10Fire HD 82Fire HD 81Fire HD 8Amazon\r\nFire HD 86,980Amazon5,9805,480Fire HD 85\r\nAmaz… [+1085 chars]",
+            "description": "10月13日（火）0時から14日（水）23時59分の2日間に渡って開催される2020年最大級のセールイベント『Amazonプライムデー』。開催日の発表と共に、『Amazonプライムデー』の対象となるアイテムがいくつか発表されました。 しかし、目玉商品になりうる『Amazonブランド』の商品が『Echo Dot（第3世代）』しか見当たらない。すでに『Echo Dot（第4世代）』がリリースされている",
+            "publishedAt": "2020-10-01T07:50:00Z",
+            "source": {
+                "id": null,
+                "name": "Evolves.biz"
+            },
+            "title": "【朗報】AmazonプライムデーにFire HD 8、Echo Show 8、Kindle Paperwhiteが参戦！ - ハイパーガジェット通信",
+            "url": "https://gadgets.evolves.biz/2020/10/01/amazonprimeday_2020_fire_kindle_echo/",
+            "urlToImage": "https://gadgets.evolves.biz/wp-content/uploads/2020/10/primesdada-1024x1024.jpg"
+        },
+        {
+            "author": null,
+            "content": "9305GNTTKDDI45G5G\"5G\"2980 \"\"?\r\nNTT5G5GKDDI4G5G5G\r\nNTTauKDDI3GcdmaOne3G3G5G4K5G5G\r\nABEMAABEMA Prime​​​​​​​",
+            "description": "9月30日に楽天が5Gプランを発表し、携帯電話4社の5Gサービスが出揃った。ただ、現状について業界では、まだ「なんちゃって5G」との声もあるという。現時点で5Gのスピードを楽しめるものはあまりないと思うと元ドコモ執行役員",
+            "publishedAt": "2020-10-01T05:12:00Z",
+            "source": {
+                "id": null,
+                "name": "Livedoor.com"
+            },
+            "title": "現状の5Gサービスは「なんちゃって」状態？恩恵少ない状態か - livedoor",
+            "url": "https://news.livedoor.com/article/detail/18985580/",
+            "urlToImage": "https://image.news.livedoor.com/newsimage/stf/9/b/9b021_1585_80287ebc51de1f0176e6ee1d8513a5ad.jpg"
+        },
+        {
+            "author": null,
+            "content": null,
+            "description": "CEATEC実施協議会は、10月20日～23日にオンラインで開催する「CEATEC 2020 ONLINE」の内容を発表した。また、10月1日正午から公式ウェブサイトをオープンし、来場者の登録を開始した。",
+            "publishedAt": "2020-10-01T05:10:44Z",
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "title": "初のオンライン開催「CEATEC 2020 ONLINE」の内容発表、来場者登録を開始 - INTERNET Watch",
+            "url": "https://internet.watch.impress.co.jp/docs/news/1280232.html",
+            "urlToImage": "https://internet.watch.impress.co.jp/img/iw/list/1280/232/001.jpg"
+        },
+        {
+            "author": "Pachi",
+            "content": null,
+            "description": "「すき間時間がなくなった」って声をよく耳にするようになりました。それからちょっとした雑談もずいぶん減ってしまったって。COVIDの関係で、オンラインでの活動が増えたり必要時以外に口を開くことがためらわれたり。 乗り合わせ […]",
+            "publishedAt": "2020-10-01T05:01:59Z",
+            "source": {
+                "id": null,
+                "name": "Ibm.com"
+            },
+            "title": "都会型の会話と田舎型の会話 - Pachi - the Collaboration Energizer - ibm.com",
+            "url": "https://www.ibm.com/blogs/pachi/dialoguestyle/",
+            "urlToImage": "https://www.ibm.com/blogs/pachi/wp-content/uploads/2020/09/DialogueStyle.jpg"
+        },
+        {
+            "author": "編集部：さがさん",
+            "content": null,
+            "description": "日本一ソフトウェアは本日（2020年10月1日），買い切り型アプリブランド「ゲームバラエティー」の新タイトルとして，スマホ版「殺人探偵ジャック・ザ・リッパー」をリリースした。本作は，殺人鬼・切り裂きジャックを題材としたフルボイスのノベルアドベンチャーだ。",
+            "publishedAt": "2020-10-01T04:42:53Z",
+            "source": {
+                "id": null,
+                "name": "4gamer.net"
+            },
+            "title": "スマホ版「殺人探偵ジャック・ザ・リッパー」が本日配信。新規録り下ろしのボイスドラマや新機能“サウンドルーム”が追加 - 4Gamer.net",
+            "url": "https://www.4gamer.net/games/532/G053268/20201001035/",
+            "urlToImage": "https://www.4gamer.net/games/532/G053268/20201001035/TN/008.jpg"
+        },
+        {
+            "author": null,
+            "content": "Microsoft30()Windows 10 Insider PreviewBuild 20226Dev Channel \r\n NVMe SSD()SSD \r\n (Your Phone) \r\n WSL2The remote procedure call failed",
+            "description": "Microsoftは30日(現地時間)、Windows 10 Insider Preview「Build 20226」をDev Channel向けに提供開始した。",
+            "publishedAt": "2020-10-01T04:28:13Z",
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "title": "Windows 10プレビュー版、NVMe SSDの異常を検知/通知する機能 - PC Watch",
+            "url": "https://pc.watch.impress.co.jp/docs/news/1280224.html",
+            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1280/224/01.jpg"
+        },
+        {
             "author": "そうこ",
             "content": "Copyright © mediagene Inc. All Rights Reserved.",
             "description": "Pixel 5の背面パネルはリサイクルアルミニウム。なのに、ワイヤレス充電対応。…あれ、ワイヤレス充電って背面金属だとダメだよね？ え、新しいテクノロジー？  簡単なトリックがありました",
@@ -41,32 +132,6 @@
         },
         {
             "author": null,
-            "content": "654KLCD-M4K652XDB12168,000 \r\n LCD-M4K652XDBADS500cd/m10bitHDR10CREX \r\n 3,840×2,160107,3748ms500cd/m1,200:1/178 \r\n HDMI×3(14K/60HzHDCP 2.2)DisplayPortD-Sub15USB()3.5mm×2(1)()10W+10W \r\n 1,451×335×880mm… [+21 chars]",
-            "description": "株式会社アイ・オー・データ機器は、65型4K液晶ディスプレイ「LCD-M4K652XDB」を12月上旬より発売する。価格はオープンプライスで、税別店頭予想価格は168,000円前後の見込み。",
-            "publishedAt": "2020-10-01T03:33:04Z",
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "title": "アイ・オー、65型のHDR10対応4K液晶 - PC Watch",
-            "url": "https://pc.watch.impress.co.jp/docs/news/1280190.html",
-            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1280/190/01.jpg"
-        },
-        {
-            "author": "4Gamer編集部",
-            "content": "<table><tr><td>TUF-RTX3090-O24G-GAMINGTUF-RTX3080-O10G-GAMING</td></tr><tr><td></td><td>ASUS JAPAN</td><td></td><td>2020/10/01</td></tr></table>NVIDIA GeForce RTX 3090/3080TUF Gaming OC2\r\nASUS JAPANN… [+742 chars]",
-            "description": "TUF-RTX3090-O24G-GAMINGTUF-RTX3080-O10G-GAMING   配信元 ASUS JAPAN 配信日 2020/10/01    NVIDIA GeForce RTX 3090/3080を搭載したTUF Gamingシリーズ OCモデル2製品を発表  ASUS JAPAN株式会社は、NVIDIA GeForce RTX 3090/3080を搭載したTUF Gamingシリーズ OCモデル2製品（TUF-RTX3090-O24G-GAMING、…",
-            "publishedAt": "2020-10-01T03:27:16Z",
-            "source": {
-                "id": null,
-                "name": "4gamer.net"
-            },
-            "title": "TUF GamingからOC仕様のRTX 3090およびRTX 3080搭載カードが登場 - 4Gamer.net",
-            "url": "https://www.4gamer.net/games/424/G042406/20201001021/",
-            "urlToImage": "https://www.4gamer.net/games/424/G042406/20201001021/TN/001.jpg"
-        },
-        {
-            "author": null,
             "content": "電気自動車（ＥＶ）メーカー、米\r\nテスラは中国で同社初となる安価な車載電池を搭載したセダン「モデル３」を１日にも発表する。事情に詳しい複数の関係者が明らかにした。生産コストを引き下げ、世界最大のＥＶ市場の中国で販売を伸ばすことが可能になる。\r\n　　関係者の１人によると、中国電池メーカーのバッテリーを搭載したモデル３の価格は政府の補助金込みで24万9900元（約388万円）。テスラの基本モデルの最… [+308 chars]",
             "description": "電気自動車（ＥＶ）メーカー、米テスラは中国で同社初となる安価な車載電池を搭載したセダン「モデル３」を１日にも発表する。事情に詳しい複数の関係者が明らかにした。生産コストを引き下げ、世界最大のＥＶ市場の中国で販売を伸ばすことが可能になる。",
             "publishedAt": "2020-10-01T03:19:00Z",
@@ -80,29 +145,16 @@
         },
         {
             "author": null,
-            "content": "(MSI)34OPTIX MAG342CQRV867,000 \r\n OPTIX MAG342CQRV.com2019OPTIX MAG341CQUWQHD(3,440×1,440)1,500R21:9VA100Hz1ms \r\n Adaptive-SyncLEDMystic Light \r\n 250cd/m3,000:11,677sRGB96%DCI-P388%/178DisplayPort 1.… [+43 chars]",
-            "description": "エムエスアイコンピュータージャパン株式会社(MSI)は、34型の曲面ゲーミングディスプレイ「OPTIX MAG342CQRV」を8日に発売する。価格は67,000円前後。",
-            "publishedAt": "2020-10-01T03:12:13Z",
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "title": "MSI、100Hz/1ms表示対応の34型曲面ゲーミング液晶 - PC Watch",
-            "url": "https://pc.watch.impress.co.jp/docs/news/1280184.html",
-            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1280/184/01.jpg"
-        },
-        {
-            "author": "@GIGAZINE",
             "content": null,
-            "description": "ARMを搭載したWindows 10に、2020年11月から新たにx64エミュレーションが加わることをMicrosoftの最高製品責任者(CTO)であるであるパノス・パネイ氏が発表しました。2018年に登場したARM版Windows 10搭載PCは、記事作成時点でx86(32bit)アプリに対応しており、多くのx64(64bit)アプリの動作には未対応でした。今回のアップデートにより、x64アプリ全般がARM版Window 10搭載PCで動作可能になります。",
-            "publishedAt": "2020-10-01T03:00:00Z",
+            "description": null,
+            "publishedAt": "2020-10-01T03:00:33Z",
             "source": {
-                "id": null,
-                "name": "Gigazine.net"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "title": "ARM搭載のWindows 10向けにx64エミュレーションが登場、x64アプリ全般が動作可能に - GIGAZINE",
-            "url": "https://gigazine.net/news/20201001-windows-arm-x64-emulation/",
-            "urlToImage": "https://i.gzn.jp/img/2020/10/01/windows-arm-x64-emulation/00_m.jpg"
+            "title": "【Pixel 5】Google 新スマホ…そりゃねーぜ！ - ギズモード・ジャパン",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Yk4xbzRKUlEwVDTSAQA?oc=5",
+            "urlToImage": null
         },
         {
             "author": "Rina Fukazu",
@@ -131,17 +183,43 @@
             "urlToImage": "https://image.itmedia.co.jp/pcuser/articles/2010/01/cover_news056.png"
         },
         {
-            "author": null,
+            "author": "時事通信",
             "content": null,
-            "description": "サンワサプライ株式会社は、USB Type-C/HDMI接続の15.6型モバイルディスプレイ「DP-01」を発売した。価格はオープンプライスで、Amazon.co.jpでは3万円ほどで販売されている。",
-            "publishedAt": "2020-10-01T02:29:11Z",
+            "description": "警察庁は1日、今年上半期に全国の警察が扱ったサイバー犯罪に関するまとめを発表した。「マスクが届かない」など半数近くが詐欺。",
+            "publishedAt": "2020-10-01T02:49:33Z",
+            "source": {
+                "id": null,
+                "name": "Yahoo.co.jp"
+            },
+            "title": "サイバー犯罪コロナ関連608件 - Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/pickup/6372512",
+            "urlToImage": "https://s.yimg.jp/images/jpnews/cre/common/all/images/fbico_ogp_1200x630.png"
+        },
+        {
+            "author": null,
+            "content": "101SIMOCN ONEXperia 10 IIXperia 10 IIdocomoauYmobileXperia 10 IIOCN ONEXperia 10 II\r\nOCN ONEXperia 10 II\r\n32,80036,080102311SIM27,80030,5803Xperia 10 II\r\n5,000OFF22,80025,080Xperia 10 II\r\nXperia 10 I… [+1409 chars]",
+            "description": "10月1日（木）、ついに格安SIM『OCN モバイル ONE』でも『Xperia 10 II』の取り扱いが開始されました。『Xperia 10 II』は元々『docomo』『au』『Ymobile』のみで取り扱いが行われていたので、『Xperia 10 II』欲しさに契約すると通信料金が割高に。『OCN モバイル ONE』は通信料金が格安なので、長期的なランニングコストを鑑みても間違いなくお得。最",
+            "publishedAt": "2020-10-01T02:02:00Z",
+            "source": {
+                "id": null,
+                "name": "Evolves.biz"
+            },
+            "title": "格安SIMでXperia 10 IIが発売記念SALE開始！ご祝儀特価22,800円！まずい安さ！これは品切れるぞ！ - ハイパーガジェット通信",
+            "url": "https://gadgets.evolves.biz/2020/10/01/xperia10ii_startsale/",
+            "urlToImage": "https://gadgets.evolves.biz/wp-content/uploads/2020/10/xperiaa-1024x1024.jpg"
+        },
+        {
+            "author": null,
+            "content": "CFDGIGABYTEGeForce RTX 3080GV-N3080AORUS M-10GD10109,980 \r\n LCDGIFRGBRGB FUSION 2.0 \r\n Max-Covered (3)115/100mm \r\n OCDual BIOSHDMI 2.0×3DisplayPort 1.4a×36(4) \r\n CUDA8,7041,845MHzGDDR6X19Gbps320bit10… [+53 chars]",
+            "description": "CFD販売株式会社は、ステータスなどを表示できる液晶を搭載したGIGABYTE製GeForce RTX 3080ビデオカード「GV-N3080AORUS M-10GD」を10月上旬に発売する。価格はオープンプライスで、税別店頭予想価格は109,980円前後の見込み。",
+            "publishedAt": "2020-10-01T02:00:43Z",
             "source": {
                 "id": null,
                 "name": "Impress.co.jp"
             },
-            "title": "サンワサプライ、Type-C/HDMI接続の15.6型モバイルディスプレイ - PC Watch",
-            "url": "https://pc.watch.impress.co.jp/docs/news/1280168.html",
-            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1280/168/01.jpg"
+            "title": "GIGABYTE、ステータス表示液晶搭載のGeForce RTX 3080ビデオカード - PC Watch",
+            "url": "https://pc.watch.impress.co.jp/docs/news/1280152.html",
+            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1280/152/1.jpg"
         },
         {
             "author": "日本経済新聞社",
@@ -157,17 +235,17 @@
             "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXMZO6351606007092020SHA101-KB2.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=max&ixlib=java-1.2.0&s=1f1709f7222660db807be5e141ba061d"
         },
         {
-            "author": "ヤマダユウス型",
-            "content": "AUKEY8-in-1AUKEY CB-C71\r\n5j5createType-CMacBook ProPCAUKEY CB-C71\r\nImage: Amazon\r\n1Wi-Fi\r\nPhoto: \r\n2UHS-IISDUHS-IIType-CUHS-II\r\n5LANmicroSD100WPDType-C\r\nImage: Amazon\r\nAUKEY CB-C71Type-C\r\nSource: Ama… [+2 chars]",
-            "description": "AUKEYの8-in-1ハブ｢AUKEY CB-C71｣を5カ月レビュー。軽量さに加え、UHS-IIのSDカードが読み取れるところがポイント。100WPD急速充電対応なのも嬉しいところ",
-            "publishedAt": "2020-10-01T02:00:00Z",
+            "author": null,
+            "content": null,
+            "description": "中国のスマートフォン大手の小米科技（シャオミ）は、中国国外で初めて発売するスマートウォッチ「Mi Watch」を発表した。まずは欧州の一部地域を皮切りに、世界の他の地域にも販売エリアを拡大するという。",
+            "publishedAt": "2020-10-01T01:57:00Z",
             "source": {
                 "id": null,
-                "name": "Gizmodo.jp"
+                "name": "CNET"
             },
-            "title": "自分で書いて、自分で買って、自分で使ってます。AUKEYの8-in-1ハブを5カ月使った感想 - GIZMODO JAPAN",
-            "url": "https://www.gizmodo.jp/2020/10/aukey-8-in-1-hub.html",
-            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2020/09/30/200940aukeyhub_01-1-w960.jpg"
+            "title": "シャオミ、バッテリー持続16日の新型スマートウォッチ「Mi Watch」を発表 - CNET Japan",
+            "url": "https://japan.cnet.com/article/35160300/",
+            "urlToImage": "https://japan.cnet.com/storage/2020/10/01/76ee4321d7c9d546eb7e3688cdfddfbe/t/640/480/d/264d4365-cdad-40cc-b0d9-1c341e0109a2_1280x960.jpg"
         },
         {
             "author": null,
@@ -181,84 +259,6 @@
             "title": "「Googleフォト」に自動編集機能の追加を発表 光源の位置も変更可能 - livedoor",
             "url": "https://news.livedoor.com/article/detail/18984621/",
             "urlToImage": "https://image.news.livedoor.com/newsimage/stf/d/f/dfa74_88_eafdfdbd2dce83677fc8365795a51b45.png"
-        },
-        {
-            "author": "MOTA",
-            "content": "AmazonAmazon Alexa Echo Auto2020925930Echo Auto2018\r\nAmazon EchoAIAI\r\nEcho AutoAlexaIoT\r\nAmazon Alexa\r\nAlexa\r\n82microUSB3.5mm\r\nUSB3.5mmBluetoothAlexa\r\nAmazon",
-            "description": "「OK Google」「Hi Siri」「Hi Mercedes」といった音声による操作は、スマートフォンや最新の高級車だけの機能とお思いでは無いだろうか？インターネット通販最大手のAmazonから",
-            "publishedAt": "2020-10-01T01:50:28Z",
-            "source": {
-                "id": null,
-                "name": "Yahoo.co.jp"
-            },
-            "title": "車載用アレクサ「Echo Auto」発売｜4980円で手に入る最新のコネクティビティを見逃すな！（MOTA） - Yahoo!ニュース",
-            "url": "https://news.yahoo.co.jp/articles/8436a22421e6e17bd8f5ccb38fdbf4096717baf9",
-            "urlToImage": "https://amd.c.yimg.jp/amd/20201001-00010002-autoconen-000-1-view.jpg"
-        },
-        {
-            "author": null,
-            "content": "GooglePixel 5Pixel 4a(5G)74,80060,5005,28015Pixel 5KDDI \r\n Pixel 55G1,080×2,3406OLEDSnapdragon 765GPixel 48GB128GBJust BlackSorta Sage2 \r\n Pixel 4a(5G)Pixel 5Snapdragon 765G6GBJust Black",
-            "description": "Googleは、新型スマートフォン「Pixel 5」、および「Pixel 4a(5G)」の国内における直販価格を発表した。前者は74,800円、後者は60,500円。純正ファブリックケースは5,280円となる。本日より予約開始し、15日に発売する。Pixel 5はKDDIとソフトバンクからも発売される。",
-            "publishedAt": "2020-10-01T01:39:39Z",
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "title": "「Pixel 5」が国内で予約開始。価格は74,800円 - PC Watch",
-            "url": "https://pc.watch.impress.co.jp/docs/news/1280160.html",
-            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1280/160/1.jpg"
-        },
-        {
-            "author": null,
-            "content": "929STCSony 7R IV/9 II/7S IIIND13,80044,800 \r\n 7R IV9 II7S III397R7R II7R III7S7S II77 II7 III \r\n A2NANO",
-            "description": "株式会社よしみカメラは9月29日、STCの「Sony α7R IV/α9 II/α7S III用クリップフィルター」を発売した。保護フィルターやNDフィルター、赤外線カットフィルターなどをラインアップしている。同社直販サイトでの販売価格は税別1万3,800円～4万4,800円。",
-            "publishedAt": "2020-10-01T01:37:14Z",
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "title": "センサー前に装着するSTCクリップフィルターに、ソニーα7R IV/α9 II/α7S III用 - デジカメ Watch",
-            "url": "https://dc.watch.impress.co.jp/docs/news/1280062.html",
-            "urlToImage": "https://dc.watch.impress.co.jp/img/dcw/list/1280/062/01.jpg"
-        },
-        {
-            "author": "Rina Fukazu",
-            "content": "Apple Watch Series 3watchOS 79to5 Mac\r\nAppleMacRumorswatchOS 71\r\niPhonewatchOS 7\r\nSeries 3GPS\r\nSeries3Series 45SE63RAMWi-Fi\r\nSeries 3Series 3\r\nApplewatchOS 7watchOS 7.0.1Series 3\r\nGizmodoSeries 3\r\nAp… [+172 chars]",
-            "description": "安価で手に入るApple Watch Series 3ですが、購入するのは避けたほうがいいと、米Gizmodoの記者が語っています。どうやら、最新のwatchOS 7に更新すると、不規則に再起動が発生するバグがあるようです。",
-            "publishedAt": "2020-10-01T01:00:00Z",
-            "source": {
-                "id": null,
-                "name": "Gizmodo.jp"
-            },
-            "title": "やっぱりApple Watch Series 3は避けたほうがよさそう - GIZMODO JAPAN",
-            "url": "https://www.gizmodo.jp/2020/10/for-the-last-time-please-dont-buy-the-apple-watch-seri.html",
-            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2020/09/30/200929AppleWatchSeries3-w960.jpg"
-        },
-        {
-            "author": null,
-            "content": "VAIO101VAIO SX14VAIO SX12CPUIce Lake109 \r\n VAIOLTESIM3171,800 \r\n VAIO SX1414VAIO SX1212.5(2020)1Comet Lake10CoreGPUIce Lake \r\n Ice LakeHDMI60Hz4,096×2,160USB Type-C(DisplayPort)60Hz5,120×2,880Wi-Fi 6… [+2998 chars]",
-            "description": "VAIO株式会社は10月1日、モバイルノート「VAIO SX14」と「VAIO SX12」のCPUをIce Lakeに刷新した新モデルを発表した。発売日は10月9日で、本日より予約受付を開始する。",
-            "publishedAt": "2020-10-01T00:00:00Z",
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "title": "GPU性能を上げつつ駆動時間も延ばした1kg切りのモバイルノート「VAIO SX14/12」 - PC Watch",
-            "url": "https://pc.watch.impress.co.jp/docs/news/1280006.html",
-            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1280/006/00.jpg"
-        },
-        {
-            "author": null,
-            "content": "20193LUMIX S1LUMIX S1R92LUMIX DC-S1HDC-S1H6K \r\n 925LUMIX S5(DC-S5)S150S54K/60p24S1 \r\n LUMIX S 20-60mm F3.5-5.6(S-R2060)28304 \r\n4K/60p\r\n 4K/60pAPS-C \r\n APS-C12 \r\n AF \r\n 2FIXON \r\n V-log \r\n REC.709LUT4V… [+226 chars]",
-            "description": "パナソニックが2019年3月に、同社初のフルサイズ機「LUMIX S1」及び「LUMIX S1R」を投入、そして同年9月にははやくも第2弾となる「LUMIX DC-S1H」を発売した。特にDC-S1Hは6K動画撮影可能機として、コンテンツ制作業界に大きく接近したのも記憶に新しいところだ。",
-            "publishedAt": "2020-09-30T23:30:00Z",
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "title": "頑張れば手が届くフルサイズ。4K/60pも撮れる「LUMIX S5」を試す - AV Watch",
-            "url": "https://av.watch.impress.co.jp/docs/series/zooma/1280057.html",
-            "urlToImage": "https://av.watch.impress.co.jp/img/avw/list/1280/057/P1170219.jpg"
         }
     ],
     "status": "ok",

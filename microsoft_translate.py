@@ -30,8 +30,7 @@ def get_translation(translate_text):
     #print(just_translated_text)
     return just_translated_text
     
-def get_transliteration():
-    pass
+
     
 #get_translation("自分で書いて、自分で買って、自分で使ってます")
 #get_languages()
