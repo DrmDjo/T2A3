@@ -33,13 +33,14 @@ def import_kanji():
     if __name__ == "__main__":
         kanji_data = read_json('kanji_data.json')
        
-    
+   #Loops through kanji list and deletes unwanted keys and its values 
     for idx,val in enumerate(kanji_data):
         del(kanji_data[idx]['kanji']['video'])
         del(kanji_data[idx]['kanji']['strokes'])
         del(kanji_data[idx]['radical'])
         del(kanji_data[idx]['references'])
     
+    #Inserts the wanted values out of the dictionary and inner loop Extracts the sometimes multiple examples to be easier to use 
     for idx, val in enumerate(kanji_data):
         temp_jp_ex_list =[]
         temp_eng_ex_list = []
@@ -167,28 +168,6 @@ class Sentence:
     def get_sentence (self):
         return self.sentence
         
-
-
-# class Lesson:
-#     def __init__(self,kanji,max_kanji,news):
-#         self.kanji = kanji
-#         self.max_kanji = max_kanji
-#         self.news = news
-#         self.kanji_lesson_list = []
-        
-#     def add_kanji (self,kanji):
-#         if len(self.kanji_lesson_list) < self.max_kanji:
-#             self.kanji_lesson_list.append(kanji)
-            
-#     def add_sentence (self,sentence):
-#         pass
-
-    
-
-
-
-
-
 
 
 # EVERYTHING BELOW HERE ARE ALL MENUS WITH THE SAME STRUCTURE, THEY ALL HAVE APPROPRIATE CHOICES, USER INPUT AND INPUT VALIDATION
@@ -481,7 +460,7 @@ def sentence_menu(main_sentence_list,count):
         SENTENCE MENU
         
        
-        M - MEANING <<<
+        M - MEANING <<< TRANSLATION
         
         
         N - NEXT SENTENCE
@@ -545,7 +524,7 @@ def sentence_meaning(main_sentence_list,count):
         SENTENCE MENU
         
        
-        M - MEANING <<<
+        M - MEANING <<< TRANSLATION
         
         
         N - NEXT SENTENCE
@@ -627,7 +606,7 @@ def news_menu(main_news_list, count):
         
         You chose the News Headlines
         
-        M - MEANING <<<
+        M - MEANING <<< TRANSLATION
         
         N - NEXT HEADLINE
         P - PREVIOUS HEADLINE
@@ -689,7 +668,7 @@ def news_meaning(main_news_list, count):
         
         You chose the News Headlines
         
-        M - MEANING <<<
+        M - MEANING <<< TRANSLATION
         
         N - NEXT HEADLINE
         P - PREVIOUS HEADLINE

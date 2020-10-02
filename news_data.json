@@ -1,43 +1,69 @@
 {
     "articles": [
         {
+            "author": "編集部：楽器",
+            "content": "Foxtail-Grass StudioUnlucky Morpheus\r\nRecords\r\nCOOL&amp;CREATE\r\nDiGiTAL WiNGNEETs\r\nZYTOKINEIOSYSAlstroemeria Records\r\nProject",
+            "description": "STAR FACTORYとSEVEN VOLTは，新作スマホゲーム「東方ダンジョンダイブ」を，2020年冬に配信すると発表した。本作は“ローグライクアクション”で，同時公開されたプレイ動画では，東方Projectらしい撃って避けての一幕を見られる。",
+            "publishedAt": "2020-10-02T06:07:27Z",
+            "source": {
+                "id": null,
+                "name": "4gamer.net"
+            },
+            "title": "スマホ向けローグライク「東方ダンジョンダイブ」が2020年冬に配信決定。STGアクションでダンジョン最奥を目指す - 4Gamer.net",
+            "url": "https://www.4gamer.net/games/532/G053293/20201002055/",
+            "urlToImage": "https://www.4gamer.net/games/532/G053293/20201002055/SS/001.jpg"
+        },
+        {
             "author": "@GIGAZINE",
             "content": null,
-            "description": "by Marco Verch Professional Photographer",
-            "publishedAt": "2020-10-02T04:10:00Z",
+            "description": "Huaweiのセキュリティ問題を検証するために設立されたイギリスの政府機関が、2020年10月1日に「これまでにHuaweiのネットワークで発見された欠陥に関するHuaweiの対策は、限定的なものでしかない」とする報告書を発表しました。",
+            "publishedAt": "2020-10-02T06:00:00Z",
             "source": {
                 "id": null,
                 "name": "Gigazine.net"
             },
-            "title": "仮想通貨取引所「BitMEX」のCEOや幹部が訴追される、マネーロンダリング対策を故意に怠った疑い - GIGAZINE",
-            "url": "https://gigazine.net/news/20201002-ctfc-charges-bitmex-ceo-owners/",
-            "urlToImage": "https://i.gzn.jp/img/2020/10/02/ctfc-charges-bitmex-ceo-owners/00.jpg"
+            "title": "「Huaweiのセキュリティには改善が見られない」とイギリスの政府機関が報告 - GIGAZINE",
+            "url": "https://gigazine.net/news/20201002-huawei-ncsc-security-review/",
+            "urlToImage": "https://i.gzn.jp/img/2020/10/02/huawei-ncsc-security-review/00.jpg"
         },
         {
-            "author": null,
-            "content": "GALLERIA UA9R-R38 Ryzen+ RTX3080 CPUAMD Ryzen 9 3900X GPUNVIDIA GeForce RTX 3080 10GB GDDR6 AMD X570ATX 32GB DDR4 SDRAM16GB×2 1TB NVMe SSD/2TB HDD \r\n750W 80PLUS GOLD OSWindows 10 Home 64 \r\nUSB 3.2 Ge… [+468 chars]",
-            "description": "サードウェーブは、AMD Ryzen 9 3900X及びNVIDIA GeForce RTX 3080搭載のゲーミングPC全2機種の販売を全国21の「ドスパラ」各店舗、およびドスパラ通販サイトにて10月2日より開始した。価格は「GALLERIA UA9R-R38 Ryzen9+ RTX3080搭載」が309,980円（税別）、「GALLERIA ZA9R-R38 Ryzen9+ RTX3080 搭載」が259,980円（税別）。",
-            "publishedAt": "2020-10-02T04:00:18Z",
+            "author": "RIKUSYO",
+            "content": null,
+            "description": "ミュータントやモンスターは登場しない。",
+            "publishedAt": "2020-10-02T05:15:06Z",
             "source": {
                 "id": null,
-                "name": "Impress.co.jp"
+                "name": "Gamespark.jp"
             },
-            "title": "GALLERIA、RTX 3080+AMD Ryzenプロセッサー搭載モデル2機種を販売開始 - GAME Watch",
-            "url": "https://game.watch.impress.co.jp/docs/news/1280490.html",
-            "urlToImage": "https://game.watch.impress.co.jp/img/gmw/list/1280/490/003.jpg"
+            "title": "チェルノブイリ原発事故の処理作業に挑む『Chernobyl Liquidators Simulator』ゲームプレイ映像！ - Game*Spark",
+            "url": "https://www.gamespark.jp/article/2020/10/02/102656.html",
+            "urlToImage": "https://www.gamespark.jp/imgs/ogp_f/433282.jpg"
         },
         {
-            "author": "WIRED.jp",
-            "content": "Pixel 4a (5G)8Pixel 4a19Pixel 45PixelGalaxy S2069974800Pixel 489980\r\n5G5G4G LTE5G5G4G LTE\r\nPixelPixel\r\nPixel 4a2",
-            "description": "グーグルが新しいスマートフォン「Pixel 4a (5G)」と「Pixel 5」を発表した。シンプルでありながら盛り上がったグーグルのヴァーチャルイヴェントで9月30日（米国時間）に発表された、4つ",
-            "publishedAt": "2020-10-02T03:50:55Z",
+            "author": "ZDNet Japan",
+            "content": "Microsoft930PythonPlaywright for PythonGoogleChromeChromiumMicrosoft EdgeAppleSafariMozillaFirefox\r\nPlaywrightPythonPythonProgressive Web AppsPWA\r\nPlaywright for PythonWindowsLinuxmacOS\r\nAPIChromiumF… [+274 chars]",
+            "description": "Microsoftは米国時間9月30日、「Python」でテストを記述できる開発者向けツール「Playwright for Python」を発表した。Googleの「Chrome」、Chromiu",
+            "publishedAt": "2020-10-02T04:03:49Z",
             "source": {
                 "id": null,
                 "name": "Yahoo.co.jp"
             },
-            "title": "グーグルの「Pixel 5」は、リーズナブルな価格とシンプルさを武器に挽回を目指す（WIRED.jp） - Yahoo!ニュース",
-            "url": "https://news.yahoo.co.jp/articles/74e722758bb83678b27f3ebc656b1ec4a2fc37c4",
-            "urlToImage": "https://amd.c.yimg.jp/amd/20201002-00010000-wired-000-1-view.jpg"
+            "title": "マイクロソフト、ウェブアプリの自動テストツール「Playwright for Python」をプレビュー公開（ZDNet Japan） - Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/articles/11e3fb1384627fda43e8f65a86679821b8fdfa4e",
+            "urlToImage": "https://amd.c.yimg.jp/amd/20201002-35160370-zdnet-000-1-view.jpg"
+        },
+        {
+            "author": null,
+            "content": null,
+            "description": null,
+            "publishedAt": "2020-10-02T03:36:19Z",
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "title": "フィンランドでお掃除ロボット車発売（2020年10月2日） - テレ東NEWS",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9S2h3OEN5S3JmM2vSAQA?oc=5",
+            "urlToImage": null
         },
         {
             "author": "@GIGAZINE",
@@ -53,17 +79,17 @@
             "urlToImage": "https://i.gzn.jp/img/2020/10/02/mac-cant-watch-4k-netflix/00_m.jpg"
         },
         {
-            "author": null,
+            "author": "momozow",
             "content": null,
-            "description": "前編ではZ 5単体で実写した際に感じた事をメインにレビューを行いました。今回の後編では兄貴分に当たる同じ画素数のZ 6との比較検証をしています。裏面照射型CMOSセンサーと表面照射型CMOSセンサーの違いの他にどんな違いがあるのか？ 見てみたいと思います。",
-            "publishedAt": "2020-10-02T03:00:00Z",
+            "description": "1990年代に大ブームとなった「テトリス」の、公式携帯ミニゲームが発表されました！価格は1,650円で、すでにAmazonで予約が開始しています。 あの懐かしいテトリスを再び！ テトリス社公式「テトリ",
+            "publishedAt": "2020-10-02T03:09:00Z",
             "source": {
                 "id": null,
-                "name": "Impress.co.jp"
+                "name": "Appbank.net"
             },
-            "title": "Nikon Z 5（後編） - デジカメ Watch",
-            "url": "https://dc.watch.impress.co.jp/docs/review/newproduct/1278605.html",
-            "urlToImage": "https://dc.watch.impress.co.jp/img/dcw/list/1278/605/top.jpg"
+            "title": "テトリス社公式ライセンス取得! キーホルダー型「テトリスミニ」が予約開始! - AppBank",
+            "url": "https://www.appbank.net/2020/10/02/iphone-application/1971840.php",
+            "urlToImage": "https://imgc.appbank.net/c/wp-content/uploads/2020/10/61B6YSxLS9L._AC_SL1500_-1.jpg"
         },
         {
             "author": null,
@@ -107,19 +133,6 @@
         {
             "author": "@GIGAZINE",
             "content": null,
-            "description": "Googleが2020年10月1日に、Googleニュースの新サービスであるGoogleニュースの新サービスである「Googleニュース ショーケース」を発表しました。Googleはこのサービスを通じて、提携するニュース発行元に今後3年間で合計10億ドル(約1055億円)を支払うとしています。",
-            "publishedAt": "2020-10-02T02:26:15Z",
-            "source": {
-                "id": null,
-                "name": "Gigazine.net"
-            },
-            "title": "Googleが1000億円以上をニュースメディアに支払うと発表、なぜ危惧されているのか？ - GIGAZINE",
-            "url": "https://gigazine.net/news/20201002-google-news-showcase-pay-publishers/",
-            "urlToImage": "https://i.gzn.jp/img/2020/10/02/google-news-showcase-pay-publishers/00.png"
-        },
-        {
-            "author": "@GIGAZINE",
-            "content": null,
             "description": "人工知能技術に関する先端研究を行うトヨタ自動車傘下のトヨタ・リサーチ・インスティテュート(TRI)が、「天井」に設置する家庭用ロボット「Gantry Robot」のコンセプトモデルを発表しました。",
             "publishedAt": "2020-10-02T02:20:00Z",
             "source": {
@@ -129,6 +142,19 @@
             "title": "トヨタがコウモリのように天井からぶら下がる家庭用ロボットを発表 - GIGAZINE",
             "url": "https://gigazine.net/news/20201002-toyota-ceiling-mounted-home-robot/",
             "urlToImage": "https://i.gzn.jp/img/2020/10/02/toyota-ceiling-mounted-home-robot/00.jpg"
+        },
+        {
+            "author": null,
+            "content": "MUSINiBasso AudioUSB DACDC031092116,820() \r\n DACCS43131USB Type-CDAC2019DACDC01/0223.5mm \r\n S/N127dBTHD+N()&lt;0.00028%(-111dB)100iBasso \r\n DC02380mW@32IEM()USB Type-C4 \r\n 384kHz/32bitPCMDSD 11.2MHzA… [+119 chars]",
+            "description": "MUSINは、iBasso Audioブランドの小型USB DACアダプタ「DC03」を10月9日に発売する。予約受付は2日の11時から。価格はオープンプライスで、店頭予想価格6,820円前後(税込)",
+            "publishedAt": "2020-10-02T02:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "title": "iBasso、CS43131デュアル構成のUSB DACアダプタ - AV Watch",
+            "url": "https://av.watch.impress.co.jp/docs/news/1280359.html",
+            "urlToImage": "https://av.watch.impress.co.jp/img/avw/list/1280/359/dc03-3.jpg"
         },
         {
             "author": "@GIGAZINE",
@@ -157,6 +183,19 @@
             "urlToImage": "https://amd.c.yimg.jp/amd/20200929-00080156-chosun-000-5-view.jpg"
         },
         {
+            "author": "産経ニュース",
+            "content": "PR\r\nPR\r\nPR\r\n©2020 The Sankei Shimbun All rights reserved.",
+            "description": "米マイクロソフト（ＭＳ）は１日、自社ブランドのノートパソコン「サーフェス・ラップトップ・ゴー」を日本で１３日に発売すると発表した。新型コロナウイルス感染症の流行…",
+            "publishedAt": "2020-10-01T23:01:00Z",
+            "source": {
+                "id": null,
+                "name": "Sankei.com"
+            },
+            "title": "マイクロソフトが手頃なノートＰＣ発表 アップルに対抗 - 産経ニュース",
+            "url": "https://www.sankei.com/economy/news/201002/ecn2010020008-n1.html",
+            "urlToImage": "https://www.sankei.com/images/news/201002/ecn2010020008-p1.jpg"
+        },
+        {
             "author": "岡本玄介",
             "content": "PanasonicIoT\r\nLEDIoTAiSEG2\r\nImage: Panasonic\r\nHEMSHome Energy Management System\r\n19,7009,22014\r\nSource: Panasonic (1, 2, 3) via Watch",
             "description": "パナソニックがお手頃価格の家庭用の火災警報器｢IoT対応住宅用火災警報器｣を発売しました。出火元でアラームが鳴るだけではなく、子機では出火元をアナウンス。またHEMS製品やスマホと連動することも可能です。",
@@ -183,19 +222,6 @@
             "urlToImage": "https://image.news.livedoor.com/newsimage/stf/c/9/c9db4_1730_ce11269b_f5ab7da1.jpg"
         },
         {
-            "author": "佐藤由紀子，ITmedia",
-            "content": "Microsoft101PCSurface Laptop Go2in1PCSurface Pro XArmSQ 2Microsoft Store16GB256GB204380SQ 1\r\nSurface Pro XMicrosoft102in1QualcommArm\r\nMicrosoftSQ 2\r\n2WebEdgeWebTeamsArmWindows\r\n64bitx6411Windows Insi… [+61 chars]",
-            "description": "Microsoftが昨年10月に発表したArmベースの2in1ノート「Surface Pro X」のアップデートを発表した。独自プロセッサ「SQ 1」の強化版「SQ 2」を搭載し、新色プラチナを追加した。",
-            "publishedAt": "2020-10-01T22:09:00Z",
-            "source": {
-                "id": null,
-                "name": "Itmedia.co.jp"
-            },
-            "title": "「Surface Pro X」、新プロセッサ「SQ 2」と新色プラチナ追加のアップデート - ITmedia",
-            "url": "https://www.itmedia.co.jp/news/articles/2010/02/news051.html",
-            "urlToImage": "https://image.itmedia.co.jp/news/articles/2010/02/l_yu_prox1.jpg"
-        },
-        {
             "author": "ITmedia ビジネスオンライン",
             "content": "5G1\r\n10305G1010005G\r\n5G1016201843\r\n828NTTTOB15\r\nNTTNTT90NTT",
             "description": "9月29日、NTTは同社が支配株主となっている携帯子会社のNTTドコモを、TOB（株式公開買い付け） によって完全子会社化すると発表した。本件の発表前後でNTTドコモの株価は40%程度値上がりし、",
@@ -209,6 +235,19 @@
             "urlToImage": "https://amd.c.yimg.jp/amd/20201002-00000015-zdn_mkt-000-1-view.jpg"
         },
         {
+            "author": "＆GP",
+            "content": "5498.4Surface Laptop GoPro X",
+            "description": "9月17日に正式版がリリースされた「iPadOS 14」。従来のiPadでは弱点だった使い勝手の面に、改善された機能がいくつかあります。そこで、同バージョンを実際に試したうえで、作業効率を改善するた",
+            "publishedAt": "2020-10-01T21:06:33Z",
+            "source": {
+                "id": null,
+                "name": "Yahoo.co.jp"
+            },
+            "title": "アップデートで実現！iPadの作業効率が格段に上がる「iPadOS 14」の使い方（＆GP） - Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/articles/511cfb06830a53b880d3d52753aad5ca82d28802",
+            "urlToImage": "https://amd.c.yimg.jp/amd/20201002-00010000-andgp-000-1-view.jpg"
+        },
+        {
             "author": "@GIGAZINE",
             "content": null,
             "description": "iOS 14が2020年9月にリリースされ、iPhoneでホーム画面のカスタマイズが可能になりました。このiPhoneにカスタマイズできるアイコンセットを6日間で3626セット売り上げ、合計10万1528ドル(約1071万円)を得たクリエイターのTraf氏は「一時の成功のように見えますが、本当は何年もかかりました。約7年です」と述べ、成功までの経緯と秘密を自身のウェブサイトで語っています。",
@@ -220,45 +259,6 @@
             "title": "1000万円超を6日で稼いだiPhone用アイコンセット制作者が語る「成功の秘密」とは？ - GIGAZINE",
             "url": "https://gigazine.net/news/20201002-ios-14-custom-icon-success/",
             "urlToImage": "https://i.gzn.jp/img/2020/10/01/ios-14-custom-icon-success/00.jpg"
-        },
-        {
-            "author": "FT729",
-            "content": "5iPhoneWinFutureiPhone12 miniiPhone12iPhone12 ProiPhone12 Pro MaxiPhoneiPhoneiPhone11\r\nWinFutureiPhoneiPhone11Rosenblatt Securities20191220205G6iPhoneiPhone6.14G5GiPhoneiPhone11iPhone12iPhone11EarPod… [+134 chars]",
-            "description": "&nbsp;ドイツの小売店のデータベースに、5種類の新型iPhoneが登録されたと、独テック系メディアWinFutureが報じています。同メディアによれば、iPhone12 mini、iPhone12…",
-            "publishedAt": "2020-10-01T16:10:00Z",
-            "source": {
-                "id": null,
-                "name": "Iphone-mania.jp"
-            },
-            "title": "新型iPhoneは5モデル展開？カラーバリエーションが独小売店データベースで発見 - iPhone Mania",
-            "url": "https://iphone-mania.jp/news-316764/",
-            "urlToImage": "https://d3a3a5e2ntl4bk.cloudfront.net/uploads/2020/10/iPhone12-lineup.jpg"
-        },
-        {
-            "author": "Taijiro Yamanaka",
-            "content": null,
-            "description": "携帯ゲーム機「テトリス ミニ」発表。懐かしのキーホルダー型テトリス、公式ライセンスを取得し、3種類のゲームモードを収録。「テトリス ミニ」の価格は1500円（税抜）。",
-            "publishedAt": "2020-10-01T15:58:00Z",
-            "source": {
-                "id": null,
-                "name": "Automaton-media.com"
-            },
-            "title": "携帯ゲーム機「テトリス ミニ」発表。懐かしのキーホルダー型テトリス、公式ライセンスを取得し、3種類のゲームモードを収録 - AUTOMATON",
-            "url": "https://automaton-media.com/articles/newsjp/20201001-138565/",
-            "urlToImage": "https://automaton-media.com/wp-content/uploads/2020/10/20201001-138565-header.jpg"
-        },
-        {
-            "author": "ライフハッカー［日本版］",
-            "content": "iPad\r\niPad\r\niPad7\r\niPadiPad\r\n1. iOS\r\n2. \r\n3. \r\n4. \r\n5. \r\n6. \r\n7. \r\niPad\r\niPad\r\niPad\r\niPadOS\r\niPad\r\niOS\r\n5iPad67iPad\r\niPadiPadiPad\r\niPad\r\n1. iOS\r\nOS\r\niPadOS20199iPadOSOS\r\niPadOSiPad\r\n2019iPadOS 132014… [+21 chars]",
-            "description": "突然、iPadの動きがかなり遅くなったと感じることはありますか？\n\n昔は最新型だったデザインに今では感動することもなく、アプリの選択肢が少なくなったことで、自分のiPadが古くなったことに気づきます",
-            "publishedAt": "2020-10-01T13:19:50Z",
-            "source": {
-                "id": null,
-                "name": "Yahoo.co.jp"
-            },
-            "title": "症状出てる？ iPadの買い替え時がわかる7つのサイン（ライフハッカー［日本版］） - Yahoo!ニュース",
-            "url": "https://news.yahoo.co.jp/articles/db8665977ffd3a4c43f1a86120a1660e6af128be",
-            "urlToImage": "https://amd.c.yimg.jp/amd/20201001-00000007-biz_lifeh-000-1-view.jpg"
         }
     ],
     "status": "ok",
