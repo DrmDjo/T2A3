@@ -45,9 +45,10 @@ def get_transliteration(to_translit):
     
     #print(trans_dict)
     transliteration = trans_dict[0]['text']
-    print(transliteration)
+    #print(transliteration)
     
     return transliteration
     
     
 get_transliteration("電話番号")
+

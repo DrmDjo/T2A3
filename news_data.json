@@ -1,30 +1,147 @@
 {
     "articles": [
         {
-            "author": null,
-            "content": "Surface Laptop Surface Laptop Go \r\n Surface Laptop 12.4 \r\n10 Intel Core i513 / 84480\r\nSurface laptop 13.515 Surface Laptop Go 12.4\r\n Laptop 3 13.51265-1288gLaptop Go1110g\r\n SurfaceSurface Laptop Go 8… [+98 chars]",
-            "description": "マイクロソフトが Surface Laptop の新製品 Surface Laptop Go を発表しました。",
-            "publishedAt": "2020-10-01T13:43:13Z",
+            "author": "@GIGAZINE",
+            "content": null,
+            "description": "Appleが、iPhoneやiPad、Apple Watchといった端末を違法に転売してきたカナダの電子機器リサイクル業者であるGeepを訴えました。",
+            "publishedAt": "2020-10-02T01:24:00Z",
             "source": {
-                "id": "engadget",
-                "name": "Engadget"
+                "id": null,
+                "name": "Gigazine.net"
             },
-            "title": "Surface Laptop Go発表。12.4インチで8万円台からの軽量ノート - Engadget日本版",
-            "url": "https://japanese.engadget.com/laptop-go-133954911.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-09/5daf5d16-02d7-11eb-bfeb-23f48df3b194"
+            "title": "10万台超のApple端末を違法に転売してきたリサイクル業者をAppleが訴える - GIGAZINE",
+            "url": "https://gigazine.net/news/20201002-apple-recycler-illegally-reselling/",
+            "urlToImage": "https://i.gzn.jp/img/2020/10/02/apple-recycler-illegally-reselling/00_m.jpg"
+        },
+        {
+            "author": "@GIGAZINE",
+            "content": null,
+            "description": "Apple製品向けの脱獄ツールである「checkra1n」が、バージョン0.11.0 betaでMac向けのセキュリティチップである「T2」に搭載されている「bridgeOS」の脱獄に対応しました。これにより、Touch BarへのSSHアクセスなどが可能になります。",
+            "publishedAt": "2020-10-01T23:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "title": "AppleのMac向けセキュリティチップ「T2」に脱獄ツールが対応、Touch Barへの侵入などが可能に - GIGAZINE",
+            "url": "https://gigazine.net/news/20201002-apple-t2-jailbreak/",
+            "urlToImage": "https://i.gzn.jp/img/2020/10/02/apple-t2-jailbreak/00.jpg"
         },
         {
             "author": null,
-            "content": "Snapdragon 8cxSQ1SQ2SKUSurface Pro X\r\n Surface Pro X(2019)10Surface Pro XMicrosoft SQ2(SQ2)SoC \r\n<table>1Surface Pro X\r\n<tr><th></th><th>Surface Pro X </th></tr><tr><td>CPU</td><td>Microsoft SQ1/SQ2<… [+1548 chars]",
-            "description": "Microsoftは10月1日(現地時間)に「Surface Pro X」のリフレッシュ版を発表した。今回のリフレッシュでは、現行製品はそのまま据え置かれるが、最上位として新型SoC(System On a Chip)となる「Microsoft SQ2」を搭載した製品が追加された。また、新しいカラーバリエーションとしてプラチナカラーが追加される。",
+            "content": "3440\r\n2016317440\r\n 15\r\n2020C19\r\n23\r\n1\r\n2-3\r\n2019\r\nGPS\r\nOrbis Guide\r\n23\r\n()\r\nSONYSNC-VB770SONYEFE 70-200mm F2.8\r\n?\r\nSNS",
+            "description": "3、4年前から導入が進み、全国各地で運用されている「移動式オービス」。最近になって「光電管方式」による取締りが実施されていることが分かった。従来とは違うアナログな方式のため、最新の探知機でも探知は不可能とされる",
+            "publishedAt": "2020-10-01T22:10:00Z",
+            "source": {
+                "id": null,
+                "name": "Livedoor.com"
+            },
+            "title": "光電管方式の移動オービスによる取締り 従来の探知機ではお手上げ - livedoor",
+            "url": "https://news.livedoor.com/article/detail/18989816/",
+            "urlToImage": "https://image.news.livedoor.com/newsimage/stf/c/9/c9db4_1730_ce11269b_f5ab7da1.jpg"
+        },
+        {
+            "author": "ITmedia ビジネスオンライン",
+            "content": "5G1\r\n10305G1010005G\r\n5G1016201843\r\n828NTTTOB15\r\nNTTNTT90NTT",
+            "description": "9月29日、NTTは同社が支配株主となっている携帯子会社のNTTドコモを、TOB（株式公開買い付け） によって完全子会社化すると発表した。本件の発表前後でNTTドコモの株価は40%程度値上がりし、",
+            "publishedAt": "2020-10-01T22:05:10Z",
+            "source": {
+                "id": null,
+                "name": "Yahoo.co.jp"
+            },
+            "title": "NTTから分離したドコモ、28年で元サヤに 真の狙いは？（ITmedia ビジネスオンライン） - Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/articles/4c842ffc5d5f3041f6239dd22ca744d6c02b9c8d",
+            "urlToImage": "https://amd.c.yimg.jp/amd/20201002-00000015-zdn_mkt-000-1-view.jpg"
+        },
+        {
+            "author": "＆GP",
+            "content": "5498.4Surface Laptop GoPro X",
+            "description": "9月17日に正式版がリリースされた「iPadOS 14」。従来のiPadでは弱点だった使い勝手の面に、改善された機能がいくつかあります。そこで、同バージョンを実際に試したうえで、作業効率を改善するた",
+            "publishedAt": "2020-10-01T21:06:33Z",
+            "source": {
+                "id": null,
+                "name": "Yahoo.co.jp"
+            },
+            "title": "アップデートで実現！iPadの作業効率が格段に上がる「iPadOS 14」の使い方（＆GP） - Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/articles/511cfb06830a53b880d3d52753aad5ca82d28802",
+            "urlToImage": "https://amd.c.yimg.jp/amd/20201002-00010000-andgp-000-1-view.jpg"
+        },
+        {
+            "author": "@GIGAZINE",
+            "content": null,
+            "description": "iOS 14が2020年9月にリリースされ、iPhoneでホーム画面のカスタマイズが可能になりました。このiPhoneにカスタマイズできるアイコンセットを6日間で3626セット売り上げ、合計10万1528ドル(約1071万円)を得たクリエイターのTraf氏は「一時の成功のように見えますが、本当は何年もかかりました。約7年です」と述べ、成功までの経緯と秘密を自身のウェブサイトで語っています。",
+            "publishedAt": "2020-10-01T21:00:00Z",
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "title": "1000万円超を6日で稼いだiPhone用アイコンセット制作者が語る「成功の秘密」とは？ - GIGAZINE",
+            "url": "https://gigazine.net/news/20201002-ios-14-custom-icon-success/",
+            "urlToImage": "https://i.gzn.jp/img/2020/10/01/ios-14-custom-icon-success/00.jpg"
+        },
+        {
+            "author": "ライフハッカー［日本版］",
+            "content": "iPad\r\niPad\r\niPad7\r\niPadiPad\r\n1. iOS\r\n2. \r\n3. \r\n4. \r\n5. \r\n6. \r\n7. \r\niPad\r\niPad\r\niPad\r\niPadOS\r\niPad\r\niOS\r\n5iPad67iPad\r\niPadiPadiPad\r\niPad\r\n1. iOS\r\nOS\r\niPadOS20199iPadOSOS\r\niPadOSiPad\r\n2019iPadOS 132014… [+21 chars]",
+            "description": "突然、iPadの動きがかなり遅くなったと感じることはありますか？\n\n昔は最新型だったデザインに今では感動することもなく、アプリの選択肢が少なくなったことで、自分のiPadが古くなったことに気づきます",
+            "publishedAt": "2020-10-01T13:19:50Z",
+            "source": {
+                "id": null,
+                "name": "Yahoo.co.jp"
+            },
+            "title": "症状出てる？ iPadの買い替え時がわかる7つのサイン（ライフハッカー［日本版］） - Yahoo!ニュース",
+            "url": "https://news.yahoo.co.jp/articles/db8665977ffd3a4c43f1a86120a1660e6af128be",
+            "urlToImage": "https://amd.c.yimg.jp/amd/20201001-00000007-biz_lifeh-000-1-view.jpg"
+        },
+        {
+            "author": "的野裕子, MakeUseOf",
+            "content": "iPad\r\niPad\r\niPadiPad\r\niPad\r\niPad\r\niPadOS\r\niPad\r\n<ol><li>iOS</li><li></li><li></li><li></li><li></li><li></li><li></li></ol>5iPad67iPad\r\niPadiPadiPad\r\niPad\r\n1. iOS\r\nOS\r\niPadOS20199iPadOSOS\r\niPadOSiPad… [+565 chars]",
+            "description": "突然、iPadの動きがかなり遅くなったと感じることはありますか？今回は、iPadの買い替え時がわかるサインをお教えします。",
+            "publishedAt": "2020-10-01T13:05:00Z",
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "title": "症状出てる？ iPadの買い替え時がわかる7つのサイン - Lifehacker JAPAN",
+            "url": "https://www.makeuseof.com/tag/5-signs-time-upgrade-ipad/",
+            "urlToImage": "https://assets.media-platform.com/lifehacker/dist/images/2020/09/29/200925_iPad_01-w960.jpg"
+        },
+        {
+            "author": null,
+            "content": "4Core i5-1035G1\r\n Surface Laptop GoSurface LaptopSurface Laptop 3 13.5Surface Laptop 3 15GoSurface Go 2 \r\n<table>Surface Laptop GoSurface Laptop 3 13.5Surface Laptop 3 15Surface Go 2\r\n<tr><th></th><t… [+3664 chars]",
+            "description": "Microsoftは10月1日(現地時間)に、低価格クラムシェルノート「Surface Laptop Go」を発表した。",
             "publishedAt": "2020-10-01T13:00:00Z",
             "source": {
                 "id": null,
                 "name": "Impress.co.jp"
             },
-            "title": "「Surface Pro X」が刷新。新プロセッサ「SQ2」搭載 - PC Watch",
-            "url": "https://pc.watch.impress.co.jp/docs/news/1280217.html",
-            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1280/217/001.jpg"
+            "title": "Microsoft、549ドルからの12.45型モバイルノート「Surface Laptop Go」 - PC Watch",
+            "url": "https://pc.watch.impress.co.jp/docs/news/1280226.html",
+            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1280/226/001.jpg"
+        },
+        {
+            "author": null,
+            "content": null,
+            "description": "東京証券取引所での取引停止の原因となったシステム障害。富士通は納入したハードウエアに障害が生じ、多大な迷惑をかけたとして謝罪。今後、東証と連携して再発防止に努めるとしている",
+            "publishedAt": "2020-10-01T12:55:00Z",
+            "source": {
+                "id": null,
+                "name": "Livedoor.com"
+            },
+            "title": "東証と連携して再発防止に努力 富士通がシステム障害で謝罪 - livedoor",
+            "url": "https://news.livedoor.com/article/detail/18988474/",
+            "urlToImage": "https://image.news.livedoor.com/newsimage/stf/f/b/fbc89_1675_593f39c5d485855f725d59db8546d6d0.jpg"
+        },
+        {
+            "author": null,
+            "content": "iPod nano7Apple\r\niPod nano\r\nAppleiPod nano7iPod touch5iPod nano5775Apple\r\niPod\r\niPod miniiPod nano20059720129720106iPodiPodiPod touch7iPhoneiPod nanoPCMacmp3aaciTunesiPodApple MusicSource:MacRumors(k… [+6 chars]",
+            "description": "Appleが、iPod nano（第7世代）を正式にビンテージ製品のリストに加えた。iPod nanoは全モデルが「ビンテージ製品とオブソリート製品」の対象に。リスト入りした製品は、公式サポートを原則として受けられなくなる",
+            "publishedAt": "2020-10-01T12:06:00Z",
+            "source": {
+                "id": null,
+                "name": "Livedoor.com"
+            },
+            "title": "Appleが正式にリストに加える 最後のiPod nano「ビンテージ製品」に - livedoor",
+            "url": "https://news.livedoor.com/article/detail/18988340/",
+            "urlToImage": "https://image.news.livedoor.com/newsimage/stf/d/7/d7908_1400_474484a227110244d3937fb3fb265aa2.png"
         },
         {
             "author": null,
@@ -53,17 +170,17 @@
             "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXMZO6445849001102020000002-KB2.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=scale&h=500&ixlib=java-1.2.0&s=03c3138a0cc2a88ce252092dc490ba44"
         },
         {
-            "author": "ライター：矢作 晃",
-            "content": "2020930Xiaomi CorporationXiaomi5GMi 10T ProMi 10T144HzSoCSystem-on-a-ChipSnapdragon 865<ul><li>Mi 10T Pro8GB256GB64988GB128GB59974000</li><li>Mi 10T6GB256GB549&lt;680006GB128GB49962000</li></ul>Mi 10… [+2060 chars]",
-            "description": "中国時間2020年9月30日，Xiaomiは，5G通信に対応したスマートフォン新製品「Mi 10T Pro」および「Mi 10T」を世界市場に向けて発表した。144Hz表示に対応した約6.67インチサイズの液晶ディスプレイとSnapdragon 865を採用したハイエンドモデルとなる。",
-            "publishedAt": "2020-10-01T10:42:54Z",
+            "author": null,
+            "content": null,
+            "description": null,
+            "publishedAt": "2020-10-01T11:00:16Z",
             "source": {
-                "id": null,
-                "name": "4gamer.net"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "title": "Xiaomi，5G対応のハイエンドスマートフォン「Mi 10T」シリーズを発表。Snapdragon 865＆144Hz表示ディスプレイを搭載 - 4Gamer.net",
-            "url": "https://www.4gamer.net/games/990/G999019/20201001085/",
-            "urlToImage": "https://www.4gamer.net/games/990/G999019/20201001085/SS/001.jpg"
+            "title": "インタラクティブストーリーズ featuring 鬼頭明里＃1-A【 #アルトデウスBC #あかりんVR 】 - Chronos Series Channel",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9alVKdUp4cUIxa1HSAQA?oc=5",
+            "urlToImage": null
         },
         {
             "author": "ギズモード・ジャパン",
@@ -77,19 +194,6 @@
             "title": "【10/1更新】iPhone 12関連リーク情報まとめ：発売日・サイズ・価格など（ギズモード・ジャパン） - Yahoo!ニュース",
             "url": "https://news.yahoo.co.jp/articles/db6be0dd8703a7f236751a846af0409fc511207b",
             "urlToImage": "https://amd.c.yimg.jp/amd/20201001-00000016-giz-000-1-view.jpg"
-        },
-        {
-            "author": "日本経済新聞社",
-            "content": "2020/10/1 18:25\r\n120219300\r\nVTR197390300\r\n201216\r\n18\r\n203110311%",
-            "description": "パナソニックは１日、2021年９月末をめどに業務用ビデオカメラを生産する岡山市の工場を閉鎖すると発表した。製品の生産は大阪府門真市の工場に移し、社員約300人も同工場などに引き継ぐ。東芝も埼玉県のブ",
-            "publishedAt": "2020-10-01T09:25:02Z",
-            "source": {
-                "id": null,
-                "name": "Nikkei.com"
-            },
-            "title": "パナソニック、岡山工場を閉鎖 業務用ビデオカメラ生産 - 日本経済新聞",
-            "url": "https://www.nikkei.com/article/DGXMZO64486790R01C20A0TJ2000/",
-            "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXMZO6029491012062020000006-KB2.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=max&ixlib=java-1.2.0&s=4324d89a0627ce0b265baa5cf5a6c2cb"
         },
         {
             "author": "puzzdora",
@@ -118,6 +222,19 @@
             "urlToImage": "https://gadgets.evolves.biz/wp-content/uploads/2020/10/primesdada-1024x1024.jpg"
         },
         {
+            "author": null,
+            "content": "PASMO1106Apple PayPASMOiPhoneApple WatchPASMO \r\n ICPASMOAndroidPASMO318",
+            "description": "PASMO協議会は1日、10月6日よりApple PayのPASMOに対応する。iPhoneやApple WatchのPASMOで電車やバスに乗車できるようになる。",
+            "publishedAt": "2020-10-01T05:38:42Z",
+            "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "title": "iPhoneで「PASMO」、10月6日スタート。Apple Watchも - Impress Watch",
+            "url": "https://www.watch.impress.co.jp/docs/news/1280255.html",
+            "urlToImage": "https://www.watch.impress.co.jp/img/ipw/list/1280/255/pasmo1.jpg"
+        },
+        {
             "author": "MACお宝鑑定団",
             "content": "MicrosoftAppleXboxApple TV AppWindows Central\r\nLGSamsungApple TV App\r\nXbox Series S Xbox Series X1110\r\nCopyright (C) 1998 Mac Treasure Tracing Club. All rights reserved.",
             "description": "Xbox Series Xは、Apple TVが動くセットトップボックスにできるようだ。",
@@ -131,19 +248,6 @@
             "urlToImage": "https://image.itmedia.co.jp/news/articles/2010/01/cover_news114.jpg"
         },
         {
-            "author": "乗りものニュース",
-            "content": "PASMO2020101ICPASMO106iPhoneApple WatchApple Pay\r\nPASMO \r\nICApple PayJRSuica2016282",
-            "description": "PASMO協議会は2020年10月1日（木）、交通系ICカード「PASMO」について、10月6日（火）よりiPhoneやApple Watch端末で決済ができる「Apple Pay」に対応すること",
-            "publishedAt": "2020-10-01T05:32:37Z",
-            "source": {
-                "id": null,
-                "name": "Yahoo.co.jp"
-            },
-            "title": "PASMOが「Apple Pay」に対応 iPhoneやApple Watchで支払い可に 10月6日から（乗りものニュース） - Yahoo!ニュース",
-            "url": "https://news.yahoo.co.jp/articles/e77d46351b1a13763d0dbd41afa1eb4c035c8d92",
-            "urlToImage": "https://amd.c.yimg.jp/amd/20201001-00010004-norimono-000-19-view.jpg"
-        },
-        {
             "author": "kotobaya",
             "content": "NTTdddd50dd\r\nd10110311ddddd50ddddddd\r\n1050\r\nd1102303502,000\r\n<li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li… [+27 chars]",
             "description": "&nbsp;NTTドコモは、全国の対象dポイント加盟店かつd払い加盟店でdポイントカードを提示し、d払いで支払いをすると、最大50％のdポイントが還元される「d払いお買物ラリー」を開始しました。キャン…",
@@ -155,110 +259,6 @@
             "title": "ドコモ、dポイントカード提示＋d払いで最大50％還元キャンペーン開始 - iPhone Mania",
             "url": "https://iphone-mania.jp/news-316585/",
             "urlToImage": "https://d3a3a5e2ntl4bk.cloudfront.net/uploads/2020/10/343166254352117d17f4948db67acf34-e1601529282240.jpg"
-        },
-        {
-            "author": null,
-            "content": "9305GNTTKDDI45G5G\"5G\"2980 \"\"?\r\nNTT5G5GKDDI4G5G5G\r\nNTTauKDDI3GcdmaOne3G3G5G4K5G5G\r\nABEMAABEMA Prime​​​​​​​",
-            "description": "9月30日に楽天が5Gプランを発表し、携帯電話4社の5Gサービスが出揃った。ただ、現状について業界では、まだ「なんちゃって5G」との声もあるという。現時点で5Gのスピードを楽しめるものはあまりないと思うと元ドコモ執行役員",
-            "publishedAt": "2020-10-01T05:12:00Z",
-            "source": {
-                "id": null,
-                "name": "Livedoor.com"
-            },
-            "title": "現状の5Gサービスは「なんちゃって」状態？恩恵少ない状態か - livedoor",
-            "url": "https://news.livedoor.com/article/detail/18985580/",
-            "urlToImage": "https://image.news.livedoor.com/newsimage/stf/9/b/9b021_1585_80287ebc51de1f0176e6ee1d8513a5ad.jpg"
-        },
-        {
-            "author": null,
-            "content": "wena3wena 3101112724000\r\nwenaBluetooth\r\n3wena 3wena wristwenawena 3\r\nELEL\r\n18-24mm1mm7\r\nSuicaJR\r\nSuicawenaFeliCaSuica\r\nJRSuicaSuicaSuica\r\nJRSuica\r\nSuicaiOS / Androidwena24\r\nSuicaJRSuicaEdyIDQUICPayiO… [+82 chars]",
-            "description": "ソニーのスマートウォッチ wenaシリーズに第3世代「wena 3」が登場しました。本日（10月1日）より予約受付を開始し、11月27日より発売予定。希望小売価格は時計ヘッドが付属しない本体が税別3万3000円前後です。",
-            "publishedAt": "2020-10-01T05:05:38Z",
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "title": "ついにSuica対応、ソニー新スマートウォッチwena 3発表 - Engadget日本版",
-            "url": "https://japanese.engadget.com/suica-wena-sony-050136555.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-10/ad5ac5b0-03a0-11eb-bbfd-6241bc01cb10"
-        },
-        {
-            "author": "Pachi",
-            "content": null,
-            "description": "「すき間時間がなくなった」って声をよく耳にするようになりました。それからちょっとした雑談もずいぶん減ってしまったって。COVIDの関係で、オンラインでの活動が増えたり必要時以外に口を開くことがためらわれたり。 乗り合わせ […]",
-            "publishedAt": "2020-10-01T05:01:59Z",
-            "source": {
-                "id": null,
-                "name": "Ibm.com"
-            },
-            "title": "都会型の会話と田舎型の会話 - Pachi - the Collaboration Energizer - ibm.com",
-            "url": "https://www.ibm.com/blogs/pachi/dialoguestyle/",
-            "urlToImage": "https://www.ibm.com/blogs/pachi/wp-content/uploads/2020/09/DialogueStyle.jpg"
-        },
-        {
-            "author": "編集部：さがさん",
-            "content": null,
-            "description": "日本一ソフトウェアは本日（2020年10月1日），買い切り型アプリブランド「ゲームバラエティー」の新タイトルとして，スマホ版「殺人探偵ジャック・ザ・リッパー」をリリースした。本作は，殺人鬼・切り裂きジャックを題材としたフルボイスのノベルアドベンチャーだ。",
-            "publishedAt": "2020-10-01T04:42:53Z",
-            "source": {
-                "id": null,
-                "name": "4gamer.net"
-            },
-            "title": "スマホ版「殺人探偵ジャック・ザ・リッパー」が本日配信。新規録り下ろしのボイスドラマや新機能“サウンドルーム”が追加 - 4Gamer.net",
-            "url": "https://www.4gamer.net/games/532/G053268/20201001035/",
-            "urlToImage": "https://www.4gamer.net/games/532/G053268/20201001035/TN/008.jpg"
-        },
-        {
-            "author": null,
-            "content": "Microsoft30()Windows 10 Insider PreviewBuild 20226Dev Channel \r\n NVMe SSD()SSD \r\n (Your Phone) \r\n WSL2The remote procedure call failed",
-            "description": "Microsoftは30日(現地時間)、Windows 10 Insider Preview「Build 20226」をDev Channel向けに提供開始した。",
-            "publishedAt": "2020-10-01T04:28:13Z",
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "title": "Windows 10プレビュー版、NVMe SSDの異常を検知/通知する機能 - PC Watch",
-            "url": "https://pc.watch.impress.co.jp/docs/news/1280224.html",
-            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1280/224/01.jpg"
-        },
-        {
-            "author": "そうこ",
-            "content": "Copyright © mediagene Inc. All Rights Reserved.",
-            "description": "Pixel 5の背面パネルはリサイクルアルミニウム。なのに、ワイヤレス充電対応。…あれ、ワイヤレス充電って背面金属だとダメだよね？ え、新しいテクノロジー？  簡単なトリックがありました",
-            "publishedAt": "2020-10-01T04:10:00Z",
-            "source": {
-                "id": null,
-                "name": "Gizmodo.jp"
-            },
-            "title": "Pixel 5って背面パネルが金属なのに、どうやってワイヤレス充電してるの？ - GIZMODO JAPAN",
-            "url": "https://www.gizmodo.jp/2020/10/pixel5-charge.html",
-            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2020/10/01/201001ggk04-1-w960.jpg"
-        },
-        {
-            "author": null,
-            "content": "10111SIMOCN ONESAEXperia 10 II1023\r\n1,800XiaomiRedmi Note 9S\r\nSIMXperia 10 IISONYOCN ONEXperia 10 IIXperia 10 II\r\n1OPPO A5 2020Redmi Note 9S1\r\nSAE\r\nOCNONESAE\r\nXperia 10 II\r\n27,80030,58022,80025,080\r\n… [+1708 chars]",
-            "description": "10月1日の午前11時から、格安SIMの『OCN モバイル ONE』では『秋の人気スマホSAE』が開催されています。今回は新規取り扱い端末として『Xperia 10 II』が追加され、いきなりセールの対象に。セール期間は10月23日（金）までとなっていますが、人気端末に関してはそれまでに間違いなく『品切れ』となるのでご注意ください！ 今回の品切れ候補の筆頭となるのは、『1,800円～』という過去最",
-            "publishedAt": "2020-10-01T03:50:00Z",
-            "source": {
-                "id": null,
-                "name": "Evolves.biz"
-            },
-            "title": "シャオミ、エクスペリア、オッポ、アクオスが1円～！秋の人気スマホSALEがスタート！即買い必須の品切れ候補はコレだ！ - ハイパーガジェット通信",
-            "url": "https://gadgets.evolves.biz/2020/10/01/autumnsmartphonesale10/",
-            "urlToImage": "https://gadgets.evolves.biz/wp-content/uploads/2020/10/akinosumahosake-1024x1024.jpg"
-        },
-        {
-            "author": null,
-            "content": null,
-            "description": "Googleは、ビデオ会議サービス「Google Meet」（無料版）における利用時間の制限撤廃措置を9月末で終わらせるとしていたが、期限を延長し、2021年3月31日まで続けると発表した。",
-            "publishedAt": "2020-10-01T03:46:00Z",
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "title": "無料版「Google Meet」、使い放題期間を2021年3月末まで延長--最長で24時間連続 - CNET Japan",
-            "url": "https://japan.cnet.com/article/35160312/",
-            "urlToImage": "https://japan.cnet.com/storage/2020/10/01/e7fbd1c731053a6797792b267df30ec4/t/640/480/d/2020_10_01_sato_nobuhiko_001_image_00.jpg"
         }
     ],
     "status": "ok",
