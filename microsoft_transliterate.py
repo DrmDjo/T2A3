@@ -50,5 +50,5 @@ def get_transliteration(to_translit):
     return transliteration
     
     
-get_transliteration("電話番号")
+#get_transliteration("電話番号")
 

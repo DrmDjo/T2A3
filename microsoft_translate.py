@@ -1,7 +1,7 @@
 import requests
 import re
 
-
+#API call to microsoft translate via rapidapi returns xml string
 def get_translation(translate_text):
     
     text = translate_text
@@ -23,9 +23,9 @@ def get_translation(translate_text):
     
     #print(response.text)
     output = response.text
-    #Strip HTML Tags
-    get_html_config = re.compile('<.*?>')
-    just_translated_text = re.sub(get_html_config, '', output)
+    #Strip XML Tags
+    get_xml_config = re.compile('<.*?>')
+    just_translated_text = re.sub(get_xml_config, '', output)
     
     #print(just_translated_text)
     return just_translated_text

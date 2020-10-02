@@ -3,7 +3,7 @@ import json
 import config
 
 
-# API call to Google Translate Api and translate given text and copy into JSON
+# API call to Google Translate Api and translate given text and returns JSON
 def get_translation(to_translate):
 
     url = "https://google-translate20.p.rapidapi.com/translate"
