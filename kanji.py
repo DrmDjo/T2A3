@@ -13,7 +13,7 @@ def delete_kanji_JSON():
         #print("The file does not exist")
         pass
 
-# API call to Kanji Alive Api and copy into JSON
+# API call to Kanji Alive-Api and copy into JSON
 def write_kanji():
     try:
         to_unicode = unicode
